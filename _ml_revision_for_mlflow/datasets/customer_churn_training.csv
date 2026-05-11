@@ -1,0 +1,601 @@
+customer_id,age,tenure_months,monthly_charges,total_usage_gb,support_tickets,late_payments,contract_type,payment_method,city_tier,internet_service,num_products,churn
+CUST10000,58,66,2630.74,15.71,0,0,Month-to-month,Net Banking,Tier 1,Fiber,3,0
+CUST10001,48,5,1971.23,144.06,1,2,One year,UPI,Tier 2,DSL,1,0
+CUST10002,34,29,2071.94,40.57,2,1,One year,UPI,Tier 3,Fiber,1,0
+CUST10003,62,37,1515.34,81.32,1,0,Two year,Debit Card,Tier 3,Fiber,2,0
+CUST10004,27,38,1853.74,120.11,2,0,Month-to-month,Net Banking,Tier 2,DSL,2,0
+CUST10005,40,8,1553.82,133.02,0,0,One year,UPI,Tier 1,DSL,2,0
+CUST10006,58,65,1816.89,66.75,1,2,One year,,Tier 2,Fiber,4,0
+CUST10007,38,17,3237.55,15.16,3,2,Two year,UPI,Tier 1,5G Home,4,0
+CUST10008,42,71,1835.42,67.92,2,0,Month-to-month,Net Banking,Tier 2,DSL,1,0
+CUST10009,30,45,4342.67,111.73,2,0,One year,Cash,Tier 1,Fiber,4,0
+CUST10010,30,4,2845.32,90.94,0,1,One year,Cash,Tier 1,DSL,4,1
+CUST10011,43,36,2629.39,122.29,1,1,Month-to-month,Debit Card,Tier 2,DSL,3,0
+CUST10012,55,70,1899.15,161.71,0,1,Month-to-month,Net Banking,Tier 2,DSL,4,0
+CUST10013,59,31,2990.22,84.29,2,2,Month-to-month,UPI,Tier 1,DSL,3,1
+CUST10014,43,19,2097.05,72.04,0,1,One year,UPI,Tier 1,DSL,2,0
+CUST10015,22,61,2585.41,55.5,0,1,Two year,Cash,Tier 3,Fiber,3,0
+CUST10016,41,54,4292.06,40.43,0,0,One year,Cash,Tier 2,5G Home,3,0
+CUST10017,21,39,2432.76,34.09,0,1,One year,Credit Card,Tier 1,DSL,2,0
+CUST10018,43,19,3304.49,,0,2,One year,Cash,Tier 1,Fiber,2,1
+CUST10019,63,39,2007.78,151.0,2,1,Month-to-month,Credit Card,Tier 1,DSL,1,1
+CUST10020,49,67,2475.51,128.1,1,0,Month-to-month,UPI,Tier 3,5G Home,1,0
+CUST10021,57,45,3739.56,70.24,5,0,Month-to-month,Credit Card,Tier 2,5G Home,1,0
+CUST10022,21,13,2061.12,238.58,0,4,Month-to-month,Credit Card,Tier 2,Fiber,1,0
+CUST10023,40,58,3768.71,65.62,3,0,Month-to-month,Debit Card,Tier 2,Fiber,3,0
+CUST10024,52,20,2995.43,169.17,0,1,One year,Cash,Tier 1,DSL,3,0
+CUST10025,31,72,2106.27,188.58,2,0,Month-to-month,Credit Card,Tier 3,Fiber,1,0
+CUST10026,41,61,2942.69,115.5,1,0,Month-to-month,UPI,Tier 2,5G Home,4,0
+CUST10027,63,39,3180.79,62.9,2,1,Month-to-month,Net Banking,Tier 1,Fiber,1,0
+CUST10028,44,1,2935.27,75.27,2,0,Month-to-month,Credit Card,Tier 1,Fiber,4,1
+CUST10029,46,3,1400.84,100.79,0,1,Two year,Cash,Tier 2,Fiber,2,0
+CUST10030,61,62,1991.0,41.12,2,1,Two year,Debit Card,Tier 3,Fiber,3,0
+CUST10031,47,63,2326.74,52.58,2,1,One year,UPI,Tier 1,DSL,3,0
+CUST10032,35,25,2447.9,50.13,1,0,Month-to-month,Debit Card,Tier 3,Fiber,4,0
+CUST10033,34,56,2934.47,119.83,1,1,One year,Net Banking,Tier 2,Fiber,1,0
+CUST10034,63,33,2624.39,160.95,1,0,Two year,Credit Card,Tier 1,Fiber,3,0
+CUST10035,22,38,1565.26,130.57,0,1,One year,Credit Card,Tier 1,DSL,4,0
+CUST10036,56,6,2766.14,148.09,2,2,Month-to-month,Cash,Tier 1,Fiber,2,1
+CUST10037,26,58,2927.41,60.0,2,1,One year,Credit Card,Tier 2,DSL,2,0
+CUST10038,40,44,2891.85,77.07,0,0,Two year,UPI,Tier 1,DSL,3,0
+CUST10039,28,45,3256.55,80.18,0,0,One year,Net Banking,Tier 1,DSL,1,0
+CUST10040,58,32,3083.75,,0,1,One year,Debit Card,Tier 2,5G Home,4,0
+CUST10041,37,45,2821.43,64.18,0,0,Month-to-month,Net Banking,Tier 2,5G Home,3,0
+CUST10042,23,61,2450.88,143.64,0,0,One year,Credit Card,Tier 1,5G Home,2,0
+CUST10043,44,47,1337.33,186.03,4,1,Month-to-month,Debit Card,Tier 1,Fiber,1,0
+CUST10044,33,21,2800.73,118.19,1,1,One year,Cash,Tier 2,Fiber,4,0
+CUST10045,28,36,2645.38,75.28,0,2,Month-to-month,Net Banking,Tier 2,Fiber,3,0
+CUST10046,45,19,2690.11,57.08,2,1,Month-to-month,Debit Card,Tier 3,5G Home,4,0
+CUST10047,21,20,1606.28,50.2,2,1,Month-to-month,Debit Card,Tier 1,5G Home,1,1
+CUST10048,39,57,,26.08,2,0,One year,,Tier 3,5G Home,1,0
+CUST10049,47,18,3237.21,81.48,1,2,Month-to-month,UPI,Tier 2,Fiber,2,0
+CUST10050,26,47,2472.31,79.04,3,0,One year,Net Banking,Tier 2,5G Home,1,0
+CUST10051,63,49,2977.05,139.34,1,2,One year,Debit Card,Tier 2,Fiber,3,0
+CUST10052,27,14,2519.82,66.49,1,2,Month-to-month,Net Banking,Tier 1,Fiber,4,0
+CUST10053,54,15,2520.83,83.9,5,2,Month-to-month,Debit Card,Tier 1,Fiber,1,1
+CUST10054,33,31,3156.8,105.87,1,0,Month-to-month,Cash,Tier 2,Fiber,1,0
+CUST10055,36,1,2138.77,117.24,1,0,Two year,Cash,Tier 2,DSL,3,0
+CUST10056,55,54,2567.28,131.54,1,0,One year,Cash,Tier 2,Fiber,4,0
+CUST10057,59,3,2176.41,100.61,0,0,Month-to-month,Credit Card,Tier 1,Fiber,4,1
+CUST10058,23,16,2195.85,42.55,0,0,Month-to-month,Debit Card,Tier 3,DSL,2,0
+CUST10059,21,57,2283.58,112.16,0,1,One year,Credit Card,Tier 2,5G Home,2,0
+CUST10060,25,12,2655.49,63.89,2,0,Two year,Net Banking,Tier 1,DSL,4,0
+CUST10061,61,16,2164.88,164.64,0,1,Two year,Credit Card,Tier 1,Fiber,3,0
+CUST10062,23,72,3379.03,92.69,0,0,One year,Net Banking,Tier 2,5G Home,3,0
+CUST10063,48,24,1873.77,103.68,0,0,Month-to-month,Net Banking,Tier 2,5G Home,2,0
+CUST10064,37,28,2369.19,281.13,0,1,Month-to-month,Net Banking,Tier 2,Fiber,1,0
+CUST10065,45,8,2192.19,132.67,1,0,Month-to-month,Credit Card,Tier 3,DSL,3,0
+CUST10066,63,36,3512.88,111.15,1,0,Month-to-month,Debit Card,Tier 1,Fiber,1,0
+CUST10067,53,8,2637.59,85.2,0,1,Month-to-month,Credit Card,Tier 1,Fiber,3,1
+CUST10068,29,58,3222.29,44.66,2,1,Month-to-month,Debit Card,Tier 3,DSL,4,0
+CUST10069,55,60,1460.11,82.02,0,2,Month-to-month,Debit Card,Tier 3,5G Home,2,0
+CUST10070,33,50,2686.94,56.68,1,0,Two year,Net Banking,Tier 2,Fiber,1,0
+CUST10071,50,28,3122.74,197.1,0,1,One year,Credit Card,Tier 3,5G Home,1,0
+CUST10072,34,41,2557.6,111.89,3,1,Two year,Debit Card,Tier 1,5G Home,4,0
+CUST10073,27,64,3245.84,161.71,1,4,One year,Cash,Tier 3,5G Home,3,0
+CUST10074,33,27,2137.9,,2,1,Month-to-month,Debit Card,Tier 1,Fiber,1,1
+CUST10075,42,63,3486.54,58.99,1,0,One year,Cash,Tier 1,5G Home,3,0
+CUST10076,59,17,4109.23,126.33,3,1,Month-to-month,Credit Card,Tier 1,Fiber,4,0
+CUST10077,40,33,2246.01,55.41,1,0,One year,Credit Card,Tier 1,DSL,2,0
+CUST10078,35,29,2188.15,72.28,1,0,Month-to-month,Credit Card,Tier 1,Fiber,1,0
+CUST10079,64,13,3517.37,201.68,1,1,Two year,Debit Card,Tier 1,Fiber,3,0
+CUST10080,37,46,3605.7,73.84,2,1,Month-to-month,UPI,Tier 1,DSL,1,0
+CUST10081,43,35,2134.0,39.15,1,2,Month-to-month,Debit Card,Tier 1,Fiber,3,0
+CUST10082,45,6,2205.87,30.57,0,0,Two year,Debit Card,Tier 2,Fiber,3,0
+CUST10083,44,69,2302.75,36.31,1,0,Month-to-month,Net Banking,Tier 1,Fiber,3,0
+CUST10084,64,47,1558.88,166.37,1,3,One year,Net Banking,Tier 1,DSL,4,0
+CUST10085,60,25,1856.94,67.71,2,2,One year,Debit Card,Tier 2,Fiber,2,0
+CUST10086,48,66,1797.1,276.76,0,1,Two year,Cash,Tier 3,5G Home,1,0
+CUST10087,34,10,1962.54,187.08,3,0,Two year,Net Banking,Tier 2,Fiber,2,0
+CUST10088,64,56,2475.72,225.14,2,2,Two year,Debit Card,Tier 1,Fiber,3,1
+CUST10089,20,30,2663.95,149.95,2,0,Month-to-month,UPI,Tier 2,Fiber,3,0
+CUST10090,44,5,3585.35,123.06,3,1,Two year,Cash,Tier 1,DSL,2,0
+CUST10091,26,33,1801.15,57.81,3,0,One year,Credit Card,Tier 1,Fiber,2,0
+CUST10092,28,65,3189.03,91.51,0,2,One year,Debit Card,Tier 1,Fiber,1,0
+CUST10093,43,18,2350.21,129.21,2,0,Month-to-month,Debit Card,Tier 3,5G Home,3,0
+CUST10094,20,49,2465.38,145.43,1,0,One year,Cash,Tier 1,DSL,2,0
+CUST10095,63,11,2972.37,47.15,1,0,Two year,Net Banking,Tier 1,Fiber,4,0
+CUST10096,27,26,1714.09,82.7,2,2,Two year,Net Banking,Tier 1,Fiber,3,0
+CUST10097,43,63,2767.69,87.77,2,3,Month-to-month,Net Banking,Tier 3,5G Home,3,0
+CUST10098,30,59,2616.52,85.96,0,1,Month-to-month,,Tier 2,Fiber,1,0
+CUST10099,36,27,2844.72,50.86,1,0,Month-to-month,Cash,Tier 1,Fiber,4,0
+CUST10100,27,49,2702.42,212.15,0,0,Two year,Cash,Tier 2,DSL,1,0
+CUST10101,54,33,4218.71,81.25,1,1,One year,Net Banking,Tier 2,DSL,4,1
+CUST10102,54,1,2053.58,52.98,3,0,Month-to-month,Net Banking,Tier 2,DSL,1,1
+CUST10103,52,21,2128.3,214.72,0,0,Month-to-month,UPI,Tier 1,Fiber,4,0
+CUST10104,24,55,2063.8,187.17,2,2,Month-to-month,UPI,Tier 3,Fiber,4,0
+CUST10105,61,6,2111.17,98.58,3,3,Month-to-month,Debit Card,Tier 1,DSL,4,0
+CUST10106,58,69,2053.83,30.4,3,2,Two year,Debit Card,Tier 2,Fiber,2,0
+CUST10107,60,5,3332.31,71.12,2,0,One year,Cash,Tier 1,DSL,3,1
+CUST10108,47,3,3494.35,34.56,3,1,Month-to-month,Cash,Tier 1,DSL,4,1
+CUST10109,26,53,2100.48,118.52,0,1,One year,Credit Card,Tier 1,Fiber,2,0
+CUST10110,28,23,1917.35,68.46,5,0,Month-to-month,Credit Card,Tier 2,5G Home,2,0
+CUST10111,27,53,2829.99,90.36,3,2,Two year,UPI,Tier 1,5G Home,1,0
+CUST10112,31,37,2113.44,205.37,2,1,Month-to-month,Debit Card,Tier 2,DSL,3,0
+CUST10113,53,17,2943.05,65.75,0,2,Month-to-month,UPI,Tier 1,Fiber,3,0
+CUST10114,52,1,2642.05,115.99,1,1,Month-to-month,UPI,Tier 2,Fiber,1,1
+CUST10115,42,51,1438.98,133.45,0,1,One year,Debit Card,Tier 3,DSL,3,0
+CUST10116,43,45,3583.25,163.84,2,2,One year,Credit Card,Tier 2,Fiber,1,0
+CUST10117,56,4,3757.11,86.96,0,0,One year,Debit Card,Tier 2,5G Home,2,0
+CUST10118,54,62,2071.05,82.26,0,1,Month-to-month,Net Banking,Tier 2,Fiber,2,0
+CUST10119,63,65,2228.61,81.25,1,0,Month-to-month,Net Banking,Tier 1,DSL,4,0
+CUST10120,59,32,2700.11,110.4,3,1,Month-to-month,Net Banking,Tier 3,Fiber,1,0
+CUST10121,41,34,2734.12,183.3,1,1,One year,Cash,Tier 1,DSL,2,1
+CUST10122,46,72,2960.98,79.29,2,0,Month-to-month,Credit Card,Tier 2,Fiber,2,0
+CUST10123,54,39,3907.14,17.7,0,2,One year,Credit Card,Tier 2,Fiber,1,0
+CUST10124,20,26,2376.14,140.83,0,1,Two year,Cash,Tier 1,Fiber,2,0
+CUST10125,54,34,1941.19,94.91,1,1,Two year,UPI,Tier 1,5G Home,3,0
+CUST10126,56,54,1534.48,118.65,1,3,Month-to-month,Net Banking,Tier 2,Fiber,2,0
+CUST10127,33,3,1988.35,35.37,4,2,Month-to-month,Net Banking,Tier 3,5G Home,1,1
+CUST10128,22,50,2476.81,68.6,0,0,Month-to-month,UPI,Tier 3,5G Home,3,0
+CUST10129,20,12,3756.19,135.19,1,2,One year,Debit Card,Tier 2,Fiber,3,1
+CUST10130,24,65,2137.67,43.78,1,0,Two year,Debit Card,Tier 2,DSL,2,0
+CUST10131,45,54,2656.65,115.86,0,1,Month-to-month,Credit Card,Tier 3,Fiber,4,0
+CUST10132,33,5,2488.5,89.97,0,2,Month-to-month,Cash,Tier 1,5G Home,3,1
+CUST10133,58,57,3331.88,60.81,1,0,Two year,Credit Card,Tier 1,DSL,1,0
+CUST10134,46,17,4268.85,58.09,1,0,Two year,Debit Card,Tier 2,Fiber,4,1
+CUST10135,28,47,2128.39,51.13,1,1,Month-to-month,UPI,Tier 3,Fiber,4,0
+CUST10136,34,23,2157.39,94.65,2,1,One year,Credit Card,Tier 3,Fiber,3,0
+CUST10137,34,14,3230.91,100.38,4,0,Month-to-month,Net Banking,Tier 1,5G Home,2,0
+CUST10138,45,66,2977.32,75.2,1,0,Month-to-month,Net Banking,Tier 1,Fiber,4,0
+CUST10139,61,51,3792.7,49.33,0,2,Two year,UPI,Tier 1,DSL,2,0
+CUST10140,32,38,2908.75,114.19,2,0,Two year,Debit Card,Tier 1,Fiber,3,0
+CUST10141,51,64,2248.5,142.11,3,0,One year,Net Banking,Tier 1,5G Home,1,0
+CUST10142,58,38,,124.62,0,1,Month-to-month,Net Banking,Tier 2,Fiber,4,0
+CUST10143,51,50,3276.09,229.65,1,1,Two year,Cash,Tier 1,DSL,1,0
+CUST10144,23,30,3074.34,83.19,0,1,Month-to-month,Credit Card,Tier 3,DSL,2,0
+CUST10145,49,51,2855.09,174.49,2,1,Month-to-month,Debit Card,Tier 1,DSL,2,0
+CUST10146,56,63,3246.67,64.09,1,0,One year,Credit Card,Tier 2,Fiber,1,0
+CUST10147,42,52,3318.51,58.48,0,1,Month-to-month,Debit Card,Tier 1,Fiber,3,0
+CUST10148,58,38,3467.51,97.67,0,0,One year,Net Banking,Tier 1,Fiber,3,0
+CUST10149,64,30,2954.1,193.51,3,0,One year,Cash,Tier 1,DSL,4,1
+CUST10150,34,51,2383.02,78.39,3,1,Month-to-month,Credit Card,Tier 3,Fiber,4,0
+CUST10151,62,5,2602.7,35.35,4,2,Month-to-month,Net Banking,Tier 3,DSL,3,1
+CUST10152,48,29,3344.56,140.77,2,1,Month-to-month,Debit Card,Tier 2,Fiber,3,1
+CUST10153,55,4,1928.15,87.99,0,1,Month-to-month,Credit Card,Tier 1,5G Home,1,0
+CUST10154,32,10,2758.07,106.73,3,0,One year,Credit Card,Tier 3,5G Home,2,0
+CUST10155,51,56,2224.66,60.18,1,2,Two year,Net Banking,Tier 1,DSL,2,0
+CUST10156,26,17,2520.12,97.2,5,1,Month-to-month,Credit Card,Tier 1,Fiber,4,1
+CUST10157,41,17,3394.92,38.61,0,0,Month-to-month,Cash,Tier 2,Fiber,3,0
+CUST10158,47,69,2633.77,213.77,2,0,One year,Cash,Tier 3,Fiber,1,0
+CUST10159,21,34,2532.51,153.7,2,0,Two year,Net Banking,Tier 1,Fiber,4,0
+CUST10160,61,6,1548.1,94.95,2,0,Month-to-month,Debit Card,Tier 1,DSL,1,0
+CUST10161,64,53,3022.38,138.85,1,0,Month-to-month,Net Banking,Tier 3,DSL,3,0
+CUST10162,25,66,2951.84,64.18,0,3,One year,Cash,Tier 1,5G Home,3,0
+CUST10163,47,43,4014.28,150.34,2,0,Month-to-month,UPI,Tier 1,Fiber,3,0
+CUST10164,47,23,2284.56,76.56,2,0,Month-to-month,UPI,Tier 2,DSL,2,1
+CUST10165,63,55,2653.41,73.67,1,2,One year,Credit Card,Tier 3,DSL,3,0
+CUST10166,63,16,2674.57,53.12,0,0,One year,Credit Card,Tier 2,DSL,4,0
+CUST10167,39,8,3604.22,113.48,4,1,One year,UPI,Tier 3,Fiber,2,0
+CUST10168,49,4,2433.29,92.83,2,0,One year,Cash,Tier 2,Fiber,1,1
+CUST10169,30,4,2695.32,177.25,1,1,One year,Credit Card,Tier 1,Fiber,4,0
+CUST10170,47,56,2925.53,49.63,1,0,Month-to-month,Net Banking,Tier 3,DSL,4,0
+CUST10171,44,25,2630.63,113.74,3,0,Month-to-month,Net Banking,Tier 1,5G Home,1,0
+CUST10172,58,67,2187.5,161.07,0,1,Month-to-month,Cash,Tier 1,Fiber,2,0
+CUST10173,52,67,2635.86,279.91,0,0,Month-to-month,Credit Card,Tier 2,Fiber,4,0
+CUST10174,20,27,3251.54,101.29,1,0,One year,Net Banking,Tier 1,DSL,4,1
+CUST10175,46,32,1781.44,75.78,4,0,Two year,Credit Card,Tier 1,DSL,4,0
+CUST10176,32,50,2593.08,99.97,2,0,Two year,Credit Card,Tier 1,Fiber,2,0
+CUST10177,60,61,2009.92,170.32,1,1,One year,Net Banking,Tier 1,DSL,2,0
+CUST10178,22,51,3336.53,170.28,2,0,Month-to-month,UPI,Tier 3,5G Home,2,0
+CUST10179,58,19,1433.77,86.13,3,1,Month-to-month,Net Banking,Tier 2,5G Home,4,0
+CUST10180,25,21,2108.75,168.83,1,2,Two year,Cash,Tier 3,Fiber,3,0
+CUST10181,27,5,2764.05,90.58,1,1,One year,Debit Card,Tier 1,5G Home,1,0
+CUST10182,46,42,3595.87,138.08,4,3,One year,Net Banking,Tier 1,DSL,3,1
+CUST10183,28,61,2453.97,120.41,1,0,One year,Credit Card,Tier 1,Fiber,2,0
+CUST10184,56,22,2111.36,74.16,0,3,One year,Credit Card,Tier 1,DSL,4,0
+CUST10185,52,21,3816.81,54.22,0,1,Two year,Net Banking,Tier 1,5G Home,4,1
+CUST10186,61,70,1486.39,163.15,1,0,Month-to-month,Debit Card,Tier 2,DSL,3,0
+CUST10187,63,1,960.84,185.48,0,0,One year,Net Banking,Tier 3,Fiber,3,1
+CUST10188,43,5,2808.01,112.38,0,0,Two year,Debit Card,Tier 3,DSL,1,0
+CUST10189,34,12,2148.56,90.51,0,1,Month-to-month,Debit Card,Tier 1,DSL,4,0
+CUST10190,51,46,1785.14,46.02,4,1,One year,Cash,Tier 3,Fiber,3,0
+CUST10191,51,34,2995.85,161.09,1,0,Month-to-month,Credit Card,Tier 1,5G Home,1,0
+CUST10192,43,49,2670.66,105.91,1,0,Two year,Credit Card,Tier 1,DSL,2,0
+CUST10193,60,45,2105.14,79.82,0,0,Month-to-month,Debit Card,Tier 3,DSL,3,0
+CUST10194,31,27,1603.79,140.02,0,0,One year,Credit Card,Tier 2,Fiber,2,0
+CUST10195,58,26,3110.72,41.15,1,0,Month-to-month,UPI,Tier 1,DSL,1,0
+CUST10196,21,47,2955.14,51.63,0,1,One year,Debit Card,Tier 1,Fiber,2,0
+CUST10197,22,56,2430.58,62.9,0,0,Month-to-month,Credit Card,Tier 1,Fiber,4,0
+CUST10198,56,63,3792.65,118.53,1,0,Month-to-month,UPI,Tier 2,DSL,4,0
+CUST10199,36,48,1750.94,100.54,2,2,Month-to-month,Cash,Tier 2,Fiber,2,0
+CUST10200,21,61,1432.13,125.53,0,0,Two year,Credit Card,Tier 3,DSL,4,0
+CUST10201,21,26,2015.66,155.71,1,0,Month-to-month,UPI,Tier 1,Fiber,1,1
+CUST10202,47,36,2468.09,127.78,2,1,Month-to-month,Net Banking,Tier 1,Fiber,4,0
+CUST10203,42,1,2670.34,216.01,2,0,One year,Net Banking,Tier 2,Fiber,2,0
+CUST10204,56,8,2331.13,155.53,1,0,One year,UPI,Tier 2,5G Home,2,0
+CUST10205,51,52,2746.44,86.02,1,0,Two year,Debit Card,Tier 1,DSL,2,0
+CUST10206,52,47,1623.92,68.35,1,0,Month-to-month,Debit Card,Tier 2,DSL,3,0
+CUST10207,20,56,3510.64,87.4,1,1,One year,Credit Card,Tier 3,Fiber,2,0
+CUST10208,38,14,,130.0,1,1,Month-to-month,Net Banking,Tier 3,Fiber,1,0
+CUST10209,21,28,3282.11,72.36,3,0,Month-to-month,Debit Card,Tier 3,5G Home,4,1
+CUST10210,63,2,2739.91,131.78,1,1,One year,Debit Card,Tier 3,Fiber,4,1
+CUST10211,45,26,,124.39,4,1,One year,Net Banking,Tier 2,Fiber,3,0
+CUST10212,51,14,2898.84,53.78,0,0,One year,Cash,Tier 3,DSL,3,0
+CUST10213,25,59,2813.4,154.1,2,1,Month-to-month,Debit Card,Tier 1,Fiber,1,0
+CUST10214,51,56,2949.91,110.4,2,1,Month-to-month,UPI,Tier 1,5G Home,2,1
+CUST10215,23,7,3430.41,210.82,2,1,Month-to-month,Credit Card,Tier 1,DSL,3,1
+CUST10216,30,3,2637.56,90.74,2,1,Two year,Debit Card,Tier 2,Fiber,4,0
+CUST10217,36,23,2996.3,77.91,0,4,Month-to-month,Debit Card,Tier 1,Fiber,3,0
+CUST10218,57,18,2437.19,49.91,1,0,Month-to-month,Cash,Tier 3,Fiber,3,0
+CUST10219,43,38,3508.08,49.46,2,0,Month-to-month,UPI,Tier 1,5G Home,2,0
+CUST10220,24,15,2026.53,145.1,1,0,One year,Credit Card,Tier 1,DSL,3,0
+CUST10221,53,64,3760.66,200.36,1,0,Month-to-month,Debit Card,Tier 2,Fiber,1,0
+CUST10222,25,28,2471.89,86.76,1,1,Two year,Credit Card,Tier 1,Fiber,4,0
+CUST10223,41,39,1498.46,83.82,1,1,Month-to-month,Net Banking,Tier 1,DSL,2,0
+CUST10224,30,57,2589.67,95.06,1,0,Two year,,Tier 1,DSL,4,0
+CUST10225,35,17,2023.26,159.3,0,1,Month-to-month,Debit Card,Tier 2,Fiber,1,0
+CUST10226,52,44,3088.45,54.05,1,2,One year,Net Banking,Tier 1,Fiber,1,1
+CUST10227,28,25,2043.16,103.56,3,1,Two year,Cash,Tier 2,Fiber,3,0
+CUST10228,25,17,2187.67,146.72,2,0,Month-to-month,Debit Card,Tier 2,DSL,3,0
+CUST10229,35,13,1177.32,117.81,0,0,Two year,Credit Card,Tier 1,5G Home,3,0
+CUST10230,48,25,2183.39,13.6,3,0,Month-to-month,UPI,Tier 1,Fiber,4,0
+CUST10231,22,68,803.28,128.1,1,0,Two year,Credit Card,Tier 1,DSL,1,0
+CUST10232,39,10,1391.27,118.38,0,2,One year,Cash,Tier 2,Fiber,2,0
+CUST10233,55,67,3032.29,174.4,1,0,Month-to-month,UPI,Tier 1,Fiber,3,0
+CUST10234,38,18,3050.06,192.54,0,0,Month-to-month,Credit Card,Tier 1,Fiber,4,1
+CUST10235,45,34,2797.82,170.12,0,0,Month-to-month,Credit Card,Tier 2,5G Home,3,0
+CUST10236,22,8,1823.12,95.33,4,1,Month-to-month,Net Banking,Tier 2,DSL,1,1
+CUST10237,38,40,2466.6,,1,1,Month-to-month,Cash,Tier 1,DSL,2,0
+CUST10238,39,42,2497.48,239.82,0,1,Month-to-month,Net Banking,Tier 1,Fiber,1,0
+CUST10239,51,41,1689.14,83.5,2,1,Month-to-month,UPI,Tier 3,Fiber,4,0
+CUST10240,26,6,3552.38,93.77,1,1,One year,Net Banking,Tier 3,Fiber,3,0
+CUST10241,60,52,3114.15,199.11,0,0,Month-to-month,Cash,Tier 2,DSL,1,0
+CUST10242,52,26,2345.33,60.52,2,4,Month-to-month,Debit Card,Tier 2,Fiber,4,1
+CUST10243,59,64,2518.82,41.88,1,0,One year,Debit Card,Tier 2,DSL,3,0
+CUST10244,58,59,2645.87,72.61,1,0,Month-to-month,UPI,Tier 3,Fiber,2,0
+CUST10245,37,56,1070.79,62.35,3,0,Month-to-month,Debit Card,Tier 3,Fiber,1,0
+CUST10246,59,59,2326.98,39.48,1,1,Month-to-month,,Tier 1,Fiber,3,1
+CUST10247,20,70,2022.61,87.75,0,0,Two year,UPI,Tier 3,Fiber,3,0
+CUST10248,30,33,1798.87,95.67,0,2,Two year,Cash,Tier 1,Fiber,3,0
+CUST10249,47,53,2303.23,38.1,1,0,Month-to-month,UPI,Tier 1,Fiber,3,0
+CUST10250,44,22,3758.38,77.65,3,0,One year,UPI,Tier 2,DSL,1,0
+CUST10251,42,21,,60.17,0,0,One year,Credit Card,Tier 1,DSL,3,0
+CUST10252,50,70,2100.17,28.01,0,0,One year,Credit Card,Tier 3,Fiber,4,0
+CUST10253,49,70,2900.81,97.28,1,1,One year,UPI,Tier 1,Fiber,1,0
+CUST10254,61,4,3479.55,102.26,1,1,One year,Debit Card,Tier 2,Fiber,3,0
+CUST10255,54,62,3147.24,60.18,0,1,Month-to-month,Credit Card,Tier 3,Fiber,1,0
+CUST10256,26,62,2541.74,153.43,1,1,Month-to-month,Cash,Tier 3,Fiber,4,0
+CUST10257,35,24,2047.14,92.69,0,0,Month-to-month,Net Banking,Tier 1,5G Home,4,0
+CUST10258,45,55,2988.76,61.76,1,0,Two year,Credit Card,Tier 1,Fiber,1,0
+CUST10259,21,9,2775.44,36.62,1,1,One year,UPI,Tier 2,Fiber,3,0
+CUST10260,20,3,3126.64,105.06,0,1,Two year,Debit Card,Tier 1,Fiber,3,0
+CUST10261,31,31,2944.62,118.24,2,1,Two year,Net Banking,Tier 3,Fiber,4,0
+CUST10262,24,40,3234.69,70.43,1,0,Month-to-month,Credit Card,Tier 3,DSL,3,0
+CUST10263,56,36,2125.34,98.87,1,1,One year,Debit Card,Tier 1,Fiber,4,0
+CUST10264,51,24,3422.18,192.53,3,0,One year,Debit Card,Tier 1,Fiber,3,0
+CUST10265,28,6,2638.32,141.65,0,0,Two year,Debit Card,Tier 1,DSL,4,0
+CUST10266,60,66,3952.68,22.42,0,0,Two year,UPI,Tier 3,Fiber,2,0
+CUST10267,54,4,2017.57,61.37,3,0,One year,Cash,Tier 1,DSL,3,0
+CUST10268,38,6,3715.17,85.53,1,0,Month-to-month,Debit Card,Tier 1,DSL,3,0
+CUST10269,35,51,2638.54,95.4,3,1,One year,Net Banking,Tier 1,Fiber,3,1
+CUST10270,22,62,2044.01,99.98,2,1,Month-to-month,Credit Card,Tier 2,DSL,1,0
+CUST10271,39,57,2161.28,114.49,4,0,One year,Net Banking,Tier 1,Fiber,3,0
+CUST10272,43,66,2275.76,87.03,1,1,Two year,UPI,Tier 1,DSL,1,0
+CUST10273,52,8,2796.92,92.57,0,1,Month-to-month,UPI,Tier 3,Fiber,1,1
+CUST10274,43,26,2865.98,145.28,4,1,One year,Net Banking,Tier 3,Fiber,4,0
+CUST10275,30,51,2098.41,106.11,1,2,Month-to-month,Cash,Tier 2,DSL,1,0
+CUST10276,27,45,2482.95,47.09,1,0,Month-to-month,UPI,Tier 1,5G Home,1,0
+CUST10277,55,44,3999.59,96.96,2,0,Month-to-month,UPI,Tier 1,5G Home,2,0
+CUST10278,57,5,3709.28,85.65,0,1,One year,Net Banking,Tier 2,DSL,3,0
+CUST10279,59,70,2805.43,27.87,2,0,Two year,UPI,Tier 1,Fiber,1,0
+CUST10280,39,26,2526.6,99.53,0,1,Two year,Cash,Tier 3,Fiber,3,0
+CUST10281,54,68,2584.02,50.75,0,2,Month-to-month,Cash,Tier 2,Fiber,1,0
+CUST10282,44,19,2929.46,146.35,1,1,Two year,Cash,Tier 1,Fiber,4,0
+CUST10283,54,20,1784.05,113.68,2,0,One year,Credit Card,Tier 3,Fiber,2,0
+CUST10284,44,12,2319.84,45.58,0,1,Month-to-month,Cash,Tier 3,5G Home,1,1
+CUST10285,48,47,1331.99,143.08,2,2,Month-to-month,Cash,Tier 1,Fiber,3,0
+CUST10286,37,1,2779.46,175.79,4,0,Month-to-month,Credit Card,Tier 2,Fiber,4,0
+CUST10287,65,14,2953.04,80.21,0,1,Two year,Debit Card,Tier 1,Fiber,3,0
+CUST10288,37,64,2161.77,85.39,0,1,One year,UPI,Tier 1,5G Home,4,0
+CUST10289,21,38,3601.79,136.22,0,2,One year,Cash,Tier 1,DSL,2,0
+CUST10290,54,37,1641.96,169.36,2,1,Month-to-month,UPI,Tier 2,DSL,4,0
+CUST10291,35,11,1474.94,32.89,3,0,One year,Net Banking,Tier 3,Fiber,3,0
+CUST10292,60,3,2657.12,48.73,1,1,Month-to-month,UPI,Tier 2,5G Home,3,1
+CUST10293,55,33,3232.97,73.37,0,3,Month-to-month,Credit Card,Tier 1,Fiber,1,1
+CUST10294,52,6,3678.75,77.7,0,2,One year,UPI,Tier 2,5G Home,4,0
+CUST10295,23,50,2178.78,134.28,1,0,Month-to-month,UPI,Tier 1,DSL,3,0
+CUST10296,52,10,3255.08,169.79,1,0,Two year,UPI,Tier 3,Fiber,1,0
+CUST10297,33,5,2473.04,176.03,2,1,Month-to-month,Debit Card,Tier 1,DSL,2,0
+CUST10298,40,23,2379.16,32.39,1,1,One year,Debit Card,Tier 1,DSL,3,0
+CUST10299,39,10,3118.56,58.25,1,1,Month-to-month,Net Banking,Tier 1,Fiber,1,1
+CUST10300,27,44,2956.63,44.36,0,1,One year,Credit Card,Tier 2,5G Home,3,0
+CUST10301,26,2,1396.53,66.13,0,0,Month-to-month,UPI,Tier 1,Fiber,4,0
+CUST10302,22,13,3533.58,58.12,2,0,Month-to-month,UPI,Tier 2,Fiber,1,0
+CUST10303,36,40,3466.06,113.5,4,1,Two year,UPI,Tier 1,Fiber,4,0
+CUST10304,52,2,2062.11,120.38,2,0,Month-to-month,UPI,Tier 1,Fiber,2,0
+CUST10305,31,65,2777.06,91.97,1,3,Two year,Debit Card,Tier 2,DSL,4,0
+CUST10306,41,63,2845.82,87.5,2,1,Two year,Net Banking,Tier 3,Fiber,1,0
+CUST10307,41,17,2682.47,75.07,1,1,Month-to-month,Cash,Tier 3,DSL,3,0
+CUST10308,65,9,2114.79,79.83,0,0,Month-to-month,Credit Card,Tier 1,Fiber,1,0
+CUST10309,49,15,2029.86,191.47,1,0,One year,UPI,Tier 1,5G Home,4,0
+CUST10310,57,24,2482.11,129.24,0,0,Two year,Net Banking,Tier 1,DSL,4,0
+CUST10311,57,38,3320.91,76.6,2,0,Two year,Cash,Tier 2,5G Home,3,0
+CUST10312,64,35,2880.52,86.63,2,0,One year,Net Banking,Tier 2,Fiber,2,0
+CUST10313,27,49,2240.57,114.81,0,0,One year,Debit Card,Tier 3,Fiber,1,0
+CUST10314,46,69,3040.19,45.57,1,1,Month-to-month,Cash,Tier 3,Fiber,3,0
+CUST10315,46,62,600.0,98.68,3,2,Two year,Net Banking,Tier 1,DSL,3,0
+CUST10316,53,60,3304.14,125.73,2,0,Two year,Debit Card,Tier 2,5G Home,3,0
+CUST10317,40,50,1282.2,117.79,0,1,Month-to-month,Net Banking,Tier 3,Fiber,1,0
+CUST10318,49,9,2246.29,58.89,0,3,Month-to-month,Net Banking,Tier 3,Fiber,1,0
+CUST10319,52,34,1716.23,65.04,2,0,Month-to-month,Cash,Tier 1,5G Home,1,0
+CUST10320,47,35,1593.72,25.81,1,1,Month-to-month,Debit Card,Tier 1,Fiber,2,0
+CUST10321,52,1,3312.58,132.33,1,1,Two year,UPI,Tier 1,DSL,3,0
+CUST10322,24,40,2172.61,231.12,3,0,Month-to-month,Credit Card,Tier 1,DSL,4,0
+CUST10323,38,64,2742.55,,2,2,Month-to-month,Cash,Tier 1,5G Home,4,0
+CUST10324,23,22,2467.16,155.12,0,1,Month-to-month,Debit Card,Tier 1,Fiber,3,0
+CUST10325,54,60,2833.93,221.01,0,0,Two year,Net Banking,Tier 2,Fiber,4,0
+CUST10326,36,64,2553.78,71.15,1,1,One year,Debit Card,Tier 1,DSL,2,0
+CUST10327,63,72,1601.91,86.69,1,2,Month-to-month,Credit Card,Tier 1,5G Home,2,0
+CUST10328,47,11,3197.39,104.36,2,0,Month-to-month,Credit Card,Tier 1,Fiber,1,1
+CUST10329,49,14,2154.37,115.93,1,0,Two year,UPI,Tier 3,Fiber,1,0
+CUST10330,48,60,1410.39,107.22,2,1,Two year,UPI,Tier 3,DSL,1,0
+CUST10331,65,30,2200.32,74.17,3,1,Month-to-month,Credit Card,Tier 2,5G Home,1,1
+CUST10332,25,35,3550.53,124.76,1,0,Month-to-month,Cash,Tier 1,5G Home,1,0
+CUST10333,54,37,3095.16,75.09,0,0,Month-to-month,Cash,Tier 3,5G Home,4,0
+CUST10334,60,5,2255.94,110.93,3,0,Month-to-month,Net Banking,Tier 1,Fiber,4,1
+CUST10335,56,26,2255.52,90.27,0,2,One year,UPI,Tier 1,Fiber,1,0
+CUST10336,43,62,2274.86,30.29,1,0,Two year,Net Banking,Tier 1,DSL,2,0
+CUST10337,48,4,3953.72,166.32,3,3,Month-to-month,UPI,Tier 1,5G Home,4,1
+CUST10338,65,42,2767.35,66.01,1,0,Two year,Credit Card,Tier 1,Fiber,2,0
+CUST10339,50,18,2801.03,174.46,3,0,Month-to-month,Cash,Tier 3,Fiber,2,0
+CUST10340,54,40,3221.2,152.08,1,1,One year,Cash,Tier 2,DSL,3,0
+CUST10341,52,72,2667.15,102.77,0,0,One year,Credit Card,Tier 1,Fiber,3,0
+CUST10342,40,39,2318.67,118.95,1,1,Month-to-month,Net Banking,Tier 3,Fiber,1,0
+CUST10343,51,14,2362.56,126.15,2,1,Month-to-month,Net Banking,Tier 1,DSL,2,1
+CUST10344,42,32,2449.88,82.54,1,0,One year,Debit Card,Tier 1,DSL,4,0
+CUST10345,52,51,2473.94,84.61,0,2,Month-to-month,UPI,Tier 2,DSL,3,1
+CUST10346,22,38,3009.34,123.12,1,2,Month-to-month,,Tier 2,Fiber,3,0
+CUST10347,37,23,2536.36,90.77,1,0,One year,Credit Card,Tier 1,DSL,2,0
+CUST10348,44,63,3012.85,74.3,2,1,Two year,Net Banking,Tier 1,DSL,3,0
+CUST10349,61,15,2443.5,,3,1,Month-to-month,Cash,Tier 2,DSL,3,0
+CUST10350,50,25,2555.04,112.57,5,1,Two year,UPI,Tier 2,DSL,4,0
+CUST10351,22,17,1101.26,64.82,2,1,Month-to-month,Debit Card,Tier 2,Fiber,2,1
+CUST10352,59,66,3141.43,139.46,2,1,One year,UPI,Tier 1,Fiber,3,0
+CUST10353,65,53,,145.28,0,0,One year,Cash,Tier 1,Fiber,2,0
+CUST10354,43,51,3198.61,118.49,3,0,Two year,Cash,Tier 1,Fiber,3,0
+CUST10355,51,39,600.0,130.94,2,1,Month-to-month,Cash,Tier 1,DSL,4,0
+CUST10356,41,51,3961.86,118.66,2,0,One year,Cash,Tier 3,5G Home,2,0
+CUST10357,42,70,2402.29,135.57,1,1,One year,Credit Card,Tier 2,DSL,3,0
+CUST10358,21,6,3275.73,132.72,1,2,Month-to-month,Debit Card,Tier 1,DSL,4,0
+CUST10359,46,67,1772.07,109.54,0,0,Month-to-month,Cash,Tier 2,Fiber,3,0
+CUST10360,61,7,2928.94,153.03,0,1,Month-to-month,Cash,Tier 2,Fiber,2,0
+CUST10361,21,51,1762.61,84.08,3,1,Month-to-month,Net Banking,Tier 1,Fiber,3,0
+CUST10362,45,72,2063.36,60.43,1,1,Two year,Debit Card,Tier 3,Fiber,2,0
+CUST10363,36,42,3839.82,58.72,3,1,Month-to-month,UPI,Tier 3,Fiber,2,1
+CUST10364,59,64,2366.52,77.7,0,1,Month-to-month,Debit Card,Tier 2,DSL,3,0
+CUST10365,52,15,2652.2,27.61,1,2,One year,Debit Card,Tier 1,5G Home,4,0
+CUST10366,28,29,3109.05,102.26,3,0,Month-to-month,Debit Card,Tier 2,Fiber,1,1
+CUST10367,62,33,2846.98,126.99,1,1,One year,Cash,Tier 2,Fiber,4,0
+CUST10368,58,27,2605.29,144.27,1,0,Month-to-month,Cash,Tier 1,DSL,4,0
+CUST10369,48,36,2755.47,34.24,1,0,Two year,Credit Card,Tier 1,Fiber,3,0
+CUST10370,61,29,4182.39,59.79,1,1,Two year,UPI,Tier 3,5G Home,4,0
+CUST10371,45,38,2459.67,137.38,0,0,Two year,Net Banking,Tier 1,DSL,4,0
+CUST10372,54,57,2640.77,82.7,3,1,Month-to-month,Debit Card,Tier 2,5G Home,1,0
+CUST10373,44,27,3235.46,125.57,1,0,One year,UPI,Tier 2,Fiber,4,0
+CUST10374,43,55,3273.87,44.22,0,1,Month-to-month,UPI,Tier 1,DSL,1,0
+CUST10375,32,33,3330.92,173.45,2,0,Month-to-month,Credit Card,Tier 1,Fiber,3,0
+CUST10376,26,68,2947.11,42.2,0,0,Month-to-month,Net Banking,Tier 3,DSL,1,0
+CUST10377,55,66,1699.9,9.79,0,1,One year,Debit Card,Tier 1,Fiber,2,0
+CUST10378,64,10,3643.4,100.75,2,0,Month-to-month,Net Banking,Tier 2,Fiber,2,0
+CUST10379,39,5,1697.56,102.07,0,0,One year,Credit Card,Tier 2,DSL,1,0
+CUST10380,20,38,2711.84,70.09,3,1,Month-to-month,Cash,Tier 2,DSL,2,0
+CUST10381,27,13,1972.01,116.41,0,0,Month-to-month,UPI,Tier 3,5G Home,3,0
+CUST10382,65,31,2455.1,118.06,1,0,One year,Debit Card,Tier 2,DSL,2,0
+CUST10383,35,47,2730.13,111.76,0,0,Month-to-month,Cash,Tier 1,DSL,1,0
+CUST10384,33,52,2724.95,69.4,1,1,One year,Credit Card,Tier 3,Fiber,3,0
+CUST10385,31,56,2795.34,,1,0,Month-to-month,Net Banking,Tier 2,DSL,2,0
+CUST10386,42,15,3629.6,73.44,0,0,Two year,UPI,Tier 1,DSL,3,0
+CUST10387,34,29,2817.47,57.66,1,0,One year,Debit Card,Tier 1,5G Home,1,0
+CUST10388,47,8,2329.09,,2,0,Month-to-month,Cash,Tier 3,5G Home,2,0
+CUST10389,53,5,3174.86,76.85,1,0,Month-to-month,Cash,Tier 1,Fiber,3,0
+CUST10390,21,29,3332.63,99.3,2,4,One year,UPI,Tier 2,5G Home,3,0
+CUST10391,51,47,1640.67,137.11,0,1,Two year,Net Banking,Tier 2,Fiber,2,1
+CUST10392,42,68,2918.18,56.11,3,1,Month-to-month,Credit Card,Tier 1,Fiber,3,0
+CUST10393,41,45,2990.82,41.15,0,1,Month-to-month,Net Banking,Tier 2,DSL,3,0
+CUST10394,44,2,2291.71,57.77,2,0,Two year,Net Banking,Tier 1,Fiber,1,0
+CUST10395,41,27,3462.99,104.82,1,0,One year,,Tier 1,DSL,1,0
+CUST10396,41,36,2394.96,101.25,1,1,Month-to-month,UPI,Tier 2,Fiber,1,0
+CUST10397,61,36,2587.9,111.66,0,1,Month-to-month,UPI,Tier 1,Fiber,1,0
+CUST10398,25,26,2378.85,86.81,1,1,Month-to-month,Credit Card,Tier 2,DSL,1,1
+CUST10399,34,43,2510.91,17.47,1,0,One year,Net Banking,Tier 3,DSL,1,0
+CUST10400,62,27,1732.61,85.39,1,0,Month-to-month,UPI,Tier 2,5G Home,2,0
+CUST10401,56,69,1491.96,146.08,1,2,Two year,Credit Card,Tier 1,DSL,1,0
+CUST10402,52,20,3616.15,164.49,3,0,Month-to-month,Credit Card,Tier 1,DSL,3,1
+CUST10403,27,11,1907.13,95.98,0,0,Month-to-month,Net Banking,Tier 2,Fiber,2,0
+CUST10404,63,38,1806.03,101.44,0,1,One year,Debit Card,Tier 3,Fiber,3,0
+CUST10405,63,6,992.63,124.42,1,1,Two year,,Tier 3,Fiber,1,0
+CUST10406,24,72,2052.73,162.22,1,2,Two year,Debit Card,Tier 3,DSL,1,0
+CUST10407,58,23,1573.84,91.69,0,0,Month-to-month,Credit Card,Tier 1,DSL,3,0
+CUST10408,23,47,3649.41,123.56,2,1,One year,UPI,Tier 1,Fiber,3,0
+CUST10409,25,46,3206.87,67.76,1,0,One year,Cash,Tier 2,DSL,3,0
+CUST10410,64,12,2018.29,44.77,2,3,Month-to-month,Credit Card,Tier 1,DSL,4,1
+CUST10411,51,13,4076.71,71.64,0,0,Month-to-month,UPI,Tier 1,Fiber,4,0
+CUST10412,49,62,3187.24,180.26,1,0,Month-to-month,Credit Card,Tier 3,Fiber,4,0
+CUST10413,54,60,2272.62,124.8,4,0,Month-to-month,Net Banking,Tier 1,5G Home,4,0
+CUST10414,59,43,750.42,47.24,0,3,Two year,Debit Card,Tier 1,DSL,2,0
+CUST10415,35,68,4103.66,127.66,1,0,Month-to-month,Credit Card,Tier 1,5G Home,1,0
+CUST10416,32,5,1527.3,49.33,1,1,Two year,UPI,Tier 3,Fiber,3,0
+CUST10417,61,37,1348.22,110.89,0,0,One year,Net Banking,Tier 2,5G Home,1,0
+CUST10418,49,72,3215.8,54.91,1,1,One year,Cash,Tier 2,Fiber,3,0
+CUST10419,38,31,4207.83,45.7,5,0,One year,Net Banking,Tier 3,Fiber,1,0
+CUST10420,36,9,3468.99,194.93,1,1,Month-to-month,Debit Card,Tier 1,5G Home,2,1
+CUST10421,38,51,2894.74,76.82,1,1,Month-to-month,Net Banking,Tier 2,Fiber,4,0
+CUST10422,47,29,2916.33,123.68,1,0,Month-to-month,Cash,Tier 1,DSL,1,0
+CUST10423,45,40,3097.39,93.64,2,0,One year,UPI,Tier 1,Fiber,3,0
+CUST10424,56,41,3031.25,51.57,4,1,Month-to-month,Credit Card,Tier 3,DSL,1,1
+CUST10425,45,11,2696.83,81.15,0,1,One year,Debit Card,Tier 2,5G Home,2,0
+CUST10426,42,23,2572.94,51.83,1,0,Month-to-month,Cash,Tier 1,Fiber,2,0
+CUST10427,28,1,2456.18,262.46,2,0,Month-to-month,Debit Card,Tier 1,DSL,1,0
+CUST10428,31,46,1972.22,134.59,0,2,Month-to-month,Net Banking,Tier 2,Fiber,4,1
+CUST10429,20,21,2303.53,92.75,1,2,Two year,Debit Card,Tier 1,DSL,3,0
+CUST10430,20,36,1314.93,120.43,1,1,One year,Cash,Tier 1,Fiber,2,0
+CUST10431,53,54,2431.16,130.35,0,3,Month-to-month,Credit Card,Tier 1,Fiber,2,0
+CUST10432,51,57,1807.99,130.52,3,0,One year,Credit Card,Tier 1,Fiber,1,0
+CUST10433,44,1,1727.49,127.8,2,1,Month-to-month,Debit Card,Tier 3,Fiber,2,0
+CUST10434,59,63,2625.93,123.02,2,0,Two year,UPI,Tier 1,5G Home,2,0
+CUST10435,64,54,3474.4,96.63,1,3,One year,Debit Card,Tier 1,Fiber,3,0
+CUST10436,20,55,3142.82,187.61,0,2,Month-to-month,Net Banking,Tier 2,Fiber,4,0
+CUST10437,35,40,1400.65,99.78,1,0,One year,Credit Card,Tier 3,Fiber,3,0
+CUST10438,58,15,1807.26,94.12,2,0,Month-to-month,Credit Card,Tier 1,Fiber,4,0
+CUST10439,24,21,3158.54,100.22,0,0,Two year,Credit Card,Tier 1,DSL,3,0
+CUST10440,41,47,1812.26,103.85,0,3,Month-to-month,UPI,Tier 1,5G Home,1,0
+CUST10441,48,53,2342.76,34.4,2,0,One year,UPI,Tier 2,Fiber,2,0
+CUST10442,22,9,2885.04,57.45,1,1,Month-to-month,Cash,Tier 2,5G Home,4,0
+CUST10443,31,52,1822.16,86.81,2,1,One year,Debit Card,Tier 3,DSL,1,0
+CUST10444,45,57,2573.76,33.36,1,1,One year,Debit Card,Tier 3,Fiber,2,0
+CUST10445,35,26,1566.18,92.67,0,0,One year,Net Banking,Tier 2,DSL,2,0
+CUST10446,56,41,2079.04,103.16,0,1,One year,Credit Card,Tier 2,DSL,2,0
+CUST10447,41,35,2723.85,43.61,0,1,Two year,UPI,Tier 2,DSL,3,0
+CUST10448,48,63,1384.9,65.21,1,1,Month-to-month,Net Banking,Tier 1,5G Home,1,0
+CUST10449,33,25,2808.33,167.73,1,0,Month-to-month,Net Banking,Tier 3,Fiber,1,0
+CUST10450,47,38,2486.25,121.04,1,0,Month-to-month,UPI,Tier 1,5G Home,2,0
+CUST10451,24,2,2886.74,117.65,1,1,Two year,Debit Card,Tier 1,DSL,4,0
+CUST10452,49,7,2656.74,157.8,3,0,Month-to-month,Credit Card,Tier 2,DSL,1,0
+CUST10453,65,34,3454.9,58.07,0,0,One year,Debit Card,Tier 1,DSL,3,1
+CUST10454,24,17,2587.66,43.68,0,0,One year,Net Banking,Tier 2,Fiber,4,0
+CUST10455,31,43,2199.42,147.52,1,2,Month-to-month,Credit Card,Tier 2,5G Home,4,0
+CUST10456,35,59,2585.61,88.08,2,1,Month-to-month,Cash,Tier 1,DSL,4,0
+CUST10457,45,51,2880.31,57.22,1,0,Month-to-month,Net Banking,Tier 3,Fiber,4,0
+CUST10458,45,54,2534.2,232.49,3,1,Month-to-month,Debit Card,Tier 1,Fiber,1,1
+CUST10459,40,24,2528.41,34.23,3,1,Month-to-month,Debit Card,Tier 1,DSL,2,0
+CUST10460,58,25,2008.61,100.8,0,2,Month-to-month,Debit Card,Tier 2,Fiber,4,0
+CUST10461,55,71,2035.97,82.87,0,0,Two year,UPI,Tier 2,Fiber,3,0
+CUST10462,52,52,1518.18,75.6,0,1,Two year,Net Banking,Tier 2,Fiber,3,0
+CUST10463,49,70,,21.32,2,2,Month-to-month,Credit Card,Tier 1,Fiber,2,0
+CUST10464,56,33,1629.3,186.41,0,2,Month-to-month,Debit Card,Tier 2,Fiber,1,0
+CUST10465,42,49,2014.97,39.0,1,1,Month-to-month,Debit Card,Tier 1,Fiber,2,0
+CUST10466,29,29,1997.11,79.49,2,0,One year,UPI,Tier 3,Fiber,4,0
+CUST10467,24,63,3126.45,72.62,0,2,Two year,Credit Card,Tier 1,DSL,1,0
+CUST10468,55,22,2293.54,122.83,0,1,Month-to-month,Net Banking,Tier 2,DSL,1,0
+CUST10469,53,26,3373.42,34.47,3,0,Month-to-month,Cash,Tier 1,Fiber,4,0
+CUST10470,50,28,2028.56,115.62,2,1,One year,UPI,Tier 1,Fiber,3,0
+CUST10471,29,49,2695.3,101.05,0,1,One year,Net Banking,Tier 2,DSL,4,0
+CUST10472,38,71,1915.26,63.49,0,2,Month-to-month,Cash,Tier 3,Fiber,2,0
+CUST10473,51,49,4001.6,113.6,1,2,One year,Debit Card,Tier 2,Fiber,4,1
+CUST10474,20,20,1668.68,92.59,0,1,Month-to-month,Debit Card,Tier 3,Fiber,3,0
+CUST10475,24,63,2716.87,208.01,0,0,Month-to-month,Credit Card,Tier 2,5G Home,4,0
+CUST10476,64,61,2943.64,82.83,3,0,One year,Cash,Tier 2,DSL,2,0
+CUST10477,23,49,2789.66,53.08,1,0,Two year,Debit Card,Tier 1,DSL,2,0
+CUST10478,35,71,2370.3,116.19,1,0,Month-to-month,Debit Card,Tier 3,DSL,3,0
+CUST10479,43,1,2409.13,77.48,1,1,Two year,Credit Card,Tier 1,DSL,2,0
+CUST10480,35,13,2530.67,91.63,0,0,Month-to-month,Net Banking,Tier 3,Fiber,2,0
+CUST10481,21,51,2397.1,43.89,0,0,One year,Debit Card,Tier 3,DSL,4,0
+CUST10482,47,56,3174.72,123.76,1,0,Month-to-month,UPI,Tier 3,Fiber,1,0
+CUST10483,51,62,4047.37,70.96,0,1,Two year,UPI,Tier 2,DSL,2,0
+CUST10484,46,32,2109.76,104.99,2,2,Two year,Net Banking,Tier 2,DSL,2,0
+CUST10485,39,30,1541.14,233.4,4,1,Month-to-month,Cash,Tier 2,DSL,3,0
+CUST10486,43,29,2438.2,80.34,1,2,Two year,Credit Card,Tier 1,Fiber,3,0
+CUST10487,31,49,4305.8,132.11,2,0,Two year,,Tier 2,Fiber,4,0
+CUST10488,54,45,1937.43,83.26,0,1,One year,UPI,Tier 1,DSL,4,0
+CUST10489,52,30,3647.38,63.96,1,0,Month-to-month,Net Banking,Tier 2,DSL,2,0
+CUST10490,52,16,3674.39,170.58,3,0,Two year,Cash,Tier 1,5G Home,1,0
+CUST10491,62,40,2112.49,28.2,3,0,Two year,Cash,Tier 1,Fiber,1,0
+CUST10492,56,19,,148.85,0,1,Month-to-month,Net Banking,Tier 1,DSL,4,0
+CUST10493,31,18,3639.88,26.0,0,1,Two year,UPI,Tier 1,DSL,3,0
+CUST10494,22,1,2234.61,141.38,1,0,Month-to-month,Credit Card,Tier 2,5G Home,2,0
+CUST10495,20,47,2357.49,92.35,2,0,Month-to-month,UPI,Tier 1,DSL,2,0
+CUST10496,52,66,2092.82,53.16,0,1,One year,Cash,Tier 2,DSL,1,0
+CUST10497,59,38,1789.67,73.53,1,2,One year,UPI,Tier 1,DSL,4,1
+CUST10498,29,51,2045.51,128.6,2,1,One year,Credit Card,Tier 2,DSL,1,0
+CUST10499,62,63,1643.24,222.57,0,0,Month-to-month,Debit Card,Tier 2,5G Home,1,0
+CUST10500,63,4,2523.86,35.32,0,2,Two year,UPI,Tier 2,Fiber,4,0
+CUST10501,48,1,1961.02,55.02,0,3,Month-to-month,Net Banking,Tier 2,Fiber,3,1
+CUST10502,32,8,2663.65,41.59,2,1,Month-to-month,Debit Card,Tier 1,5G Home,2,1
+CUST10503,31,29,1410.87,82.91,2,1,Month-to-month,Net Banking,Tier 2,DSL,3,0
+CUST10504,50,55,2731.62,143.24,2,1,One year,Net Banking,Tier 1,DSL,4,0
+CUST10505,65,3,3083.47,38.27,1,0,Two year,Net Banking,Tier 2,DSL,4,0
+CUST10506,21,32,1104.39,91.09,4,0,One year,UPI,Tier 2,Fiber,2,0
+CUST10507,54,10,2761.84,141.02,2,1,Two year,Cash,Tier 1,DSL,3,0
+CUST10508,42,34,3359.37,72.96,2,1,Month-to-month,Debit Card,Tier 2,DSL,2,0
+CUST10509,36,55,1653.25,14.98,1,0,One year,Credit Card,Tier 2,Fiber,1,0
+CUST10510,45,32,3670.8,101.52,1,0,Month-to-month,Cash,Tier 1,Fiber,1,0
+CUST10511,27,50,,164.46,2,1,Month-to-month,UPI,Tier 1,5G Home,1,0
+CUST10512,48,7,2006.49,49.36,1,0,Month-to-month,Net Banking,Tier 1,Fiber,3,0
+CUST10513,45,8,2460.96,30.16,2,0,One year,Credit Card,Tier 3,5G Home,1,1
+CUST10514,29,65,2890.83,107.84,1,0,One year,Debit Card,Tier 2,Fiber,2,0
+CUST10515,45,57,2553.2,109.34,0,2,One year,Cash,Tier 1,DSL,3,0
+CUST10516,53,67,2877.13,70.26,2,2,Month-to-month,Cash,Tier 1,5G Home,2,0
+CUST10517,60,59,1855.53,62.98,0,2,Month-to-month,Credit Card,Tier 2,DSL,4,0
+CUST10518,26,72,2618.55,93.31,1,0,One year,UPI,Tier 3,Fiber,3,0
+CUST10519,23,54,1510.4,48.85,0,2,Month-to-month,Debit Card,Tier 1,DSL,2,0
+CUST10520,64,67,2422.14,48.89,3,0,Two year,Credit Card,Tier 1,Fiber,2,0
+CUST10521,30,51,1867.26,128.19,1,1,One year,Net Banking,Tier 3,Fiber,3,0
+CUST10522,48,8,1985.13,46.94,2,2,Month-to-month,Debit Card,Tier 1,5G Home,4,1
+CUST10523,55,34,3365.27,31.38,2,1,Two year,Cash,Tier 1,DSL,3,0
+CUST10524,44,35,3263.92,62.91,0,0,One year,Credit Card,Tier 3,DSL,1,0
+CUST10525,40,32,2926.4,71.18,4,0,Month-to-month,Cash,Tier 2,Fiber,1,1
+CUST10526,55,46,1735.38,115.61,2,2,One year,Cash,Tier 1,Fiber,4,0
+CUST10527,29,16,2278.51,65.94,1,1,Month-to-month,Cash,Tier 1,Fiber,2,0
+CUST10528,56,68,3349.17,178.01,0,1,Two year,UPI,Tier 1,DSL,2,0
+CUST10529,28,37,2599.2,95.81,1,2,Two year,Cash,Tier 1,DSL,2,0
+CUST10530,43,54,4123.53,58.16,1,0,Two year,Net Banking,Tier 3,DSL,3,0
+CUST10531,54,14,2775.32,113.19,0,1,One year,Net Banking,Tier 1,5G Home,3,0
+CUST10532,54,55,2634.43,176.47,3,0,Month-to-month,Debit Card,Tier 2,Fiber,4,0
+CUST10533,55,48,2283.62,126.46,2,0,One year,Cash,Tier 3,Fiber,1,0
+CUST10534,37,7,2593.48,36.9,0,0,Month-to-month,Cash,Tier 1,Fiber,2,0
+CUST10535,58,7,2393.27,74.49,2,1,One year,Credit Card,Tier 1,Fiber,1,1
+CUST10536,51,33,2995.68,104.17,1,2,One year,UPI,Tier 2,Fiber,3,0
+CUST10537,43,23,,123.89,0,1,Month-to-month,Debit Card,Tier 3,5G Home,3,0
+CUST10538,42,19,1949.81,83.17,1,0,Month-to-month,Cash,Tier 3,Fiber,3,0
+CUST10539,51,19,1568.14,77.16,0,1,Two year,Credit Card,Tier 1,5G Home,1,0
+CUST10540,56,36,1214.66,207.26,4,0,Two year,UPI,Tier 2,Fiber,4,1
+CUST10541,31,29,2855.59,127.38,2,1,Month-to-month,Debit Card,Tier 2,5G Home,4,0
+CUST10542,32,60,1727.64,113.37,1,0,Month-to-month,Debit Card,Tier 3,DSL,3,0
+CUST10543,42,2,992.98,67.45,1,3,Month-to-month,Cash,Tier 1,5G Home,2,1
+CUST10544,44,1,2772.01,48.44,2,2,Two year,Debit Card,Tier 2,Fiber,1,0
+CUST10545,54,47,4245.1,114.36,1,1,Month-to-month,Credit Card,Tier 3,DSL,3,0
+CUST10546,60,69,2495.75,,1,0,One year,Debit Card,Tier 1,5G Home,1,1
+CUST10547,49,20,3086.94,91.4,3,1,Month-to-month,Net Banking,Tier 2,Fiber,1,0
+CUST10548,36,11,2557.28,,2,1,One year,Credit Card,Tier 1,Fiber,4,0
+CUST10549,39,2,2430.78,129.16,1,2,Month-to-month,UPI,Tier 1,Fiber,3,0
+CUST10550,44,67,3143.35,138.62,1,0,One year,UPI,Tier 1,5G Home,4,0
+CUST10551,41,12,2296.81,36.51,0,2,Month-to-month,Cash,Tier 3,DSL,3,0
+CUST10552,32,20,2687.17,75.62,2,0,One year,Cash,Tier 1,DSL,1,0
+CUST10553,38,5,2725.19,117.78,0,1,Month-to-month,Net Banking,Tier 2,Fiber,4,0
+CUST10554,55,37,2032.34,94.07,2,0,One year,UPI,Tier 2,Fiber,1,1
+CUST10555,31,38,3194.43,129.36,0,1,Two year,UPI,Tier 1,5G Home,3,0
+CUST10556,60,9,2377.53,113.33,1,0,Month-to-month,UPI,Tier 2,Fiber,2,1
+CUST10557,38,53,1970.98,22.4,3,0,Two year,UPI,Tier 2,DSL,4,0
+CUST10558,31,44,2875.56,154.86,3,0,One year,Debit Card,Tier 3,5G Home,4,0
+CUST10559,28,24,1871.07,70.6,2,0,Month-to-month,Credit Card,Tier 2,Fiber,1,0
+CUST10560,26,30,2519.73,56.26,3,1,Month-to-month,Credit Card,Tier 2,DSL,1,0
+CUST10561,47,59,2493.62,152.35,2,0,Month-to-month,Net Banking,Tier 1,Fiber,2,0
+CUST10562,33,14,3260.13,124.49,0,0,One year,Debit Card,Tier 3,DSL,4,0
+CUST10563,50,9,2832.29,162.78,2,1,One year,UPI,Tier 1,Fiber,3,0
+CUST10564,38,40,2482.48,104.75,0,0,Month-to-month,UPI,Tier 2,DSL,3,0
+CUST10565,35,66,3072.44,75.1,1,2,One year,Cash,Tier 1,Fiber,4,0
+CUST10566,24,25,3473.15,98.7,1,2,Two year,Cash,Tier 3,Fiber,4,0
+CUST10567,54,22,2890.47,50.69,0,0,Two year,Net Banking,Tier 2,DSL,4,0
+CUST10568,31,4,2507.25,40.96,0,1,One year,UPI,Tier 2,Fiber,2,0
+CUST10569,44,26,1581.71,64.72,1,1,Two year,Net Banking,Tier 1,DSL,3,0
+CUST10570,40,58,1754.42,186.44,1,0,One year,Debit Card,Tier 1,Fiber,3,0
+CUST10571,55,29,2286.34,68.34,1,1,Month-to-month,Credit Card,Tier 2,DSL,1,1
+CUST10572,42,37,2073.34,31.82,1,1,Two year,UPI,Tier 2,Fiber,1,0
+CUST10573,35,70,2369.12,84.4,1,0,Month-to-month,Debit Card,Tier 1,DSL,4,0
+CUST10574,58,18,2539.65,67.84,0,0,Month-to-month,UPI,Tier 3,Fiber,1,0
+CUST10575,64,42,2870.78,156.24,3,1,Month-to-month,Cash,Tier 3,Fiber,2,0
+CUST10576,61,41,2450.65,179.96,1,0,Two year,Net Banking,Tier 1,Fiber,3,0
+CUST10577,58,38,2840.55,73.26,0,0,Two year,Cash,Tier 3,DSL,3,0
+CUST10578,33,34,2545.13,104.7,0,1,Month-to-month,Credit Card,Tier 2,Fiber,1,0
+CUST10579,50,17,1117.17,109.13,0,0,Month-to-month,Cash,Tier 2,5G Home,4,0
+CUST10580,24,37,1842.47,89.36,2,0,Month-to-month,UPI,Tier 1,5G Home,1,0
+CUST10581,54,25,2399.14,81.07,2,0,One year,Cash,Tier 2,Fiber,4,0
+CUST10582,42,27,1653.21,54.16,0,0,Month-to-month,UPI,Tier 2,DSL,2,0
+CUST10583,48,57,2919.95,28.65,0,0,One year,Credit Card,Tier 1,Fiber,3,0
+CUST10584,62,31,3571.53,53.98,0,1,Month-to-month,Cash,Tier 2,Fiber,2,1
+CUST10585,30,6,3353.13,87.73,0,0,Month-to-month,Net Banking,Tier 2,DSL,3,0
+CUST10586,37,40,2350.59,38.31,1,0,Month-to-month,Net Banking,Tier 2,DSL,2,0
+CUST10587,31,12,3543.51,101.95,2,3,Month-to-month,Net Banking,Tier 1,DSL,1,1
+CUST10588,28,53,2604.07,95.03,1,0,Two year,Cash,Tier 3,Fiber,2,0
+CUST10589,29,71,2264.04,67.91,1,0,Month-to-month,Cash,Tier 2,Fiber,2,0
+CUST10590,63,10,2070.62,79.27,0,0,Month-to-month,Cash,Tier 1,Fiber,1,1
+CUST10591,36,45,2288.27,42.47,0,1,Month-to-month,UPI,Tier 1,DSL,3,0
+CUST10592,57,17,2228.28,137.4,2,2,Month-to-month,Credit Card,Tier 2,DSL,3,0
+CUST10593,26,26,2619.29,136.25,1,1,Month-to-month,Net Banking,Tier 3,DSL,1,1
+CUST10594,65,62,2612.4,46.95,0,0,Month-to-month,UPI,Tier 1,Fiber,2,0
+CUST10595,32,46,2502.13,47.75,1,1,One year,,Tier 2,Fiber,2,0
+CUST10596,59,64,2805.86,54.39,0,0,One year,UPI,Tier 1,Fiber,2,0
+CUST10597,61,2,3333.45,120.68,3,0,Month-to-month,Cash,Tier 2,Fiber,4,1
+CUST10598,28,54,3164.69,108.96,1,2,Month-to-month,Net Banking,Tier 3,Fiber,3,0
+CUST10599,46,65,1460.57,151.5,0,1,Two year,Cash,Tier 2,5G Home,2,0

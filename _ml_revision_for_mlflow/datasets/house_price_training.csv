@@ -1,0 +1,501 @@
+property_id,area_sqft,bedrooms,bathrooms,age_years,distance_from_city_center_km,floor,parking,furnishing,locality_grade,property_type,city,price_inr
+PROP20000,3586,3,1,30,10.45,24,Open,Semi-Furnished,Budget,Apartment,Bengaluru,22521081.0
+PROP20001,658,1,4,11,7.89,5,Covered,Fully-Furnished,Budget,Villa,Pune,10223667.0
+PROP20002,3033,4,3,15,16.53,11,Open,Unfurnished,Premium,Apartment,Pune,22693704.0
+PROP20003,2662,5,3,12,27.65,24,Covered,Fully-Furnished,Premium,Apartment,Hyderabad,22897283.0
+PROP20004,1854,1,4,19,20.89,8,Covered,Unfurnished,Standard,Apartment,Hyderabad,11778898.0
+PROP20005,2846,5,3,16,22.59,6,Open,Fully-Furnished,Standard,Independent House,Chennai,23607769.0
+PROP20006,1977,1,4,17,25.2,11,Covered,Unfurnished,Standard,Villa,Pune,17173171.0
+PROP20007,634,3,3,2,11.2,24,Covered,Semi-Furnished,Premium,Villa,Bengaluru,13541286.0
+PROP20008,761,4,3,22,2.82,4,No,Semi-Furnished,Budget,Apartment,Hyderabad,5974536.0
+PROP20009,3629,3,4,9,19.05,15,Open,Semi-Furnished,Standard,Apartment,Hyderabad,24632849.0
+PROP20010,3446,4,4,0,6.47,4,No,Semi-Furnished,Budget,Apartment,Pune,24517801.0
+PROP20011,1494,5,3,5,17.5,11,Covered,Fully-Furnished,Standard,Independent House,Bengaluru,13178836.0
+PROP20012,1070,1,4,2,22.45,23,No,Semi-Furnished,Standard,Apartment,Hyderabad,8713935.0
+PROP20013,3178,2,3,18,23.73,19,No,Semi-Furnished,Budget,Apartment,Hyderabad,18724805.0
+PROP20014,3439,2,2,3,9.75,8,Open,Unfurnished,Standard,Apartment,Bengaluru,22393617.0
+PROP20015,3499,4,1,28,15.86,22,Open,Fully-Furnished,Budget,Apartment,Hyderabad,21063583.0
+PROP20016,2046,4,1,19,19.01,6,Covered,Semi-Furnished,Budget,Apartment,Bengaluru,12108317.0
+PROP20017,947,3,3,22,24.76,18,Covered,Semi-Furnished,Standard,Independent House,Pune,9346413.0
+PROP20018,1293,2,1,2,23.08,19,Open,Unfurnished,Standard,Apartment,Hyderabad,8106606.0
+PROP20019,1534,3,3,7,29.65,22,No,Semi-Furnished,Premium,Independent House,Pune,16249696.0
+PROP20020,1512,5,4,7,1.23,10,Covered,Unfurnished,Premium,Independent House,Bengaluru,19461343.0
+PROP20021,746,2,2,26,13.69,20,Open,Unfurnished,Premium,Apartment,Pune,7275086.0
+PROP20022,4045,5,1,28,8.43,11,Open,Semi-Furnished,Premium,Apartment,Pune,29263440.0
+PROP20023,2311,1,1,6,4.48,2,Open,Unfurnished,Standard,Apartment,Pune,16626906.0
+PROP20024,1274,3,4,1,27.43,16,Open,Unfurnished,Standard,Independent House,Chennai,13807991.0
+PROP20025,2039,4,2,20,29.94,6,Open,Semi-Furnished,Standard,Apartment,Bengaluru,14808225.0
+PROP20026,3334,2,2,5,6.24,21,Covered,Unfurnished,Standard,Apartment,Bengaluru,22783318.0
+PROP20027,2117,3,2,27,2.11,9,Open,Unfurnished,Premium,Apartment,Bengaluru,15557714.0
+PROP20028,1879,4,4,15,8.98,22,Covered,Unfurnished,Premium,Apartment,Bengaluru,17496019.0
+PROP20029,3607,1,1,9,25.21,14,Open,Semi-Furnished,Standard,Apartment,Bengaluru,23509290.0
+PROP20030,1285,2,1,3,9.52,1,,Semi-Furnished,Standard,Apartment,Hyderabad,10436508.0
+PROP20031,1726,5,2,12,2.65,12,Covered,Semi-Furnished,Standard,Villa,Hyderabad,20285804.0
+PROP20032,720,1,4,9,2.52,3,Open,Unfurnished,Standard,Independent House,Hyderabad,9000633.0
+PROP20033,3066,4,4,20,13.4,17,No,Unfurnished,Budget,Apartment,Pune,19815741.0
+PROP20034,2997,2,4,13,28.02,23,Open,Unfurnished,Standard,Apartment,Pune,18732951.0
+PROP20035,641,2,2,8,9.29,22,Open,Semi-Furnished,Standard,Independent House,Bengaluru,10655039.0
+PROP20036,4038,1,4,10,13.39,0,Covered,Fully-Furnished,Budget,Apartment,Chennai,25866260.0
+PROP20037,628,2,2,22,3.96,1,Open,Unfurnished,Budget,Independent House,Bengaluru,5508406.0
+PROP20038,1565,4,2,17,15.31,1,Covered,Unfurnished,Standard,Apartment,Hyderabad,10733875.0
+PROP20039,2515,1,2,10,21.2,3,No,Unfurnished,Standard,Villa,Bengaluru,19666594.0
+PROP20040,3432,5,3,16,8.86,2,,Semi-Furnished,Premium,Apartment,Pune,25454607.0
+PROP20041,2600,1,2,1,9.6,16,Covered,Semi-Furnished,Standard,Apartment,Bengaluru,18265666.0
+PROP20042,2661,1,4,2,25.42,13,Covered,Semi-Furnished,Budget,Independent House,Hyderabad,18730884.0
+PROP20043,1519,5,3,10,1.3,1,No,Fully-Furnished,Standard,Apartment,Bengaluru,12399514.0
+PROP20044,1417,4,1,17,19.46,15,Open,Semi-Furnished,Budget,Apartment,Pune,10554167.0
+PROP20045,3472,3,1,26,12.42,10,Open,Unfurnished,Standard,Apartment,Chennai,22225390.0
+PROP20046,2108,3,4,2,9.65,24,Open,Unfurnished,Budget,Independent House,Hyderabad,18552164.0
+PROP20047,1812,5,4,25,20.07,12,Covered,Semi-Furnished,Standard,Apartment,Bengaluru,14175038.0
+PROP20048,1471,4,4,14,25.21,0,Covered,Semi-Furnished,Premium,Independent House,Pune,17514371.0
+PROP20049,894,2,4,10,17.19,24,Open,Semi-Furnished,Standard,Apartment,Hyderabad,6203070.0
+PROP20050,3854,5,3,10,1.9,22,Covered,Semi-Furnished,Standard,Apartment,Hyderabad,26863405.0
+PROP20051,1463,3,4,30,14.38,1,Open,Semi-Furnished,Premium,Villa,Pune,15746349.0
+PROP20052,3195,4,2,27,14.42,1,No,Fully-Furnished,Budget,Apartment,Bengaluru,19078143.0
+PROP20053,3708,1,1,29,16.77,20,Open,Semi-Furnished,Standard,Apartment,Bengaluru,22111738.0
+PROP20054,3655,4,4,27,20.46,4,Covered,Semi-Furnished,Budget,Apartment,Bengaluru,22238420.0
+PROP20055,1637,4,2,24,1.56,3,Covered,Unfurnished,Standard,Apartment,Hyderabad,11890978.0
+PROP20056,3282,3,4,19,15.56,11,Open,Semi-Furnished,Premium,Apartment,Chennai,24349366.0
+PROP20057,1194,3,2,27,18.06,2,Open,Fully-Furnished,Budget,Apartment,Hyderabad,6113949.0
+PROP20058,1782,2,3,24,10.96,19,Covered,Semi-Furnished,Standard,Apartment,Bengaluru,10367606.0
+PROP20059,2117,2,1,10,20.38,9,Open,Semi-Furnished,Standard,Apartment,Hyderabad,13170918.0
+PROP20060,1952,5,1,18,7.62,19,Open,Semi-Furnished,Standard,Apartment,Chennai,13818985.0
+PROP20061,1213,1,3,27,10.2,17,Covered,Unfurnished,Standard,Apartment,Hyderabad,7622229.0
+PROP20062,2472,2,2,0,28.92,20,Covered,Semi-Furnished,Budget,Independent House,Pune,17679099.0
+PROP20063,3754,3,4,26,11.09,20,Open,Unfurnished,Standard,Independent House,Bengaluru,26483124.0
+PROP20064,2203,4,2,4,11.05,20,Open,Fully-Furnished,Standard,Apartment,Bengaluru,16252961.0
+PROP20065,2183,5,1,9,18.27,9,Open,Fully-Furnished,Budget,Apartment,Bengaluru,14861513.0
+PROP20066,2192,2,3,9,29.16,0,No,Unfurnished,Premium,Independent House,Hyderabad,17795818.0
+PROP20067,3693,4,3,13,29.51,5,Covered,Unfurnished,Standard,Apartment,Hyderabad,23394536.0
+PROP20068,1755,4,2,1,17.81,10,Open,Semi-Furnished,Budget,Apartment,Hyderabad,11348634.0
+PROP20069,1064,2,2,3,1.03,1,Covered,Unfurnished,Standard,Villa,Bengaluru,13576999.0
+PROP20070,2079,1,3,1,27.12,6,No,Unfurnished,Budget,Apartment,Hyderabad,11843397.0
+PROP20071,3973,1,1,17,17.54,19,Open,Semi-Furnished,Standard,Apartment,Bengaluru,25799006.0
+PROP20072,3602,5,4,12,11.61,20,No,Semi-Furnished,Budget,Independent House,Hyderabad,27159115.0
+PROP20073,3577,1,4,18,25.05,20,Covered,Unfurnished,Budget,Villa,Bengaluru,26026783.0
+PROP20074,1890,5,2,4,12.6,20,Open,Fully-Furnished,Standard,Apartment,Pune,14877263.0
+PROP20075,3446,3,3,19,1.99,17,Open,Fully-Furnished,Premium,Apartment,Hyderabad,26713218.0
+PROP20076,3042,2,3,1,24.81,20,No,Semi-Furnished,Standard,Apartment,Bengaluru,21522481.0
+PROP20077,3791,4,3,30,16.83,18,No,Fully-Furnished,Standard,Villa,Pune,29256970.0
+PROP20078,2893,5,1,10,10.81,3,No,Unfurnished,Premium,Apartment,Pune,23525382.0
+PROP20079,1167,1,2,29,8.28,12,Open,Unfurnished,Premium,Apartment,Chennai,9578674.0
+PROP20080,637,5,2,29,18.22,17,Open,Unfurnished,Standard,Independent House,Hyderabad,7854546.0
+PROP20081,844,5,2,25,7.03,19,Open,Semi-Furnished,Budget,Apartment,Bengaluru,6081359.0
+PROP20082,620,1,1,17,10.39,24,Open,Fully-Furnished,Standard,Apartment,Chennai,5745648.0
+PROP20083,1733,1,2,29,19.46,23,Open,Semi-Furnished,Standard,Apartment,Hyderabad,9612197.0
+PROP20084,2229,2,4,5,26.56,12,Open,Fully-Furnished,Premium,Apartment,Pune,18081441.0
+PROP20085,993,4,2,22,16.45,18,No,Semi-Furnished,Standard,Apartment,Hyderabad,7566277.0
+PROP20086,2033,2,2,27,23.01,16,No,Semi-Furnished,Premium,Independent House,Bengaluru,17281940.0
+PROP20087,1586,2,2,9,23.13,0,Covered,Semi-Furnished,Premium,Independent House,Pune,16312901.0
+PROP20088,2271,1,1,21,20.27,5,Open,Unfurnished,Budget,Apartment,Chennai,13100704.0
+PROP20089,2655,1,4,22,8.13,18,No,Unfurnished,Budget,Apartment,Hyderabad,14691376.0
+PROP20090,4115,4,4,16,26.14,19,No,Semi-Furnished,Premium,Apartment,Hyderabad,28588293.0
+PROP20091,2975,5,3,21,13.65,0,Covered,Semi-Furnished,Premium,Apartment,Chennai,23005865.0
+PROP20092,2510,2,3,10,2.28,7,Covered,Semi-Furnished,Standard,Apartment,Hyderabad,17614673.0
+PROP20093,889,4,4,18,8.09,16,Open,Semi-Furnished,Standard,Independent House,Hyderabad,13666841.0
+PROP20094,2386,2,2,16,23.2,20,Open,Unfurnished,Premium,Apartment,Hyderabad,17981348.0
+PROP20095,3158,5,2,23,3.0,21,Open,Semi-Furnished,Standard,Apartment,Pune,21869102.0
+PROP20096,1511,2,2,3,5.27,14,Covered,Semi-Furnished,Premium,Apartment,Pune,14199428.0
+PROP20097,960,3,1,25,21.13,17,Covered,Semi-Furnished,Budget,Apartment,Bengaluru,4702704.0
+PROP20098,2222,4,2,23,26.89,6,Open,Fully-Furnished,Standard,Apartment,Hyderabad,14649577.0
+PROP20099,3363,1,1,25,19.38,15,Covered,Semi-Furnished,Standard,Apartment,Bengaluru,20690484.0
+PROP20100,818,2,4,13,7.45,6,Covered,Semi-Furnished,Standard,Apartment,Pune,7085821.0
+PROP20101,3053,4,2,26,2.55,16,Open,Fully-Furnished,Budget,Villa,Hyderabad,24112513.0
+PROP20102,2615,4,2,19,18.84,3,Open,Fully-Furnished,Budget,Apartment,Bengaluru,17791656.0
+PROP20103,2640,2,3,3,2.37,11,No,Fully-Furnished,Premium,Apartment,Hyderabad,23288704.0
+PROP20104,2644,1,4,27,18.77,12,No,Unfurnished,Premium,Apartment,Hyderabad,18502281.0
+PROP20105,3400,1,2,13,7.54,3,Covered,Unfurnished,Standard,Independent House,Chennai,23473166.0
+PROP20106,3570,2,1,25,27.24,20,Open,Unfurnished,Premium,Apartment,Bengaluru,24075453.0
+PROP20107,1431,4,4,3,14.78,0,Covered,Unfurnished,Standard,Apartment,Pune,13373154.0
+PROP20108,2393,1,3,5,7.49,0,Covered,Fully-Furnished,Standard,Apartment,Bengaluru,18872453.0
+PROP20109,2391,2,4,29,25.74,6,No,Semi-Furnished,Standard,Villa,Bengaluru,19594483.0
+PROP20110,3441,2,1,8,8.37,8,Open,Unfurnished,Standard,Apartment,Bengaluru,24014031.0
+PROP20111,1843,2,3,20,9.89,0,Covered,Unfurnished,Standard,Apartment,Chennai,12420696.0
+PROP20112,1194,4,1,11,25.19,15,Covered,Unfurnished,Budget,Apartment,Hyderabad,8077643.0
+PROP20113,2754,1,4,28,9.95,17,Covered,Semi-Furnished,Premium,Apartment,Pune,19644852.0
+PROP20114,1180,4,3,25,12.89,21,Open,Semi-Furnished,Standard,Apartment,Chennai,9155089.0
+PROP20115,3256,3,1,29,11.08,14,Open,Fully-Furnished,Premium,Apartment,Pune,24419381.0
+PROP20116,2347,1,4,30,4.38,5,Open,Fully-Furnished,Premium,Independent House,Chennai,19800019.0
+PROP20117,3957,4,1,7,2.13,1,Covered,Unfurnished,Standard,Apartment,Hyderabad,26395951.0
+PROP20118,2655,1,2,23,22.01,8,Open,Unfurnished,Premium,Apartment,Pune,18153190.0
+PROP20119,3453,3,4,3,19.71,3,Covered,Unfurnished,Premium,Apartment,Bengaluru,26045554.0
+PROP20120,2836,5,3,30,9.19,12,Open,Semi-Furnished,Premium,Apartment,Chennai,21991983.0
+PROP20121,680,2,3,26,9.57,22,Covered,Fully-Furnished,Standard,Apartment,Pune,5501716.0
+PROP20122,2755,4,2,25,28.41,21,Open,Semi-Furnished,Standard,Independent House,Hyderabad,21570046.0
+PROP20123,1944,3,1,24,29.64,10,Open,Semi-Furnished,Premium,Independent House,Pune,15301892.0
+PROP20124,2202,3,1,24,14.73,12,Open,Semi-Furnished,Standard,Apartment,Chennai,15250611.0
+PROP20125,3333,1,3,4,24.27,10,Open,Unfurnished,Premium,Apartment,Hyderabad,23391386.0
+PROP20126,945,1,1,5,22.36,18,Open,Unfurnished,Standard,Apartment,Bengaluru,4977816.0
+PROP20127,2486,2,4,4,9.62,7,No,Semi-Furnished,Standard,Villa,Chennai,22768188.0
+PROP20128,2975,1,4,18,2.7,6,No,Semi-Furnished,Standard,Villa,Chennai,24177353.0
+PROP20129,1154,4,3,26,5.13,24,Open,Unfurnished,Budget,Independent House,Hyderabad,9084002.0
+PROP20130,901,4,4,7,25.31,15,Covered,Semi-Furnished,Budget,Villa,Chennai,10205911.0
+PROP20131,799,4,3,8,22.21,2,Open,Fully-Furnished,Premium,Apartment,Pune,9824725.0
+PROP20132,3540,5,1,14,20.27,16,No,Semi-Furnished,Budget,Apartment,Bengaluru,23221403.0
+PROP20133,4090,4,1,3,4.79,17,Covered,Semi-Furnished,Premium,Villa,Pune,36186008.0
+PROP20134,1662,1,1,24,19.56,14,Open,Semi-Furnished,Budget,Apartment,Hyderabad,8699636.0
+PROP20135,906,1,2,8,23.39,16,Covered,Semi-Furnished,Standard,Apartment,Chennai,7311713.0
+PROP20136,3675,4,3,6,25.96,10,Open,Semi-Furnished,Standard,Apartment,Bengaluru,25012707.0
+PROP20137,2256,3,4,7,1.38,4,No,Fully-Furnished,Premium,Apartment,Hyderabad,18579548.0
+PROP20138,2471,3,1,14,20.85,15,Open,Unfurnished,Premium,Apartment,Pune,17034645.0
+PROP20139,3748,3,2,18,1.55,14,Open,Semi-Furnished,Standard,Apartment,Chennai,25079498.0
+PROP20140,3115,2,4,14,21.5,9,No,Unfurnished,Budget,Villa,Chennai,23295912.0
+PROP20141,2826,5,4,4,19.43,13,No,Unfurnished,Standard,Apartment,Hyderabad,21208434.0
+PROP20142,3292,4,4,18,5.3,1,No,Semi-Furnished,Standard,Apartment,Pune,23360474.0
+PROP20143,2446,2,1,6,23.22,15,Open,Fully-Furnished,Budget,Villa,Chennai,20702720.0
+PROP20144,2364,3,4,5,2.98,18,Open,Semi-Furnished,Standard,Apartment,Pune,18095646.0
+PROP20145,875,4,3,26,24.97,7,Open,Unfurnished,Premium,Apartment,Bengaluru,6679063.0
+PROP20146,1775,2,2,18,8.6,14,No,Unfurnished,Premium,Apartment,Chennai,14412864.0
+PROP20147,3835,1,4,24,,9,Open,Semi-Furnished,Standard,Apartment,Bengaluru,24455752.0
+PROP20148,3961,3,4,27,27.79,4,Open,Unfurnished,Premium,Apartment,Chennai,24535072.0
+PROP20149,2001,2,3,16,10.85,19,Open,Unfurnished,Premium,Independent House,Hyderabad,17818546.0
+PROP20150,3268,1,4,9,15.58,15,No,Semi-Furnished,Premium,Apartment,Chennai,23637751.0
+PROP20151,1237,3,1,18,14.43,20,No,Unfurnished,Premium,Apartment,Chennai,10682265.0
+PROP20152,2375,5,1,30,5.57,21,Open,Semi-Furnished,Budget,Apartment,Pune,14145626.0
+PROP20153,3981,3,1,30,18.12,11,No,Semi-Furnished,Premium,Apartment,Pune,26501279.0
+PROP20154,1529,5,4,30,22.55,22,Open,Unfurnished,Standard,Villa,Bengaluru,14710069.0
+PROP20155,4060,5,2,10,27.59,12,Open,Semi-Furnished,Standard,Apartment,Bengaluru,26961315.0
+PROP20156,2480,5,2,14,25.67,8,Open,Semi-Furnished,Standard,Apartment,Bengaluru,16349395.0
+PROP20157,782,4,4,9,15.79,16,No,Semi-Furnished,Premium,Villa,Chennai,13829863.0
+PROP20158,2444,4,2,10,21.85,19,Open,Semi-Furnished,Standard,Apartment,Chennai,16218810.0
+PROP20159,3977,5,2,22,24.22,11,Open,Unfurnished,Premium,Independent House,Bengaluru,30527361.0
+PROP20160,671,1,4,2,15.31,24,Covered,Fully-Furnished,Standard,Apartment,Hyderabad,8062142.0
+PROP20161,3890,5,1,29,4.35,4,Covered,Semi-Furnished,Premium,Apartment,Hyderabad,27130194.0
+PROP20162,3366,2,4,2,13.7,23,Open,Unfurnished,Standard,Independent House,Chennai,27494276.0
+PROP20163,3844,5,1,17,25.43,11,Open,Unfurnished,Standard,Independent House,Hyderabad,26856009.0
+PROP20164,2276,4,1,24,18.3,0,Open,Unfurnished,Standard,Apartment,Hyderabad,15521867.0
+PROP20165,1895,4,2,10,22.01,19,Covered,Unfurnished,Standard,Apartment,Bengaluru,13100536.0
+PROP20166,3373,2,2,19,6.37,15,No,Semi-Furnished,Standard,Apartment,Hyderabad,20233330.0
+PROP20167,4139,2,1,25,28.97,11,Covered,Unfurnished,Budget,Apartment,Hyderabad,23955428.0
+PROP20168,2916,3,1,28,12.72,8,Open,Unfurnished,Premium,Independent House,Chennai,22913291.0
+PROP20169,1643,1,2,21,19.96,12,Open,Semi-Furnished,Standard,Apartment,Chennai,10234754.0
+PROP20170,3225,1,3,17,1.55,16,No,Unfurnished,Budget,Apartment,Chennai,19396741.0
+PROP20171,3642,1,1,24,4.69,16,Open,Semi-Furnished,Standard,Independent House,Hyderabad,25451335.0
+PROP20172,1414,4,1,14,23.68,3,Open,Semi-Furnished,Standard,Apartment,Bengaluru,9304266.0
+PROP20173,2126,1,1,6,29.07,13,No,Unfurnished,Standard,Apartment,Pune,12890235.0
+PROP20174,2794,3,2,9,10.28,18,Open,Semi-Furnished,Premium,Independent House,Chennai,25269869.0
+PROP20175,4100,3,4,20,2.08,6,Covered,Semi-Furnished,Premium,Independent House,Chennai,32861396.0
+PROP20176,3836,1,1,22,11.47,2,Open,Semi-Furnished,Premium,Independent House,Chennai,29051306.0
+PROP20177,3537,2,1,29,1.51,0,Open,Unfurnished,Premium,Apartment,Bengaluru,23852668.0
+PROP20178,909,3,1,19,6.58,11,No,Semi-Furnished,Standard,Villa,Pune,10951084.0
+PROP20179,3165,2,4,28,22.82,14,Covered,Fully-Furnished,Budget,Apartment,Pune,18299766.0
+PROP20180,2661,4,4,9,28.18,10,Covered,Semi-Furnished,Premium,Apartment,Chennai,20870267.0
+PROP20181,731,3,1,12,3.54,9,Open,Unfurnished,Budget,Independent House,Hyderabad,4538497.0
+PROP20182,2477,2,1,14,17.18,1,Open,Semi-Furnished,Budget,Apartment,Chennai,14241300.0
+PROP20183,3402,1,3,22,8.36,3,Open,Semi-Furnished,Budget,Villa,Chennai,24988913.0
+PROP20184,3086,4,4,17,5.03,16,Open,Semi-Furnished,Budget,Apartment,Hyderabad,21308856.0
+PROP20185,3390,5,3,22,7.35,16,No,Semi-Furnished,Standard,Apartment,Hyderabad,22961940.0
+PROP20186,1339,5,1,30,17.76,7,Covered,Semi-Furnished,Premium,Villa,Chennai,16057906.0
+PROP20187,1394,1,1,3,2.89,22,Open,Fully-Furnished,Standard,Apartment,Bengaluru,9537040.0
+PROP20188,2910,4,1,19,13.59,13,Open,Semi-Furnished,Standard,Apartment,Bengaluru,19318397.0
+PROP20189,3290,4,1,16,4.92,23,Open,Semi-Furnished,Budget,Apartment,Hyderabad,19945847.0
+PROP20190,3896,4,2,27,8.91,3,Covered,Unfurnished,Budget,Independent House,Chennai,25252677.0
+PROP20191,857,4,2,2,6.53,5,,Fully-Furnished,Standard,Apartment,Bengaluru,8675801.0
+PROP20192,1857,5,2,20,26.61,18,Open,Fully-Furnished,Standard,Apartment,Chennai,14368488.0
+PROP20193,4007,2,3,20,21.53,23,Open,Unfurnished,Premium,Apartment,Chennai,27993336.0
+PROP20194,3056,4,4,1,26.19,3,Open,Semi-Furnished,Premium,Independent House,Chennai,26568158.0
+PROP20195,2451,2,1,3,12.12,2,Covered,Unfurnished,Standard,Villa,Bengaluru,21427023.0
+PROP20196,1574,4,4,0,10.09,19,No,Semi-Furnished,Standard,Villa,Pune,17511584.0
+PROP20197,1647,3,2,14,12.04,5,Covered,Semi-Furnished,Budget,Apartment,Chennai,10379615.0
+PROP20198,870,3,1,24,1.54,22,No,Unfurnished,Standard,Apartment,Bengaluru,6623938.0
+PROP20199,1718,3,1,0,22.02,6,No,Fully-Furnished,Budget,Apartment,Pune,10443676.0
+PROP20200,741,4,3,5,11.14,13,Covered,Unfurnished,Standard,Apartment,Hyderabad,8240249.0
+PROP20201,1501,2,4,6,10.09,11,Open,Semi-Furnished,Budget,Apartment,Bengaluru,10481594.0
+PROP20202,3621,5,3,18,18.35,15,Open,Semi-Furnished,Premium,Independent House,Pune,30093951.0
+PROP20203,3752,1,2,11,13.65,19,No,Unfurnished,Budget,Villa,Bengaluru,28231634.0
+PROP20204,873,5,4,30,29.44,7,Open,Unfurnished,Standard,Apartment,Pune,4147624.0
+PROP20205,2923,4,2,0,11.33,22,Open,Unfurnished,Premium,Apartment,Pune,23076027.0
+PROP20206,1064,3,3,6,18.8,1,Covered,Semi-Furnished,Premium,Villa,Bengaluru,14992825.0
+PROP20207,1831,3,3,18,10.04,12,Covered,Semi-Furnished,Budget,Apartment,Hyderabad,10568545.0
+PROP20208,1919,2,1,12,29.73,7,Open,Unfurnished,Premium,Apartment,Chennai,13133370.0
+PROP20209,3710,4,4,25,13.91,24,Open,Unfurnished,Standard,Apartment,Pune,26709080.0
+PROP20210,887,5,4,11,19.39,20,Open,Unfurnished,Standard,Apartment,Chennai,8716509.0
+PROP20211,3795,4,1,11,4.67,19,Open,Semi-Furnished,Standard,Villa,Hyderabad,32372709.0
+PROP20212,1475,4,4,21,22.26,15,No,Semi-Furnished,Budget,Apartment,Chennai,10051889.0
+PROP20213,2592,3,2,12,8.81,3,Open,Unfurnished,Standard,Apartment,Chennai,16968191.0
+PROP20214,3954,5,2,27,14.01,15,No,Semi-Furnished,Standard,Apartment,Bengaluru,25265656.0
+PROP20215,3525,1,3,13,26.61,19,No,Unfurnished,Budget,Villa,Bengaluru,25886043.0
+PROP20216,2827,3,2,21,29.15,5,No,Fully-Furnished,Budget,Apartment,Hyderabad,17042906.0
+PROP20217,1720,5,4,29,13.31,3,Open,Fully-Furnished,Budget,Apartment,Bengaluru,10877342.0
+PROP20218,1814,2,1,11,25.21,15,Covered,Semi-Furnished,Standard,Independent House,Pune,13346256.0
+PROP20219,3745,3,3,19,,22,Open,Fully-Furnished,Premium,Independent House,Hyderabad,33752735.0
+PROP20220,1046,2,1,11,25.58,22,Open,Fully-Furnished,Standard,Independent House,Bengaluru,10136265.0
+PROP20221,3432,3,3,26,19.26,20,No,Fully-Furnished,Standard,Independent House,Bengaluru,24505935.0
+PROP20222,4168,4,3,5,15.17,12,Open,Semi-Furnished,Premium,Apartment,Hyderabad,31214251.0
+PROP20223,3208,5,1,26,26.81,4,Open,Unfurnished,Standard,Apartment,Pune,19496594.0
+PROP20224,3131,2,2,9,25.51,14,Open,Unfurnished,Premium,Apartment,Hyderabad,22594606.0
+PROP20225,3496,3,2,19,9.61,7,Covered,Unfurnished,Standard,Apartment,Bengaluru,24089903.0
+PROP20226,1321,2,2,30,23.95,6,No,Semi-Furnished,Budget,Independent House,Bengaluru,8440856.0
+PROP20227,2763,3,2,28,3.89,13,No,Unfurnished,Premium,Villa,Hyderabad,23360211.0
+PROP20228,3182,3,1,23,24.86,6,Open,Unfurnished,Standard,Villa,Pune,23610621.0
+PROP20229,3769,1,4,8,20.59,21,Covered,Semi-Furnished,Budget,Apartment,Pune,23827388.0
+PROP20230,1951,1,3,1,3.55,6,Covered,Unfurnished,Premium,Independent House,Chennai,20857459.0
+PROP20231,1006,1,1,6,20.81,22,Covered,Semi-Furnished,Standard,Independent House,Pune,11206657.0
+PROP20232,3984,2,2,8,17.84,17,Open,Fully-Furnished,Budget,Apartment,Hyderabad,25736373.0
+PROP20233,2325,4,2,24,18.24,9,Covered,Semi-Furnished,Budget,Independent House,Pune,15660938.0
+PROP20234,1293,3,1,11,9.44,17,No,Semi-Furnished,Premium,Apartment,Pune,10979097.0
+PROP20235,3819,5,3,4,8.73,13,No,Semi-Furnished,Premium,Apartment,Chennai,29571261.0
+PROP20236,4013,1,1,0,23.11,9,Covered,Semi-Furnished,Premium,Villa,Pune,33522241.0
+PROP20237,1094,2,1,21,8.45,6,Covered,Unfurnished,Standard,Villa,Chennai,11445889.0
+PROP20238,1547,2,4,14,13.94,6,No,Fully-Furnished,Standard,Apartment,Chennai,11142547.0
+PROP20239,622,2,1,7,21.15,6,No,Unfurnished,Standard,Apartment,Pune,3864631.0
+PROP20240,1728,5,4,0,3.31,4,No,Unfurnished,Standard,Independent House,Bengaluru,17160495.0
+PROP20241,2298,5,3,17,18.24,0,No,Semi-Furnished,Premium,Villa,Hyderabad,20594914.0
+PROP20242,1157,1,1,12,18.09,13,No,Unfurnished,Standard,Villa,Hyderabad,10757256.0
+PROP20243,2216,5,1,28,20.84,17,Covered,Semi-Furnished,Standard,Apartment,Pune,14018654.0
+PROP20244,1540,1,2,0,11.73,12,Open,Unfurnished,Standard,Apartment,Hyderabad,12539603.0
+PROP20245,1845,5,1,4,14.02,24,Covered,Unfurnished,Standard,Apartment,Hyderabad,13755468.0
+PROP20246,3502,5,2,17,10.57,7,Covered,Unfurnished,Standard,Apartment,Chennai,23948471.0
+PROP20247,3686,5,2,15,24.44,7,Open,Unfurnished,Standard,Apartment,Bengaluru,24287888.0
+PROP20248,3538,1,2,30,4.79,9,Covered,Semi-Furnished,Premium,Apartment,Hyderabad,25680275.0
+PROP20249,2256,3,3,25,28.93,16,Open,Fully-Furnished,Standard,Apartment,Bengaluru,15817370.0
+PROP20250,677,1,4,9,19.41,5,Open,Semi-Furnished,Premium,Apartment,Hyderabad,7933097.0
+PROP20251,1945,3,2,29,26.72,14,Open,Fully-Furnished,Standard,Independent House,Bengaluru,14286464.0
+PROP20252,1406,2,1,3,13.36,14,Open,Unfurnished,Premium,Apartment,Bengaluru,12089950.0
+PROP20253,3912,2,1,0,10.64,24,Covered,Unfurnished,Premium,Apartment,Hyderabad,28862243.0
+PROP20254,1641,1,2,22,27.12,15,Covered,Unfurnished,Standard,Apartment,Chennai,9281970.0
+PROP20255,1367,3,2,7,3.87,7,Open,Semi-Furnished,Standard,Apartment,Bengaluru,11665815.0
+PROP20256,1053,3,1,4,4.4,18,Covered,Semi-Furnished,Standard,Apartment,Bengaluru,10014879.0
+PROP20257,4114,3,2,1,9.68,19,No,Semi-Furnished,Standard,Independent House,Hyderabad,31462021.0
+PROP20258,3575,2,4,23,28.83,14,Covered,Semi-Furnished,Standard,Villa,Bengaluru,28357705.0
+PROP20259,2924,1,4,16,19.36,2,Open,Semi-Furnished,Budget,Apartment,Bengaluru,19440582.0
+PROP20260,2047,4,3,30,17.07,5,No,Semi-Furnished,Premium,Apartment,Chennai,15504747.0
+PROP20261,2099,3,2,6,21.46,24,Open,Fully-Furnished,Standard,Apartment,Bengaluru,16603017.0
+PROP20262,1650,3,3,16,13.11,7,,Unfurnished,Budget,Villa,Chennai,14562456.0
+PROP20263,3161,4,3,27,22.98,15,No,Semi-Furnished,Budget,Apartment,Bengaluru,19995806.0
+PROP20264,2488,1,3,5,12.4,14,Covered,Semi-Furnished,Premium,Apartment,Bengaluru,21043958.0
+PROP20265,3111,3,2,28,24.96,12,No,Semi-Furnished,Standard,Independent House,Chennai,22342974.0
+PROP20266,3454,1,3,21,8.75,19,Covered,Unfurnished,Premium,Villa,Chennai,29253213.0
+PROP20267,3471,3,4,14,9.05,14,Covered,Semi-Furnished,Standard,Independent House,Pune,26180928.0
+PROP20268,962,5,3,4,16.15,17,Open,Semi-Furnished,Standard,Independent House,Bengaluru,10661074.0
+PROP20269,4054,3,4,14,13.49,12,Open,Semi-Furnished,Standard,Independent House,Chennai,29826817.0
+PROP20270,3398,5,4,17,19.8,23,Covered,Unfurnished,Standard,Apartment,Bengaluru,24893311.0
+PROP20271,1124,1,2,17,11.56,7,Open,Fully-Furnished,Standard,Apartment,Bengaluru,7859140.0
+PROP20272,4053,3,3,24,7.69,13,Open,Semi-Furnished,Standard,Villa,Bengaluru,31772264.0
+PROP20273,3855,2,2,20,14.62,10,Open,Semi-Furnished,Budget,Villa,Hyderabad,28666456.0
+PROP20274,1817,2,4,20,17.27,5,Open,Semi-Furnished,Budget,Independent House,Pune,13330232.0
+PROP20275,2085,4,1,22,5.14,23,Covered,Fully-Furnished,Premium,Apartment,Hyderabad,18849010.0
+PROP20276,2703,2,3,5,17.14,24,No,Unfurnished,Standard,Apartment,Pune,15993105.0
+PROP20277,1853,5,2,1,10.26,0,Open,Unfurnished,Premium,Apartment,Bengaluru,15748825.0
+PROP20278,3136,2,1,26,12.38,24,Open,Semi-Furnished,Standard,Apartment,Bengaluru,18938231.0
+PROP20279,3699,2,3,16,9.1,1,Covered,Semi-Furnished,Budget,Apartment,Chennai,22695556.0
+PROP20280,2455,2,3,20,28.01,12,Covered,Unfurnished,Budget,Villa,Pune,19013087.0
+PROP20281,1321,3,2,3,20.82,0,Open,Fully-Furnished,Standard,Apartment,Pune,10861134.0
+PROP20282,2583,4,1,11,8.61,23,No,Semi-Furnished,Standard,Villa,Hyderabad,23150642.0
+PROP20283,1807,1,2,18,19.71,23,No,Semi-Furnished,Premium,Villa,Pune,18845823.0
+PROP20284,2048,4,3,1,25.61,3,Open,Unfurnished,Standard,Apartment,Bengaluru,14048956.0
+PROP20285,1998,5,3,25,12.65,23,Open,Unfurnished,Premium,Apartment,Chennai,15220492.0
+PROP20286,2688,3,4,1,25.07,22,Covered,Semi-Furnished,Standard,Apartment,Hyderabad,20168438.0
+PROP20287,2107,3,3,13,5.48,1,Open,Fully-Furnished,Premium,Villa,Chennai,21999791.0
+PROP20288,1603,2,3,14,24.86,20,Open,Semi-Furnished,Standard,Independent House,Pune,12157872.0
+PROP20289,2907,2,1,19,16.67,19,Covered,Fully-Furnished,Premium,Independent House,Pune,24975760.0
+PROP20290,3088,5,1,1,7.47,15,Open,Fully-Furnished,Budget,Independent House,Hyderabad,25735342.0
+PROP20291,1525,3,4,3,12.81,2,Open,Semi-Furnished,Standard,Apartment,Pune,13856895.0
+PROP20292,1455,1,4,18,29.65,16,No,Semi-Furnished,Standard,Independent House,Chennai,11868557.0
+PROP20293,683,4,4,8,23.72,4,Open,Semi-Furnished,Premium,Independent House,Bengaluru,11963339.0
+PROP20294,2693,3,2,6,17.68,7,,Semi-Furnished,Standard,Independent House,Hyderabad,22697081.0
+PROP20295,3087,1,2,29,4.34,11,Open,Unfurnished,Premium,Apartment,Pune,20688426.0
+PROP20296,2142,1,4,12,13.12,24,Open,Semi-Furnished,Standard,Independent House,Chennai,18738410.0
+PROP20297,1585,4,2,26,8.63,22,Open,Unfurnished,Budget,Apartment,Bengaluru,9990207.0
+PROP20298,2468,1,3,30,3.06,11,,Fully-Furnished,Standard,Villa,Pune,21765640.0
+PROP20299,4109,5,4,11,16.72,0,Open,Fully-Furnished,Standard,Apartment,Hyderabad,28858684.0
+PROP20300,735,1,4,2,26.79,0,Open,Unfurnished,Standard,Apartment,Pune,6950181.0
+PROP20301,1806,5,2,12,20.59,14,Covered,Unfurnished,Budget,Apartment,Pune,12285921.0
+PROP20302,2332,1,1,14,8.24,16,No,Semi-Furnished,Budget,Apartment,Pune,12779619.0
+PROP20303,1795,2,4,13,17.63,1,Covered,Semi-Furnished,Standard,Apartment,Bengaluru,14201084.0
+PROP20304,1508,1,2,23,28.35,16,Open,Unfurnished,Standard,Independent House,Bengaluru,10112572.0
+PROP20305,3508,5,2,8,21.96,19,Open,Semi-Furnished,Standard,Apartment,Pune,25429552.0
+PROP20306,3435,1,1,12,20.99,8,Open,Unfurnished,Premium,Apartment,Pune,23531331.0
+PROP20307,1189,1,4,22,29.08,11,,Unfurnished,Standard,Apartment,Hyderabad,8050810.0
+PROP20308,2551,1,1,21,24.17,3,Open,Unfurnished,Standard,Apartment,Pune,15813142.0
+PROP20309,1555,5,3,3,,12,No,Unfurnished,Premium,Apartment,Chennai,15830329.0
+PROP20310,3337,1,1,20,11.08,3,Open,Semi-Furnished,Premium,Apartment,Chennai,23577682.0
+PROP20311,3186,4,1,7,28.99,6,No,Fully-Furnished,Standard,Apartment,Hyderabad,21744116.0
+PROP20312,1743,4,2,2,15.2,13,No,Semi-Furnished,Budget,Villa,Bengaluru,15058158.0
+PROP20313,3952,5,1,1,4.24,8,Covered,Semi-Furnished,Standard,Apartment,Pune,28480697.0
+PROP20314,1931,2,3,18,14.3,22,Open,Unfurnished,Standard,Apartment,Hyderabad,12031242.0
+PROP20315,3355,4,2,27,21.21,0,Covered,Semi-Furnished,Standard,Apartment,Bengaluru,21453518.0
+PROP20316,3948,3,3,22,29.93,0,No,Unfurnished,Standard,Independent House,Hyderabad,25522802.0
+PROP20317,2153,4,1,7,10.39,19,Open,Semi-Furnished,Standard,Apartment,Bengaluru,14925693.0
+PROP20318,2942,3,3,16,15.91,3,No,Fully-Furnished,Standard,Apartment,Pune,21399791.0
+PROP20319,2406,5,3,12,26.51,0,Covered,Unfurnished,Premium,Apartment,Hyderabad,19941653.0
+PROP20320,2700,2,1,6,,21,Covered,Semi-Furnished,Standard,Apartment,Pune,19004772.0
+PROP20321,1405,3,1,8,4.17,9,No,Unfurnished,Standard,Apartment,Hyderabad,10677942.0
+PROP20322,2055,3,2,11,28.52,1,Covered,Semi-Furnished,Standard,Apartment,Bengaluru,13644276.0
+PROP20323,651,4,2,28,15.16,20,No,Unfurnished,Budget,Apartment,Hyderabad,3695289.0
+PROP20324,3375,3,4,13,15.58,23,Open,Semi-Furnished,Premium,Apartment,Chennai,25034651.0
+PROP20325,671,5,2,13,19.01,14,Covered,Unfurnished,Standard,Apartment,Chennai,7144016.0
+PROP20326,627,5,1,14,1.1,2,Covered,Semi-Furnished,Standard,Villa,Hyderabad,10979122.0
+PROP20327,1068,5,3,2,28.0,24,Covered,Semi-Furnished,Budget,Independent House,Chennai,10903738.0
+PROP20328,1363,4,3,14,11.48,22,Open,Unfurnished,Standard,Apartment,Pune,10728742.0
+PROP20329,3533,2,2,18,12.51,8,No,Semi-Furnished,Standard,Apartment,Chennai,22124518.0
+PROP20330,3559,4,2,23,6.05,16,No,Fully-Furnished,Budget,Independent House,Chennai,25653864.0
+PROP20331,3194,5,1,19,11.97,20,Open,Semi-Furnished,Standard,Independent House,Pune,23725824.0
+PROP20332,2024,4,3,13,24.31,12,Covered,Unfurnished,Standard,Apartment,Pune,14658421.0
+PROP20333,2848,5,4,7,24.2,2,No,Unfurnished,Standard,Villa,Bengaluru,25436006.0
+PROP20334,1419,1,4,4,28.14,3,Open,Fully-Furnished,Budget,Apartment,Pune,8792710.0
+PROP20335,2089,1,2,29,12.69,3,Open,Semi-Furnished,Premium,Apartment,Hyderabad,14691332.0
+PROP20336,2275,3,4,18,21.55,10,Open,Semi-Furnished,Standard,Apartment,Chennai,15924948.0
+PROP20337,1159,2,1,30,15.71,6,Open,Unfurnished,Standard,Apartment,Bengaluru,5879478.0
+PROP20338,978,1,4,3,24.32,10,Open,Semi-Furnished,Standard,Apartment,Pune,8308889.0
+PROP20339,2518,5,2,13,21.66,23,,Unfurnished,Standard,Apartment,Chennai,18235159.0
+PROP20340,3848,4,1,15,,10,No,Fully-Furnished,Standard,Villa,Hyderabad,31295686.0
+PROP20341,1675,4,3,19,10.76,9,Covered,Fully-Furnished,Premium,Apartment,Hyderabad,14802809.0
+PROP20342,678,3,1,23,8.32,4,No,Unfurnished,Standard,Apartment,Bengaluru,3552502.0
+PROP20343,2008,4,2,5,17.72,12,No,Semi-Furnished,Standard,Apartment,Hyderabad,14523180.0
+PROP20344,1433,1,2,22,28.95,11,Open,Unfurnished,Budget,Apartment,Chennai,5881373.0
+PROP20345,1631,4,4,24,6.8,9,Covered,Semi-Furnished,Standard,Apartment,Pune,12906248.0
+PROP20346,3885,1,4,30,3.76,6,Open,Fully-Furnished,Budget,Independent House,Hyderabad,25374624.0
+PROP20347,2672,1,3,5,4.46,18,Open,Semi-Furnished,Standard,Apartment,Pune,21295815.0
+PROP20348,1049,2,3,2,23.71,18,Open,Unfurnished,Premium,Apartment,Chennai,11796085.0
+PROP20349,3415,3,2,14,11.15,18,No,Unfurnished,Standard,Independent House,Chennai,25051068.0
+PROP20350,3402,5,2,28,7.51,11,Covered,Fully-Furnished,Premium,Apartment,Pune,26360005.0
+PROP20351,2592,1,2,2,11.23,19,Covered,Semi-Furnished,Budget,Independent House,Chennai,18399628.0
+PROP20352,4128,3,3,10,19.71,21,No,Semi-Furnished,Budget,Apartment,Bengaluru,28590586.0
+PROP20353,2084,5,2,2,16.86,14,Open,Unfurnished,Standard,Apartment,Hyderabad,15282307.0
+PROP20354,2845,4,3,27,22.56,4,Covered,Unfurnished,Standard,Apartment,Bengaluru,17964752.0
+PROP20355,3765,3,2,9,10.83,23,Open,Fully-Furnished,Standard,Apartment,Bengaluru,24582010.0
+PROP20356,2342,3,1,17,14.11,13,Open,Semi-Furnished,Standard,Apartment,Bengaluru,16077009.0
+PROP20357,2570,3,1,0,3.96,11,No,Semi-Furnished,Standard,Independent House,Pune,20320490.0
+PROP20358,3084,4,2,15,3.12,20,Open,Semi-Furnished,Standard,Villa,Pune,26375690.0
+PROP20359,2150,4,1,15,14.41,10,No,Semi-Furnished,Standard,Villa,Chennai,18702603.0
+PROP20360,1289,3,3,26,9.75,4,Covered,Unfurnished,Premium,Villa,Pune,14695580.0
+PROP20361,2590,2,4,9,,15,Open,Unfurnished,Budget,Apartment,Chennai,15856725.0
+PROP20362,2001,1,1,0,2.25,17,Open,Semi-Furnished,Budget,Apartment,Pune,14005659.0
+PROP20363,1186,4,4,3,4.53,11,Covered,Semi-Furnished,Standard,Apartment,Chennai,10435708.0
+PROP20364,2751,2,1,2,26.09,4,No,Semi-Furnished,Budget,Villa,Hyderabad,20687319.0
+PROP20365,2429,4,3,4,17.42,15,Open,Fully-Furnished,Premium,Apartment,Chennai,21398646.0
+PROP20366,2585,3,1,11,21.65,11,Open,Semi-Furnished,Premium,Apartment,Hyderabad,21843482.0
+PROP20367,1226,2,1,24,25.42,22,Open,Unfurnished,Standard,Independent House,Chennai,9912930.0
+PROP20368,2631,5,2,11,14.45,1,Covered,Fully-Furnished,Standard,Apartment,Pune,18536915.0
+PROP20369,3710,1,4,12,23.07,5,Covered,Semi-Furnished,Standard,Apartment,Pune,23952747.0
+PROP20370,3105,1,4,23,16.21,22,No,Semi-Furnished,Budget,Apartment,Hyderabad,18692880.0
+PROP20371,963,4,3,11,7.46,20,Covered,Semi-Furnished,Budget,Apartment,Bengaluru,7750818.0
+PROP20372,2782,1,3,24,10.79,24,Open,Semi-Furnished,Standard,Villa,Bengaluru,23347702.0
+PROP20373,973,5,4,15,15.22,3,Covered,Unfurnished,Budget,Independent House,Chennai,9996226.0
+PROP20374,3903,2,2,12,10.19,12,Open,Semi-Furnished,Premium,Apartment,Pune,28985217.0
+PROP20375,2686,2,2,4,10.73,9,Open,Fully-Furnished,Premium,Apartment,Bengaluru,21380051.0
+PROP20376,2587,3,4,23,10.78,16,Open,Semi-Furnished,Standard,Villa,Pune,23424450.0
+PROP20377,3466,2,1,3,4.56,13,Open,Semi-Furnished,Standard,Apartment,Pune,23823563.0
+PROP20378,2694,4,4,20,3.45,23,Open,Unfurnished,Standard,Apartment,Pune,18318979.0
+PROP20379,2683,5,1,14,2.35,14,No,Unfurnished,Standard,Independent House,Chennai,23284938.0
+PROP20380,2742,3,4,11,4.22,7,Covered,Unfurnished,Standard,Villa,Hyderabad,22650820.0
+PROP20381,3632,4,1,18,10.97,22,Open,Unfurnished,Premium,Apartment,Chennai,25540185.0
+PROP20382,1984,4,2,20,18.22,23,Covered,Fully-Furnished,Standard,Apartment,Bengaluru,13904375.0
+PROP20383,2148,4,4,27,6.46,17,Open,Semi-Furnished,Premium,Villa,Hyderabad,24334776.0
+PROP20384,1769,1,3,18,26.75,2,Open,Semi-Furnished,Premium,Villa,Bengaluru,19372723.0
+PROP20385,2540,4,1,20,24.44,24,Covered,Semi-Furnished,Standard,Independent House,Hyderabad,20708335.0
+PROP20386,967,1,2,10,16.1,16,Open,Unfurnished,Premium,Apartment,Hyderabad,8892307.0
+PROP20387,664,2,3,29,22.0,23,Covered,Fully-Furnished,Budget,Independent House,Chennai,8375360.0
+PROP20388,3899,1,2,20,11.62,23,Covered,Semi-Furnished,Premium,Apartment,Pune,27836217.0
+PROP20389,1353,4,1,5,2.07,6,Open,Unfurnished,Premium,Villa,Pune,18729287.0
+PROP20390,2143,5,4,8,27.23,12,Open,Semi-Furnished,Standard,Apartment,Hyderabad,16130676.0
+PROP20391,2635,5,2,0,4.71,15,No,Fully-Furnished,Standard,Apartment,Chennai,20643430.0
+PROP20392,3463,2,4,11,28.49,4,Open,Fully-Furnished,Premium,Independent House,Bengaluru,27642049.0
+PROP20393,2476,4,4,25,17.58,3,No,Unfurnished,Premium,Apartment,Bengaluru,18150624.0
+PROP20394,2178,1,2,13,9.86,9,Covered,Fully-Furnished,Budget,Apartment,Pune,14743942.0
+PROP20395,1355,5,2,5,15.37,12,Open,Unfurnished,Standard,Independent House,Pune,13911130.0
+PROP20396,2828,3,2,0,15.55,9,Open,Unfurnished,Standard,Apartment,Bengaluru,19840026.0
+PROP20397,2124,4,4,21,1.68,13,Open,Fully-Furnished,Standard,Independent House,Bengaluru,20129972.0
+PROP20398,1196,4,3,1,11.31,21,Covered,Fully-Furnished,Standard,Apartment,Chennai,9148072.0
+PROP20399,3826,3,1,23,22.46,11,No,Semi-Furnished,Standard,Apartment,Bengaluru,24089799.0
+PROP20400,3434,5,3,10,15.79,0,No,Semi-Furnished,Standard,Independent House,Chennai,26858315.0
+PROP20401,3274,3,4,2,8.08,20,No,Fully-Furnished,Budget,Apartment,Pune,24086667.0
+PROP20402,4106,2,2,9,10.72,19,Covered,Semi-Furnished,Premium,Independent House,Bengaluru,32484216.0
+PROP20403,2434,1,2,29,26.03,19,Covered,Fully-Furnished,Budget,Apartment,Pune,13921278.0
+PROP20404,3770,1,1,5,16.24,6,Open,Semi-Furnished,Premium,Independent House,Hyderabad,30243154.0
+PROP20405,3263,5,1,5,16.32,8,Covered,Fully-Furnished,Premium,Apartment,Hyderabad,27190050.0
+PROP20406,1995,3,3,30,28.88,7,No,Fully-Furnished,Premium,Apartment,Hyderabad,14290118.0
+PROP20407,2186,4,3,19,10.31,12,Covered,Unfurnished,Premium,Independent House,Bengaluru,20541428.0
+PROP20408,4033,4,1,20,14.91,13,No,Fully-Furnished,Budget,Apartment,Pune,26735267.0
+PROP20409,711,4,4,1,24.54,11,No,Semi-Furnished,Standard,Villa,Bengaluru,9851876.0
+PROP20410,1052,2,3,25,23.01,7,No,Semi-Furnished,Premium,Independent House,Pune,10540839.0
+PROP20411,3403,2,2,30,8.71,20,Open,Semi-Furnished,Budget,Villa,Chennai,26098802.0
+PROP20412,3840,4,2,25,5.38,21,Covered,Unfurnished,Budget,Independent House,Bengaluru,27700384.0
+PROP20413,3231,5,4,23,21.32,17,Open,Semi-Furnished,Budget,Apartment,Hyderabad,21134801.0
+PROP20414,2786,2,1,9,8.47,15,Covered,Fully-Furnished,Budget,Apartment,Chennai,18168613.0
+PROP20415,2471,2,3,22,27.76,10,Open,Unfurnished,Premium,Apartment,Pune,16569763.0
+PROP20416,2878,1,2,25,4.75,15,No,Semi-Furnished,Budget,Apartment,Bengaluru,16485256.0
+PROP20417,1862,1,1,5,10.23,13,Open,Fully-Furnished,Standard,Apartment,Pune,15039957.0
+PROP20418,3631,5,3,22,2.59,2,Open,Semi-Furnished,Budget,Apartment,Pune,23114152.0
+PROP20419,852,2,4,27,21.4,20,Covered,Semi-Furnished,Budget,Apartment,Bengaluru,4921681.0
+PROP20420,2604,2,2,16,26.85,1,Open,Semi-Furnished,Standard,Apartment,Bengaluru,15659713.0
+PROP20421,2059,3,4,29,19.44,2,Open,Semi-Furnished,Budget,Apartment,Pune,12750097.0
+PROP20422,2542,5,4,13,28.19,3,Open,Semi-Furnished,Standard,Independent House,Pune,19800096.0
+PROP20423,3208,5,4,4,4.73,21,Open,Fully-Furnished,Standard,Apartment,Chennai,24691615.0
+PROP20424,4093,3,3,22,3.54,4,Covered,Semi-Furnished,Premium,Apartment,Hyderabad,28066856.0
+PROP20425,1926,3,4,16,25.31,9,No,Fully-Furnished,Budget,Independent House,Pune,13387119.0
+PROP20426,2719,1,3,1,25.81,19,Covered,Semi-Furnished,Standard,Apartment,Hyderabad,18930156.0
+PROP20427,3934,5,3,8,25.1,1,Open,Unfurnished,Standard,Independent House,Chennai,27647659.0
+PROP20428,2457,5,4,11,24.17,11,Open,Semi-Furnished,Standard,Apartment,Hyderabad,19703628.0
+PROP20429,2869,3,4,18,11.5,4,Covered,Semi-Furnished,Budget,Apartment,Hyderabad,16819929.0
+PROP20430,1700,4,1,21,7.31,4,Open,Semi-Furnished,Standard,Villa,Chennai,15642792.0
+PROP20431,661,4,2,30,27.94,22,Open,Unfurnished,Budget,Villa,Pune,7126531.0
+PROP20432,2094,1,1,6,9.9,0,No,Unfurnished,Budget,Apartment,Hyderabad,12229680.0
+PROP20433,1780,4,2,8,12.55,3,No,Unfurnished,Standard,Independent House,Pune,14392019.0
+PROP20434,1405,4,2,20,21.29,20,Covered,Unfurnished,Standard,Apartment,Pune,8987915.0
+PROP20435,2772,4,1,15,9.51,23,Open,Semi-Furnished,Standard,Apartment,Bengaluru,18386761.0
+PROP20436,3388,2,1,19,24.75,11,Covered,Unfurnished,Budget,Apartment,Pune,19421300.0
+PROP20437,2475,1,2,10,3.03,11,No,Semi-Furnished,Budget,Apartment,Pune,17565086.0
+PROP20438,2808,3,2,11,23.94,15,No,Unfurnished,Premium,Apartment,Hyderabad,20638044.0
+PROP20439,1140,4,2,14,18.45,23,No,Unfurnished,Budget,Independent House,Pune,10847860.0
+PROP20440,1225,2,3,17,17.62,16,Open,Semi-Furnished,Standard,Apartment,Pune,9247179.0
+PROP20441,2214,4,2,18,14.29,20,Covered,Unfurnished,Standard,Apartment,Bengaluru,16423326.0
+PROP20442,705,2,4,15,9.03,9,Open,Fully-Furnished,Budget,Apartment,Bengaluru,3079382.0
+PROP20443,1754,1,4,14,14.46,16,Open,Unfurnished,Premium,Independent House,Hyderabad,16605488.0
+PROP20444,4028,4,4,4,14.05,16,Covered,Semi-Furnished,Budget,Independent House,Hyderabad,31177272.0
+PROP20445,2308,2,1,10,17.93,17,Covered,Fully-Furnished,Standard,Villa,Bengaluru,20228888.0
+PROP20446,3423,5,1,14,9.17,1,No,Semi-Furnished,Budget,Independent House,Bengaluru,26014476.0
+PROP20447,2508,5,1,28,,24,Covered,Unfurnished,Premium,Villa,Chennai,25286351.0
+PROP20448,2649,2,2,17,5.21,3,Open,Semi-Furnished,Standard,Independent House,Pune,19840032.0
+PROP20449,2880,4,4,12,21.28,18,No,Semi-Furnished,Budget,Villa,Hyderabad,22942753.0
+PROP20450,968,4,2,3,1.65,10,No,Fully-Furnished,Premium,Apartment,Hyderabad,11203605.0
+PROP20451,1874,1,3,16,25.84,16,Open,Fully-Furnished,Premium,Apartment,Pune,14280965.0
+PROP20452,1545,1,3,3,21.14,11,Open,Unfurnished,Budget,Apartment,Pune,8661970.0
+PROP20453,3779,3,1,15,23.27,1,Open,Fully-Furnished,Standard,Apartment,Hyderabad,24810880.0
+PROP20454,3947,1,3,22,25.24,5,No,Unfurnished,Budget,Apartment,Bengaluru,21192758.0
+PROP20455,2827,4,4,14,4.56,8,Covered,Unfurnished,Premium,Apartment,Bengaluru,23259960.0
+PROP20456,892,3,3,13,,4,Covered,Fully-Furnished,Standard,Independent House,Pune,10543921.0
+PROP20457,1183,1,1,11,15.63,19,Covered,Unfurnished,Budget,Apartment,Hyderabad,5504866.0
+PROP20458,3442,2,2,2,26.68,20,Open,Unfurnished,Standard,Villa,Pune,28657837.0
+PROP20459,2822,5,3,9,26.71,8,No,Unfurnished,Standard,Villa,Bengaluru,24174598.0
+PROP20460,2770,1,4,7,1.7,22,No,Semi-Furnished,Standard,Independent House,Chennai,23120228.0
+PROP20461,2874,1,4,5,12.1,7,No,Semi-Furnished,Budget,Independent House,Chennai,20505501.0
+PROP20462,3091,2,4,21,16.27,19,Open,Semi-Furnished,Premium,Villa,Bengaluru,27794491.0
+PROP20463,3075,4,2,13,20.67,7,Open,Unfurnished,Standard,Apartment,Pune,21336904.0
+PROP20464,3754,2,4,30,9.3,21,Covered,Semi-Furnished,Premium,Apartment,Chennai,26664552.0
+PROP20465,1364,1,1,16,8.31,20,Open,Fully-Furnished,Standard,Apartment,Bengaluru,11671480.0
+PROP20466,3279,4,1,20,12.06,22,Open,Fully-Furnished,Standard,Villa,Hyderabad,26826158.0
+PROP20467,2712,3,4,18,15.53,5,Open,Unfurnished,Standard,Independent House,Pune,21626957.0
+PROP20468,1904,1,3,15,28.58,2,Open,Fully-Furnished,Standard,Villa,Pune,17151608.0
+PROP20469,2014,2,4,14,23.1,4,Open,Semi-Furnished,Premium,Apartment,Chennai,16503269.0
+PROP20470,1027,3,1,25,13.45,8,No,Unfurnished,Premium,Apartment,Pune,6988451.0
+PROP20471,3265,5,1,14,2.58,6,Open,Unfurnished,Standard,Apartment,Chennai,22795048.0
+PROP20472,3572,3,1,0,5.89,3,Open,Unfurnished,Standard,Apartment,Chennai,23950972.0
+PROP20473,2614,2,3,23,14.22,6,No,Semi-Furnished,Budget,Apartment,Bengaluru,14717942.0
+PROP20474,3459,3,3,22,24.6,4,Covered,Unfurnished,Standard,Apartment,Chennai,23412493.0
+PROP20475,706,2,3,22,12.04,10,Covered,Semi-Furnished,Premium,Independent House,Hyderabad,10192607.0
+PROP20476,1258,1,1,11,16.62,14,No,Unfurnished,Standard,Apartment,Pune,7157528.0
+PROP20477,3933,4,2,9,26.86,1,No,Fully-Furnished,Premium,Apartment,Chennai,28099082.0
+PROP20478,1782,5,4,13,27.5,12,Covered,Unfurnished,Budget,Independent House,Pune,13320495.0
+PROP20479,2912,4,4,9,7.26,21,No,Fully-Furnished,Budget,Apartment,Chennai,21920596.0
+PROP20480,4139,4,1,9,2.26,15,Open,Fully-Furnished,Standard,Apartment,Bengaluru,28326387.0
+PROP20481,1825,4,3,19,9.86,6,No,Unfurnished,Standard,Apartment,Hyderabad,13194070.0
+PROP20482,754,2,2,28,21.18,7,No,Semi-Furnished,Premium,Apartment,Pune,7600396.0
+PROP20483,3684,2,2,30,28.58,5,Covered,Unfurnished,Standard,Apartment,Bengaluru,21278763.0
+PROP20484,3968,5,3,10,3.23,23,Covered,Fully-Furnished,Budget,Apartment,Pune,28352770.0
+PROP20485,1495,2,4,21,1.83,6,No,Semi-Furnished,Premium,Apartment,Bengaluru,12246273.0
+PROP20486,2121,2,4,15,26.64,17,Open,Unfurnished,Standard,Apartment,Hyderabad,16171193.0
+PROP20487,2220,2,2,28,22.7,21,No,Unfurnished,Standard,Apartment,Chennai,13858242.0
+PROP20488,1592,2,2,8,29.78,24,No,Semi-Furnished,Standard,Independent House,Bengaluru,13169154.0
+PROP20489,2892,1,3,14,12.51,21,Covered,Fully-Furnished,Standard,Apartment,Pune,19416800.0
+PROP20490,1923,5,4,13,13.07,19,Open,Semi-Furnished,Budget,Independent House,Pune,16296153.0
+PROP20491,1985,2,2,18,6.0,6,Open,Fully-Furnished,Premium,Apartment,Bengaluru,16021015.0
+PROP20492,4025,5,4,30,4.36,2,Covered,Semi-Furnished,Standard,Apartment,Hyderabad,28832850.0
+PROP20493,4192,3,2,8,17.78,4,Covered,Unfurnished,Standard,Villa,Hyderabad,31069519.0
+PROP20494,3033,1,3,3,11.56,0,Covered,Fully-Furnished,Premium,Apartment,Chennai,23975121.0
+PROP20495,3406,2,4,20,3.33,14,No,Unfurnished,Standard,Apartment,Chennai,22517546.0
+PROP20496,3983,1,2,6,26.72,2,No,Fully-Furnished,Premium,Villa,Pune,32359331.0
+PROP20497,3061,1,2,21,6.75,7,Open,Semi-Furnished,Premium,Apartment,Pune,21824195.0
+PROP20498,1901,3,2,25,22.71,24,Open,Unfurnished,Premium,Villa,Chennai,18597686.0
+PROP20499,3362,5,2,7,9.18,8,Covered,Semi-Furnished,Budget,Independent House,Chennai,26300259.0
