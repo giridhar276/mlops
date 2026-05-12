@@ -1,0 +1,1001 @@
+age,income,tenure_months,monthly_spend,support_calls,late_payments,usage_gb,city,gender,contract_type,payment_mode,churn
+29,141389,85,14336.09,0,0,297.63,Bangalore,Female,Monthly,Debit Card,0
+45,203342,81,9139.0,2,2,662.47,Hyderabad,Male,Monthly,Credit Card,1
+24,53076,32,13669.99,2,1,205.56,Bangalore,Female,One Year,Debit Card,0
+60,102585,79,10830.47,3,2,254.58,Mumbai,Female,One Year,Net Banking,1
+44,131659,92,11833.12,1,1,279.16,Chennai,Male,Monthly,Net Banking,0
+36,59614,15,5604.99,5,2,106.17,Mumbai,Male,Monthly,Net Banking,1
+31,130247,53,3980.09,2,1,298.05,Bangalore,Male,Monthly,Debit Card,1
+51,131692,13,12455.55,2,0,474.39,Bangalore,Male,One Year,Debit Card,0
+55,58624,56,4612.34,2,1,178.67,Pune,Male,Monthly,Net Banking,0
+23,150242,98,5763.25,0,0,676.88,Mumbai,Male,Monthly,UPI,0
+55,27465,7,4402.46,2,0,327.4,Mumbai,Male,Two Year,UPI,0
+35,160098,84,878.23,0,1,602.26,Mumbai,Male,One Year,UPI,0
+55,214629,84,8011.44,1,3,114.89,Bangalore,Female,One Year,Net Banking,0
+45,77090,40,6581.74,3,0,501.26,Pune,Female,Monthly,UPI,1
+36,119888,77,11387.71,1,0,139.69,Bangalore,Female,Monthly,UPI,0
+57,40540,25,3414.51,4,1,553.69,Chennai,Male,Two Year,Debit Card,0
+64,56544,11,8509.66,3,3,450.33,Pune,Male,One Year,Debit Card,0
+37,213352,16,9258.86,1,2,22.27,Pune,Male,One Year,Debit Card,1
+30,107380,41,7543.1,6,6,607.9,Hyderabad,Male,Monthly,UPI,1
+50,35149,74,3877.06,5,1,191.43,Pune,Female,Monthly,Debit Card,0
+43,177321,26,1629.16,1,4,586.36,Hyderabad,Male,Monthly,UPI,1
+23,175507,75,13902.62,1,0,347.86,Mumbai,Female,One Year,Credit Card,1
+48,91899,41,1814.78,1,1,618.28,Mumbai,Male,Monthly,Debit Card,0
+65,180604,31,7022.6,1,4,252.07,Pune,Female,One Year,Debit Card,1
+25,77928,13,6211.83,4,3,376.83,Bangalore,Female,Monthly,Credit Card,0
+52,111438,45,13905.71,2,0,36.01,Chennai,Female,Two Year,Credit Card,0
+22,97912,7,8663.58,2,1,231.21,Hyderabad,Male,Two Year,UPI,0
+34,206403,90,4589.0,5,1,671.65,Bangalore,Female,Monthly,Credit Card,1
+40,187071,93,8371.21,4,2,169.54,Mumbai,Male,Monthly,UPI,0
+57,197082,85,6282.02,3,0,87.43,Chennai,Female,Two Year,Credit Card,0
+25,47566,27,8443.36,2,1,18.39,Mumbai,Female,Monthly,Net Banking,0
+48,139164,58,13339.22,0,2,540.17,Hyderabad,Male,One Year,Credit Card,0
+24,41196,22,10160.91,4,4,29.37,Hyderabad,Male,Monthly,Net Banking,1
+28,157909,33,1947.73,3,0,498.6,Chennai,Male,Monthly,UPI,1
+22,105003,31,10797.27,0,3,98.04,Bangalore,Male,One Year,UPI,0
+35,190778,32,5914.58,4,3,482.62,Bangalore,Female,One Year,UPI,0
+28,124884,79,2828.01,1,2,53.23,Mumbai,Female,Two Year,Debit Card,0
+37,85433,98,10632.67,1,0,269.43,Pune,Female,Monthly,Credit Card,1
+23,171009,42,538.75,1,0,142.23,Mumbai,Male,One Year,Debit Card,0
+62,188900,80,2912.82,0,0,305.16,Chennai,Female,Monthly,Debit Card,0
+51,104439,2,8301.23,1,3,215.43,Mumbai,Female,One Year,Credit Card,0
+40,79986,23,7704.69,1,1,417.09,Chennai,Male,Two Year,Credit Card,0
+55,159927,62,754.83,2,2,458.1,Mumbai,Female,Monthly,Debit Card,1
+48,92024,39,7730.42,2,0,574.95,Hyderabad,Female,Monthly,Debit Card,0
+67,209724,63,5053.28,1,0,459.04,Mumbai,Male,Monthly,Debit Card,1
+51,50271,89,12054.2,2,0,459.01,Mumbai,Female,Monthly,Credit Card,1
+60,55546,5,12319.65,4,2,180.13,Pune,Male,One Year,UPI,1
+66,184806,46,4306.6,2,2,568.12,Bangalore,Female,Two Year,Net Banking,0
+59,194285,27,8340.34,3,2,663.35,Pune,Male,Monthly,Credit Card,1
+65,83595,58,500.21,2,1,171.61,Pune,Male,One Year,Credit Card,0
+39,35140,72,12235.07,5,3,336.69,Pune,Female,Monthly,Credit Card,1
+21,64038,22,1159.87,2,0,85.26,Bangalore,Male,One Year,UPI,0
+55,111438,34,4216.35,0,0,600.4,Chennai,Male,One Year,Debit Card,0
+31,209526,40,5656.26,0,2,363.42,Bangalore,Female,Monthly,Debit Card,0
+38,96332,57,14319.56,3,3,339.19,Mumbai,Female,One Year,UPI,0
+29,47095,60,12397.28,1,1,314.28,Mumbai,Male,One Year,Credit Card,0
+34,183756,37,12112.88,3,0,420.68,Mumbai,Female,One Year,UPI,0
+63,69032,86,718.79,1,0,257.93,Pune,Female,One Year,UPI,0
+51,129160,81,11673.15,3,1,123.27,Chennai,Male,Monthly,Net Banking,0
+38,180241,22,11593.18,2,2,144.84,Bangalore,Female,Monthly,Debit Card,1
+25,165985,49,7210.78,0,0,579.26,Bangalore,Male,Monthly,Net Banking,0
+61,56498,96,6213.38,4,0,465.95,Mumbai,Female,Monthly,Net Banking,0
+48,83426,8,13370.66,3,1,406.41,Chennai,Female,Monthly,UPI,1
+48,58155,56,3638.56,2,0,304.32,Mumbai,Female,One Year,Credit Card,0
+40,43204,87,8186.39,2,2,78.84,Chennai,Male,Two Year,UPI,0
+35,217451,83,13161.68,2,2,449.44,Pune,Male,One Year,Net Banking,1
+21,55247,44,2339.41,3,0,273.78,Pune,Male,One Year,Credit Card,0
+34,50857,97,8380.08,2,2,231.27,Pune,Male,Monthly,UPI,1
+33,197872,35,11396.92,2,0,470.96,Mumbai,Female,One Year,Credit Card,1
+63,166027,8,4361.58,1,2,651.88,Hyderabad,Male,Monthly,UPI,1
+24,44462,54,10167.83,1,1,454.3,Bangalore,Female,Two Year,Debit Card,0
+27,139844,6,3552.32,2,1,547.19,Hyderabad,Male,Monthly,Net Banking,1
+24,80220,2,4595.68,3,2,447.09,Mumbai,Female,One Year,UPI,0
+41,155509,37,5524.86,3,0,641.91,Pune,Female,Two Year,UPI,0
+36,37680,1,12589.03,2,0,686.52,Bangalore,Female,Monthly,Credit Card,1
+31,196921,23,5775.88,2,0,219.69,Pune,Female,Monthly,Net Banking,1
+44,191392,28,1641.14,3,1,404.38,Hyderabad,Female,One Year,Credit Card,1
+24,182775,79,12912.57,7,2,300.99,Pune,Male,One Year,UPI,1
+62,36709,49,8028.7,3,3,637.03,Chennai,Male,Monthly,Net Banking,1
+64,100972,82,5550.2,5,2,478.12,Bangalore,Female,Monthly,Net Banking,1
+57,193693,71,13007.33,4,1,218.18,Bangalore,Male,Two Year,Credit Card,1
+26,149527,45,8814.68,2,1,669.81,Mumbai,Male,One Year,Net Banking,0
+28,96774,67,14533.06,0,0,551.52,Bangalore,Male,One Year,UPI,0
+59,94910,55,8758.34,2,0,85.4,Hyderabad,Female,One Year,Credit Card,0
+43,74184,64,6060.23,4,0,102.64,Hyderabad,Male,Monthly,Net Banking,0
+51,124301,50,4959.17,1,0,119.27,Pune,Male,Monthly,UPI,0
+55,57461,5,6038.43,1,0,493.88,Chennai,Female,Monthly,Debit Card,1
+63,148955,43,7250.9,5,1,304.26,Hyderabad,Female,Monthly,UPI,0
+41,39787,31,5362.83,1,1,596.8,Pune,Female,One Year,Credit Card,0
+52,211942,59,11592.21,1,3,135.96,Chennai,Female,Monthly,Credit Card,1
+66,44693,11,2829.91,4,1,126.53,Mumbai,Female,Two Year,Net Banking,0
+33,167535,73,13985.8,2,2,399.46,Chennai,Male,One Year,Net Banking,1
+54,113138,34,3796.96,2,1,218.49,Chennai,Female,Monthly,Net Banking,1
+59,80255,90,10673.87,2,0,31.09,Chennai,Male,Monthly,UPI,0
+63,98545,45,14978.02,2,0,267.38,Mumbai,Female,Monthly,Net Banking,1
+43,168485,89,4535.3,3,1,539.61,Mumbai,Female,One Year,UPI,1
+21,93111,4,11415.74,3,1,691.06,Pune,Male,Two Year,Debit Card,1
+55,40593,74,3252.21,1,1,283.44,Hyderabad,Female,Monthly,Credit Card,0
+40,210728,8,3841.68,3,1,383.85,Hyderabad,Female,Monthly,Net Banking,1
+25,122722,32,9269.84,0,1,187.89,Mumbai,Female,One Year,Net Banking,0
+25,38631,37,4717.27,5,0,197.21,Mumbai,Male,Two Year,Debit Card,0
+56,96470,36,14288.41,0,2,567.92,Pune,Female,Monthly,Net Banking,1
+44,96633,36,14516.22,3,2,311.04,Pune,Male,Two Year,Credit Card,0
+30,208402,55,5842.53,2,2,438.5,Chennai,Female,One Year,Debit Card,0
+42,27502,85,6365.01,3,1,154.39,Hyderabad,Male,Monthly,Net Banking,0
+46,149035,18,10898.63,1,0,289.25,Bangalore,Male,One Year,Net Banking,0
+27,113540,67,8657.78,3,0,664.13,Bangalore,Male,Monthly,Net Banking,0
+58,178463,41,11347.87,1,1,666.22,Chennai,Male,One Year,UPI,0
+59,117717,58,3494.73,5,2,7.77,Hyderabad,Female,Monthly,Debit Card,1
+60,53053,22,3806.88,4,2,86.45,Hyderabad,Male,Monthly,Net Banking,0
+64,28544,21,3689.19,4,0,252.0,Pune,Female,One Year,Net Banking,0
+51,207392,27,2882.46,2,0,638.34,Hyderabad,Female,Monthly,UPI,1
+51,109412,63,5751.69,0,1,26.7,Hyderabad,Male,Monthly,Net Banking,0
+23,199582,71,2496.01,1,0,486.52,Pune,Female,One Year,Credit Card,0
+45,26170,72,9008.67,2,2,668.62,Chennai,Female,One Year,Credit Card,0
+38,189819,91,14271.28,1,0,632.5,Mumbai,Female,Two Year,Debit Card,0
+66,195558,76,8449.09,5,3,651.0,Pune,Male,Monthly,UPI,1
+58,35989,56,11423.0,3,1,141.38,Hyderabad,Male,Monthly,Net Banking,0
+46,42348,73,5602.91,3,0,22.88,Bangalore,Female,Monthly,UPI,1
+66,73435,52,8805.07,2,1,430.25,Hyderabad,Male,One Year,Debit Card,1
+56,40371,39,10294.39,1,3,303.48,Bangalore,Female,Monthly,Debit Card,0
+37,40983,93,12355.4,0,1,185.93,Chennai,Male,One Year,UPI,0
+33,190547,46,9719.68,1,2,163.62,Mumbai,Female,Monthly,UPI,1
+43,161792,61,10892.41,1,0,348.52,Bangalore,Male,One Year,Debit Card,0
+39,99185,46,12253.5,0,0,547.82,Bangalore,Male,Two Year,Debit Card,0
+66,196545,42,12026.09,0,1,606.82,Hyderabad,Female,Two Year,Debit Card,1
+65,186942,97,13410.33,0,2,608.12,Chennai,Female,One Year,UPI,1
+24,216705,95,3888.11,1,0,62.82,Bangalore,Male,Monthly,UPI,0
+49,120085,50,3998.19,1,0,49.21,Pune,Female,Two Year,Debit Card,0
+52,120304,4,5612.93,3,0,149.99,Hyderabad,Male,Monthly,Net Banking,1
+41,202266,94,7089.38,0,2,194.55,Hyderabad,Male,Monthly,UPI,1
+31,186110,24,10817.01,2,2,353.21,Hyderabad,Female,One Year,UPI,1
+29,64379,87,2358.42,4,1,586.65,Pune,Female,One Year,Net Banking,0
+46,53126,41,3818.18,4,4,338.56,Pune,Male,Monthly,Net Banking,1
+29,196475,77,8974.89,2,0,423.62,Bangalore,Male,One Year,UPI,1
+51,30094,71,1883.8,3,0,385.25,Mumbai,Female,Monthly,Credit Card,0
+33,47752,85,13682.19,3,1,185.09,Mumbai,Male,Two Year,Debit Card,0
+39,204078,38,9645.27,1,2,645.06,Chennai,Male,Two Year,Net Banking,1
+50,213608,71,4964.3,1,1,368.84,Bangalore,Female,Monthly,Debit Card,0
+49,118686,77,8109.56,2,1,623.26,Pune,Male,Monthly,Debit Card,0
+65,119141,62,4701.08,0,2,403.09,Pune,Male,One Year,Credit Card,0
+21,62103,91,9322.27,2,1,690.42,Bangalore,Male,Monthly,UPI,1
+30,30950,55,1607.95,1,1,613.61,Hyderabad,Male,Monthly,Debit Card,0
+61,60538,72,12789.0,7,0,406.45,Chennai,Female,Two Year,Net Banking,1
+49,137906,73,3887.3,4,0,226.1,Chennai,Female,Monthly,Net Banking,1
+23,115267,9,781.12,1,0,172.11,Pune,Female,One Year,UPI,0
+37,211874,88,9793.54,2,1,352.45,Pune,Male,Monthly,UPI,1
+26,66871,71,10149.29,2,2,191.51,Chennai,Female,Two Year,UPI,0
+47,178402,43,9117.44,4,5,613.71,Hyderabad,Male,One Year,Debit Card,1
+55,79468,84,6957.36,0,0,126.14,Chennai,Female,Monthly,Debit Card,1
+24,40611,23,1583.01,4,0,116.05,Mumbai,Male,Monthly,Debit Card,0
+51,173658,8,6315.95,3,4,359.05,Pune,Male,Monthly,UPI,1
+35,79248,73,12861.72,3,1,464.57,Bangalore,Female,Monthly,UPI,1
+34,80005,81,4163.13,2,0,639.21,Chennai,Male,One Year,UPI,0
+41,156208,74,5028.82,2,2,697.31,Hyderabad,Male,Monthly,Net Banking,1
+22,72996,42,7226.57,3,0,386.93,Pune,Male,Two Year,Net Banking,0
+35,25224,44,4629.06,1,0,495.75,Chennai,Female,One Year,Credit Card,0
+54,72571,58,4926.73,2,0,602.99,Pune,Male,One Year,UPI,1
+41,213936,1,5756.43,4,1,231.31,Mumbai,Female,One Year,Net Banking,1
+61,102578,2,7736.6,2,1,67.37,Chennai,Female,Monthly,UPI,0
+45,102667,6,7719.98,2,0,502.33,Bangalore,Female,One Year,UPI,0
+50,68033,29,9137.89,3,1,465.55,Mumbai,Male,Monthly,Credit Card,1
+49,56577,23,3719.14,2,2,689.62,Bangalore,Male,Two Year,UPI,0
+39,132536,56,3912.59,0,0,464.24,Chennai,Female,Two Year,UPI,0
+39,147390,99,8995.99,4,1,577.33,Pune,Female,One Year,Credit Card,0
+28,206800,96,2839.0,4,0,112.68,Hyderabad,Female,One Year,UPI,0
+51,218784,37,7284.81,4,0,547.17,Mumbai,Male,Monthly,Debit Card,1
+23,61986,35,2161.0,3,3,42.31,Pune,Female,Monthly,Net Banking,1
+23,181444,65,6537.3,1,2,544.04,Pune,Female,Monthly,Debit Card,1
+44,134455,7,14164.55,1,4,19.47,Pune,Female,Monthly,Credit Card,1
+38,204553,66,863.83,3,1,594.98,Chennai,Male,One Year,Net Banking,0
+66,81478,85,14067.92,2,1,548.4,Chennai,Male,Monthly,Net Banking,0
+47,56895,38,12291.49,3,0,676.16,Pune,Female,One Year,Net Banking,0
+50,148074,35,2451.64,4,1,81.59,Mumbai,Male,Monthly,UPI,0
+53,143867,76,6432.08,2,2,268.49,Pune,Male,One Year,Debit Card,0
+31,110221,90,10735.31,0,1,29.29,Chennai,Male,One Year,UPI,0
+51,97005,83,8776.65,1,1,668.3,Pune,Female,One Year,UPI,0
+24,132951,52,13186.22,2,1,286.38,Chennai,Female,One Year,Debit Card,0
+49,155117,60,4424.12,3,1,682.86,Chennai,Male,Monthly,UPI,0
+58,177903,38,1906.8,2,1,434.67,Bangalore,Male,Monthly,Debit Card,1
+39,49218,73,9957.49,2,1,314.94,Hyderabad,Female,Monthly,Credit Card,0
+59,146288,70,575.44,1,0,314.16,Mumbai,Male,One Year,Debit Card,0
+38,135896,65,2687.55,3,1,96.43,Hyderabad,Male,One Year,Debit Card,0
+31,130121,97,6643.3,2,0,337.69,Mumbai,Female,Monthly,Debit Card,0
+34,218450,25,6964.4,4,0,601.59,Bangalore,Male,One Year,Credit Card,1
+38,50567,19,1666.68,0,1,158.32,Hyderabad,Male,One Year,UPI,0
+46,214129,55,1246.03,4,0,496.42,Bangalore,Female,Two Year,Credit Card,0
+23,79201,47,7392.41,4,1,152.75,Bangalore,Female,Monthly,Debit Card,1
+36,118398,86,8172.72,1,1,12.09,Chennai,Female,Monthly,Credit Card,0
+65,189535,70,7644.03,1,3,187.98,Pune,Female,Monthly,Net Banking,0
+32,200423,51,4086.82,3,1,523.68,Mumbai,Male,One Year,UPI,0
+58,144359,43,7010.17,4,2,655.06,Mumbai,Female,Monthly,UPI,1
+65,209781,52,5326.95,1,2,280.86,Hyderabad,Male,Monthly,Debit Card,0
+59,208362,50,2826.83,2,0,250.13,Mumbai,Female,One Year,Debit Card,0
+43,219813,63,5520.45,2,0,656.73,Hyderabad,Male,Monthly,Debit Card,1
+44,98451,14,3820.72,4,1,110.13,Chennai,Female,Monthly,UPI,1
+38,173642,65,3641.12,0,0,114.67,Hyderabad,Male,Monthly,Net Banking,0
+22,159155,24,7113.9,3,2,611.66,Pune,Female,Monthly,Debit Card,1
+63,181893,46,7050.23,7,0,414.9,Hyderabad,Male,Monthly,Net Banking,1
+50,40668,17,1654.23,1,0,643.03,Chennai,Female,Two Year,Net Banking,0
+65,54674,2,12317.67,1,0,41.5,Hyderabad,Female,Monthly,Net Banking,0
+37,103689,49,13330.89,2,0,15.45,Pune,Male,Monthly,UPI,0
+40,142633,18,9686.45,1,1,243.69,Hyderabad,Female,One Year,Credit Card,0
+57,129668,11,4508.01,2,0,274.73,Hyderabad,Male,One Year,Credit Card,0
+63,171522,46,14735.12,4,1,509.45,Chennai,Male,One Year,UPI,1
+58,128824,83,7921.47,4,1,456.58,Bangalore,Female,Monthly,Debit Card,0
+37,104861,30,7522.44,3,1,240.0,Bangalore,Male,Monthly,Credit Card,1
+56,219892,3,13964.01,1,2,383.92,Pune,Female,One Year,Debit Card,1
+23,184408,68,5384.97,2,0,146.76,Bangalore,Female,One Year,UPI,0
+56,106313,55,13905.58,1,0,44.16,Chennai,Female,One Year,UPI,0
+38,161888,56,9077.69,0,0,365.29,Hyderabad,Male,Monthly,Net Banking,1
+37,134060,28,11407.03,2,3,264.41,Chennai,Male,Monthly,Credit Card,1
+27,90232,73,6843.79,2,1,655.46,Pune,Female,One Year,UPI,0
+55,75515,28,5482.43,0,1,49.78,Mumbai,Female,Monthly,Credit Card,0
+53,189200,76,4192.77,1,1,227.31,Pune,Female,One Year,Credit Card,1
+30,219140,52,682.34,4,1,336.89,Bangalore,Female,Monthly,Credit Card,1
+55,30635,46,14173.52,1,0,41.61,Bangalore,Male,Monthly,Credit Card,0
+24,165246,91,2654.26,3,1,637.02,Mumbai,Male,Monthly,Net Banking,1
+59,187484,72,10857.84,4,2,92.18,Chennai,Female,One Year,UPI,1
+32,205918,83,10444.84,7,0,490.97,Mumbai,Male,One Year,Credit Card,0
+50,76413,24,9905.23,2,0,591.77,Mumbai,Female,One Year,Net Banking,1
+57,185162,73,4675.93,0,0,81.6,Bangalore,Male,Monthly,UPI,0
+50,214605,94,9071.77,2,1,88.2,Hyderabad,Female,One Year,UPI,0
+24,44053,10,7963.93,3,1,118.56,Chennai,Female,One Year,Credit Card,1
+47,217460,74,7031.23,3,3,97.02,Pune,Male,Monthly,Credit Card,1
+57,151745,47,12362.79,2,3,26.7,Chennai,Female,Monthly,UPI,1
+30,101441,83,2519.53,3,0,92.85,Bangalore,Male,Monthly,Net Banking,0
+52,158796,77,12851.89,2,0,236.74,Bangalore,Female,Two Year,Net Banking,0
+42,158415,46,7033.96,3,1,121.79,Chennai,Male,One Year,Debit Card,1
+49,188803,91,1031.1,3,3,583.09,Bangalore,Male,Monthly,Debit Card,1
+25,167390,87,14025.05,2,1,252.38,Pune,Male,Monthly,UPI,0
+40,42412,71,4920.85,2,1,585.05,Mumbai,Male,Monthly,UPI,0
+28,38052,97,14402.69,5,3,661.86,Hyderabad,Male,Monthly,UPI,0
+50,124874,58,14313.48,3,0,431.44,Hyderabad,Male,Two Year,UPI,0
+57,150482,2,11535.52,2,0,411.79,Bangalore,Female,Monthly,Debit Card,1
+63,215264,20,14062.19,2,1,695.61,Mumbai,Male,Monthly,UPI,1
+34,96305,53,14802.59,0,2,270.84,Pune,Male,One Year,Credit Card,1
+39,96145,5,2523.46,3,3,147.31,Pune,Male,Monthly,Debit Card,1
+53,40158,43,13361.97,2,2,573.17,Mumbai,Female,One Year,Credit Card,1
+59,190750,52,2213.76,1,0,260.77,Hyderabad,Female,Monthly,UPI,0
+61,129714,40,4502.58,2,0,170.51,Mumbai,Female,Monthly,Credit Card,0
+50,75815,39,600.9,2,0,245.26,Bangalore,Female,Monthly,Credit Card,0
+35,59608,14,2898.15,3,2,602.92,Mumbai,Male,Two Year,Net Banking,1
+59,107633,56,7043.16,0,1,673.2,Mumbai,Female,Monthly,UPI,0
+43,202636,42,12810.91,1,1,159.01,Mumbai,Male,One Year,Debit Card,1
+58,89573,95,9884.03,0,2,99.26,Hyderabad,Male,One Year,Debit Card,0
+21,62237,79,1091.0,2,0,156.16,Chennai,Male,One Year,UPI,0
+61,156786,33,10518.77,0,0,682.57,Mumbai,Male,Monthly,UPI,1
+61,29923,37,11290.44,4,0,222.2,Bangalore,Female,One Year,Debit Card,0
+58,80115,55,5499.83,0,1,216.72,Hyderabad,Male,One Year,Net Banking,0
+62,168317,46,5099.48,2,0,511.55,Bangalore,Female,Monthly,UPI,0
+65,49334,52,4462.45,2,2,307.19,Chennai,Female,One Year,Debit Card,0
+40,95068,54,6062.7,3,0,200.75,Bangalore,Male,One Year,UPI,0
+33,29631,2,5472.69,4,1,623.11,Chennai,Female,One Year,UPI,0
+23,68474,6,6051.12,3,1,557.84,Mumbai,Female,Two Year,Credit Card,0
+34,62222,11,8111.76,1,1,371.83,Pune,Male,Two Year,Net Banking,0
+44,193977,93,11422.75,1,0,572.43,Bangalore,Male,Monthly,Debit Card,1
+22,29408,47,3576.13,4,0,92.74,Bangalore,Female,Two Year,Debit Card,0
+25,57383,25,1419.34,3,2,649.44,Bangalore,Male,Monthly,Debit Card,1
+21,91270,47,3404.33,4,1,526.72,Hyderabad,Male,Monthly,Debit Card,0
+44,73200,96,11527.92,2,1,337.87,Mumbai,Female,Monthly,Net Banking,0
+40,45092,41,3379.18,2,0,24.81,Mumbai,Male,Monthly,UPI,0
+31,63786,99,9377.28,3,1,592.17,Mumbai,Female,One Year,UPI,0
+62,219156,35,6572.48,3,2,347.42,Pune,Male,One Year,Credit Card,1
+22,98967,48,13477.48,1,0,170.68,Chennai,Female,One Year,UPI,1
+23,214321,45,744.99,0,1,621.58,Hyderabad,Male,Monthly,UPI,0
+44,53085,25,799.01,0,1,122.51,Mumbai,Male,One Year,Credit Card,0
+33,196570,22,13698.62,2,0,522.75,Pune,Female,Monthly,UPI,1
+60,112619,8,12033.27,5,0,265.91,Chennai,Female,Two Year,Credit Card,0
+57,84078,51,10037.34,1,2,613.09,Pune,Male,Monthly,Debit Card,0
+56,112489,34,5084.38,2,2,564.07,Mumbai,Female,One Year,Credit Card,0
+56,159437,30,12403.72,3,0,125.99,Bangalore,Female,One Year,Debit Card,0
+47,61633,5,3069.91,1,2,180.12,Chennai,Male,One Year,Credit Card,0
+40,194732,17,10500.33,3,3,256.35,Chennai,Female,Monthly,Credit Card,1
+25,69761,84,6622.18,2,2,49.36,Mumbai,Female,One Year,Debit Card,0
+60,207740,37,7986.6,1,0,344.56,Pune,Male,One Year,Debit Card,0
+44,216694,81,13978.68,3,0,686.42,Mumbai,Male,Two Year,UPI,1
+31,212822,49,1322.22,0,3,248.06,Bangalore,Female,One Year,Credit Card,0
+36,186023,57,955.99,1,3,49.85,Pune,Male,Monthly,Credit Card,1
+49,62697,89,14522.89,4,1,170.99,Hyderabad,Female,Monthly,UPI,1
+65,66042,49,6322.79,3,0,152.83,Bangalore,Female,One Year,Net Banking,0
+34,71333,60,7609.58,1,0,45.92,Hyderabad,Female,Monthly,UPI,0
+54,27915,39,13980.59,2,1,94.39,Pune,Male,Monthly,UPI,1
+36,84163,56,10120.24,1,2,333.0,Mumbai,Male,Monthly,Net Banking,1
+38,169660,58,3079.44,3,1,411.53,Bangalore,Female,Monthly,Net Banking,1
+45,76005,25,14245.32,3,2,292.62,Pune,Male,Monthly,Debit Card,1
+44,124954,50,12340.35,0,2,357.57,Hyderabad,Female,Monthly,UPI,0
+63,28299,60,11998.88,2,0,636.17,Bangalore,Male,Monthly,UPI,0
+29,140189,75,816.87,2,0,305.5,Hyderabad,Female,Monthly,Credit Card,0
+61,117730,2,5166.91,0,1,140.61,Bangalore,Male,Monthly,Net Banking,1
+34,129034,97,553.65,0,1,127.14,Hyderabad,Female,Monthly,Debit Card,0
+66,209115,20,2598.9,2,1,106.76,Hyderabad,Male,Monthly,UPI,0
+46,30436,96,13160.19,4,1,568.4,Pune,Male,Two Year,UPI,0
+52,216594,77,7457.91,1,0,352.34,Hyderabad,Female,Monthly,Net Banking,1
+31,171770,46,746.88,3,1,5.92,Mumbai,Female,One Year,Net Banking,0
+59,139712,75,11952.53,3,1,145.96,Bangalore,Male,Monthly,Debit Card,1
+37,131344,6,5435.0,0,1,644.63,Bangalore,Female,Monthly,Debit Card,1
+44,132981,52,615.28,2,1,201.76,Bangalore,Female,One Year,Credit Card,1
+41,55530,25,11319.78,0,0,452.1,Hyderabad,Male,Monthly,Credit Card,0
+58,130847,21,12671.96,5,1,294.16,Chennai,Female,One Year,Net Banking,1
+38,61997,38,11983.02,3,1,273.81,Pune,Female,Monthly,Net Banking,1
+36,54733,80,1900.88,4,0,460.46,Bangalore,Male,Monthly,Credit Card,0
+42,73009,20,4344.64,0,0,364.95,Hyderabad,Female,Two Year,UPI,0
+40,91318,33,6963.05,3,1,621.24,Bangalore,Female,One Year,Credit Card,0
+41,121815,50,11888.01,3,0,163.57,Mumbai,Male,Two Year,UPI,0
+24,74843,29,8910.65,0,1,204.46,Mumbai,Male,One Year,Debit Card,0
+58,156208,41,1384.36,4,0,668.27,Mumbai,Female,One Year,UPI,0
+31,182859,12,10480.9,0,0,329.25,Bangalore,Female,Two Year,Debit Card,0
+32,93177,92,2003.13,2,1,691.86,Bangalore,Female,Monthly,Net Banking,0
+27,34681,23,4522.73,1,1,454.22,Bangalore,Male,Monthly,Net Banking,0
+47,150630,83,1318.37,2,1,208.49,Pune,Female,Monthly,Credit Card,1
+38,43097,28,14533.89,5,1,556.77,Mumbai,Female,Monthly,UPI,1
+62,61508,9,9558.53,1,1,71.97,Bangalore,Female,Two Year,Debit Card,0
+33,33137,58,7432.35,5,0,173.81,Mumbai,Male,Monthly,Net Banking,0
+29,64439,63,2623.73,0,1,25.85,Mumbai,Female,Monthly,Credit Card,0
+21,36755,6,2142.81,1,2,238.95,Chennai,Male,Monthly,Net Banking,0
+51,158624,91,9251.29,5,1,684.5,Chennai,Male,Monthly,UPI,1
+67,42452,96,2975.7,4,1,523.95,Chennai,Female,Monthly,UPI,0
+39,177586,19,3409.21,5,2,279.89,Chennai,Female,Monthly,Credit Card,1
+48,76331,1,2509.2,1,0,111.75,Pune,Female,Monthly,Debit Card,0
+63,27235,28,14133.49,3,1,458.14,Chennai,Male,Monthly,Debit Card,1
+27,121731,69,10690.15,1,3,362.11,Pune,Male,Monthly,Credit Card,1
+58,152651,6,8230.26,5,0,44.24,Bangalore,Male,One Year,Credit Card,1
+60,128805,8,8545.46,2,0,547.18,Chennai,Female,Monthly,Net Banking,1
+53,112788,25,9379.0,3,0,521.8,Pune,Male,One Year,Debit Card,0
+66,209828,95,11486.35,1,0,458.84,Chennai,Female,Monthly,UPI,1
+60,40891,41,6722.07,0,2,419.62,Pune,Male,One Year,Net Banking,0
+45,72043,24,3308.14,4,0,123.73,Mumbai,Female,One Year,UPI,0
+67,172969,16,4565.59,3,2,76.17,Mumbai,Female,Monthly,UPI,1
+37,110778,3,3935.77,1,1,146.44,Pune,Male,Monthly,UPI,1
+26,216659,70,13839.52,0,1,31.03,Chennai,Female,Monthly,Debit Card,1
+37,180392,40,12467.15,1,2,643.59,Bangalore,Male,Monthly,Net Banking,1
+55,158042,58,4769.9,2,1,71.45,Bangalore,Female,One Year,Net Banking,0
+38,138472,19,4589.35,0,1,423.22,Mumbai,Male,Monthly,UPI,0
+43,26758,29,7482.72,4,0,512.16,Bangalore,Male,Monthly,Credit Card,0
+37,68545,91,13791.51,1,0,134.87,Pune,Female,Monthly,UPI,1
+24,162123,4,14332.77,3,0,656.79,Hyderabad,Female,One Year,Net Banking,1
+33,178923,66,5095.9,4,1,677.22,Hyderabad,Female,Monthly,Net Banking,1
+46,90851,89,3807.38,2,2,109.34,Mumbai,Male,Two Year,Debit Card,0
+26,90658,1,8347.53,2,0,132.28,Mumbai,Male,One Year,Debit Card,0
+23,187779,17,13203.61,1,1,656.75,Mumbai,Female,Monthly,Credit Card,1
+21,152653,24,842.21,2,0,491.3,Chennai,Female,One Year,UPI,0
+66,33376,39,6161.5,3,2,527.29,Chennai,Male,Monthly,UPI,0
+30,108199,22,9200.15,3,2,238.06,Hyderabad,Female,Monthly,Net Banking,1
+34,88751,26,10610.71,5,0,207.63,Bangalore,Female,Monthly,Debit Card,1
+24,48526,81,9296.19,2,2,421.98,Hyderabad,Male,One Year,Net Banking,0
+36,111507,51,6677.9,0,0,579.31,Pune,Male,Two Year,Debit Card,0
+39,68381,11,4936.05,3,0,31.26,Hyderabad,Female,Monthly,Net Banking,1
+41,185720,80,14357.27,0,1,238.6,Mumbai,Male,Two Year,UPI,1
+36,56177,41,1033.52,4,1,142.15,Pune,Female,Monthly,UPI,1
+34,138589,23,4017.48,2,1,634.64,Bangalore,Female,Two Year,Debit Card,1
+32,116236,16,9438.54,2,2,532.22,Bangalore,Male,One Year,UPI,0
+45,150372,73,8063.18,4,0,411.95,Mumbai,Male,Monthly,Credit Card,1
+58,30211,9,9687.07,1,2,690.98,Chennai,Female,Monthly,Debit Card,1
+38,136058,96,5637.46,3,1,637.34,Hyderabad,Male,Monthly,Net Banking,1
+41,157999,22,5926.77,3,1,98.0,Mumbai,Female,Monthly,Debit Card,1
+60,194497,23,3814.08,1,0,359.85,Hyderabad,Female,One Year,Credit Card,0
+59,53138,78,14706.11,2,3,369.36,Pune,Female,Two Year,Net Banking,0
+58,45628,91,2363.79,0,1,540.97,Chennai,Male,Monthly,Debit Card,0
+45,60537,80,6888.17,2,3,649.39,Bangalore,Male,Monthly,UPI,0
+40,77271,18,10427.67,2,0,645.44,Mumbai,Female,Monthly,Net Banking,1
+48,189360,86,8366.65,3,0,525.25,Bangalore,Male,Monthly,UPI,1
+42,136593,46,6999.23,1,2,536.75,Hyderabad,Female,Monthly,Debit Card,0
+21,88283,46,13398.64,1,1,11.87,Pune,Female,One Year,UPI,1
+30,50944,46,11981.39,1,1,383.76,Hyderabad,Female,Monthly,UPI,0
+66,96182,10,11865.7,0,1,51.58,Chennai,Female,Monthly,Net Banking,0
+22,76570,56,5782.92,2,1,226.55,Bangalore,Female,Monthly,UPI,1
+57,123792,59,6671.59,3,0,428.19,Hyderabad,Male,Monthly,Net Banking,0
+54,78139,16,729.4,0,1,671.3,Hyderabad,Female,Monthly,Debit Card,0
+53,201739,43,4044.38,4,0,61.41,Bangalore,Female,Monthly,Debit Card,1
+43,126471,62,7327.87,3,0,202.94,Pune,Female,One Year,Net Banking,0
+47,211982,95,5883.37,2,1,201.43,Mumbai,Female,One Year,Credit Card,0
+43,111733,36,11694.8,1,1,279.8,Hyderabad,Male,Two Year,Net Banking,0
+49,71991,27,1360.98,0,1,208.51,Pune,Female,Two Year,UPI,0
+27,211668,15,12707.83,1,0,82.09,Bangalore,Male,Two Year,Debit Card,0
+51,130677,88,5068.7,3,0,33.68,Pune,Male,Monthly,UPI,0
+24,104082,27,13423.12,2,0,611.22,Mumbai,Female,Monthly,UPI,1
+49,37174,58,9146.09,4,1,329.84,Bangalore,Male,Monthly,UPI,1
+56,135544,65,11956.69,2,1,67.34,Mumbai,Female,One Year,Credit Card,1
+52,61458,95,9411.76,1,1,213.71,Chennai,Male,Two Year,UPI,0
+40,58716,28,14591.6,5,3,216.13,Pune,Female,Monthly,Debit Card,1
+62,152064,78,11560.45,0,3,398.91,Pune,Male,Monthly,Debit Card,1
+35,178795,6,8817.45,2,0,519.28,Bangalore,Female,Monthly,UPI,1
+67,169842,2,6097.7,1,1,664.09,Pune,Male,Monthly,Credit Card,1
+28,25377,57,13105.76,3,2,410.97,Hyderabad,Male,Monthly,Credit Card,1
+61,137491,57,1065.74,2,2,222.14,Hyderabad,Male,Monthly,Net Banking,1
+34,61163,4,2004.42,2,1,428.41,Mumbai,Female,Monthly,Net Banking,1
+33,195064,10,8566.58,2,2,258.98,Chennai,Male,Monthly,Debit Card,1
+56,151501,19,3698.22,1,0,609.16,Mumbai,Male,Monthly,Net Banking,0
+23,134788,61,5300.97,2,1,404.61,Hyderabad,Female,Two Year,Net Banking,0
+64,187976,7,5145.46,2,1,311.15,Bangalore,Female,One Year,UPI,1
+39,77704,46,6294.46,1,2,347.9,Chennai,Male,Monthly,Net Banking,0
+56,97596,94,5826.77,3,2,270.66,Chennai,Male,Monthly,Net Banking,1
+23,180850,96,14245.44,0,1,403.11,Hyderabad,Male,Monthly,Credit Card,1
+53,48992,89,4235.94,1,3,274.94,Bangalore,Female,Monthly,Debit Card,1
+27,130247,76,12039.77,3,2,514.71,Hyderabad,Female,Monthly,Net Banking,1
+46,152994,27,11701.74,5,2,613.0,Hyderabad,Female,Monthly,Net Banking,1
+52,210155,30,5008.13,6,1,82.99,Hyderabad,Male,One Year,UPI,0
+64,152355,27,1674.46,2,0,78.24,Pune,Female,One Year,UPI,0
+39,192350,25,9514.38,0,0,484.96,Mumbai,Male,Monthly,UPI,1
+33,96975,72,13619.06,0,1,65.99,Bangalore,Female,Monthly,Debit Card,0
+38,79181,5,4649.58,1,0,210.83,Chennai,Male,One Year,Credit Card,0
+54,94598,62,3552.91,2,0,118.18,Chennai,Female,One Year,Net Banking,0
+23,200649,67,7457.31,3,2,408.49,Mumbai,Male,Monthly,Net Banking,1
+64,96213,62,6321.24,0,1,113.18,Bangalore,Female,Monthly,Net Banking,0
+51,177555,22,698.91,2,2,519.29,Chennai,Female,One Year,Net Banking,1
+39,88478,43,8278.1,0,1,147.44,Mumbai,Male,Two Year,Debit Card,0
+59,140278,26,2512.81,4,2,19.39,Mumbai,Female,Monthly,Credit Card,1
+65,183116,62,7888.87,1,0,130.68,Chennai,Male,Two Year,UPI,1
+23,46805,66,4539.15,0,2,527.6,Mumbai,Female,One Year,Credit Card,0
+57,103288,71,6239.33,2,2,127.6,Mumbai,Male,Two Year,Net Banking,0
+58,31519,21,5455.18,2,1,299.17,Hyderabad,Female,One Year,UPI,0
+28,148230,50,3317.73,4,1,375.45,Mumbai,Female,One Year,Debit Card,0
+58,51346,28,13203.71,3,1,526.8,Pune,Male,Monthly,Debit Card,1
+57,47058,49,4438.62,2,1,157.36,Bangalore,Female,Monthly,Net Banking,0
+22,157472,20,2518.19,2,1,623.08,Chennai,Male,One Year,UPI,0
+42,148090,30,2565.31,6,1,161.28,Hyderabad,Female,Monthly,Net Banking,1
+34,86310,48,2986.48,4,1,432.65,Pune,Male,Monthly,Credit Card,0
+51,96897,15,14340.77,0,1,238.73,Chennai,Male,Monthly,Credit Card,1
+49,173916,70,4770.54,1,1,575.74,Mumbai,Female,Monthly,UPI,1
+37,128849,61,5128.45,1,1,212.1,Bangalore,Female,Two Year,Debit Card,0
+38,171926,45,8820.69,3,1,258.28,Chennai,Male,Monthly,UPI,1
+53,202860,85,5503.46,0,0,50.3,Bangalore,Female,Monthly,Credit Card,0
+41,78487,4,2367.36,2,1,403.53,Pune,Male,One Year,UPI,0
+56,36868,10,7873.66,0,2,664.85,Mumbai,Male,Monthly,UPI,1
+39,168779,17,10791.77,1,0,204.07,Chennai,Male,Two Year,UPI,0
+44,219603,29,1603.55,5,2,183.1,Pune,Female,Monthly,UPI,1
+63,96792,66,1666.35,0,0,243.82,Hyderabad,Male,Monthly,Net Banking,0
+59,196527,28,4890.62,5,2,87.6,Pune,Female,Monthly,Net Banking,1
+56,65835,34,14178.18,1,1,427.87,Pune,Female,Monthly,UPI,0
+28,87937,37,6286.1,1,1,564.8,Bangalore,Male,Monthly,Debit Card,1
+34,190588,28,1798.37,2,1,206.44,Chennai,Male,Monthly,Net Banking,1
+39,140119,19,2203.9,2,0,486.29,Hyderabad,Male,Monthly,Credit Card,0
+64,169753,43,9837.89,3,0,217.51,Bangalore,Male,Monthly,UPI,1
+44,141395,89,14962.65,1,1,155.73,Hyderabad,Female,One Year,Debit Card,0
+49,40385,36,13443.84,1,2,256.89,Chennai,Female,Monthly,Debit Card,1
+45,28942,37,8933.17,3,1,201.77,Pune,Male,Monthly,UPI,1
+42,121773,43,8069.44,3,1,382.02,Mumbai,Female,Monthly,Net Banking,1
+22,192849,70,1792.33,1,2,374.28,Pune,Male,Monthly,Credit Card,1
+64,217032,95,7490.28,1,1,277.68,Chennai,Female,One Year,UPI,0
+51,158903,47,14444.54,1,1,413.25,Pune,Male,One Year,UPI,0
+49,187657,59,13870.27,0,0,357.78,Bangalore,Male,One Year,UPI,0
+48,116342,25,12619.0,2,3,11.35,Pune,Female,Monthly,Net Banking,1
+62,151708,96,7231.75,1,0,696.07,Hyderabad,Male,Monthly,Debit Card,1
+43,85921,65,2830.74,2,3,73.48,Chennai,Male,Monthly,Net Banking,1
+34,218380,90,7634.54,2,2,222.12,Pune,Male,One Year,UPI,0
+46,60406,28,11728.83,2,1,15.43,Chennai,Male,One Year,Net Banking,0
+30,214970,52,10330.36,0,1,536.29,Pune,Female,Monthly,Net Banking,1
+26,202984,63,724.2,5,3,523.68,Pune,Male,One Year,Net Banking,0
+63,125745,66,1691.09,2,0,495.42,Pune,Male,Monthly,Credit Card,1
+28,49295,89,8304.08,1,1,669.99,Bangalore,Male,Monthly,Credit Card,1
+35,61168,5,5634.04,2,0,108.99,Mumbai,Female,One Year,Net Banking,0
+47,62924,32,2541.93,1,0,122.19,Pune,Male,Monthly,UPI,0
+22,193627,71,9810.65,1,0,78.12,Pune,Male,One Year,UPI,0
+28,51354,34,13095.93,3,0,483.64,Bangalore,Female,Monthly,Credit Card,1
+61,37329,74,13773.61,1,0,363.86,Pune,Female,One Year,Debit Card,0
+47,177995,10,10717.3,4,0,390.82,Mumbai,Male,Monthly,Net Banking,1
+39,137862,44,8904.66,1,0,599.16,Pune,Female,One Year,Net Banking,0
+37,158228,93,14006.88,2,3,253.67,Pune,Male,Monthly,Net Banking,1
+64,202121,38,10424.4,0,4,405.09,Chennai,Male,Monthly,Credit Card,1
+44,80453,52,12398.42,2,0,116.81,Hyderabad,Male,Monthly,Credit Card,1
+31,159984,65,13198.64,2,2,660.55,Hyderabad,Female,Monthly,UPI,1
+25,206599,94,6964.42,4,2,109.08,Mumbai,Female,One Year,Debit Card,1
+60,49879,15,6673.61,4,1,199.7,Hyderabad,Male,Two Year,Credit Card,0
+55,34935,45,8012.38,0,1,25.56,Chennai,Male,Monthly,UPI,0
+21,71816,73,14480.4,5,1,155.63,Hyderabad,Male,One Year,Credit Card,0
+22,120841,70,3148.41,3,0,355.8,Chennai,Female,Monthly,Credit Card,0
+40,179266,10,13474.47,0,0,596.72,Chennai,Male,Monthly,Net Banking,0
+25,175816,88,12436.79,1,3,491.57,Hyderabad,Male,Monthly,Debit Card,1
+62,156476,37,6189.59,2,1,210.86,Pune,Male,Monthly,Credit Card,1
+27,41496,27,1462.31,3,2,204.18,Bangalore,Female,One Year,Credit Card,0
+58,135911,33,4652.41,1,0,394.83,Mumbai,Male,Monthly,UPI,1
+41,156250,20,11981.84,3,3,646.56,Pune,Male,Two Year,Credit Card,1
+37,68946,26,4187.45,0,1,475.0,Bangalore,Female,Monthly,Credit Card,0
+33,73835,4,8539.31,1,0,264.7,Hyderabad,Male,Monthly,Credit Card,0
+58,49398,67,6760.71,4,1,77.68,Hyderabad,Female,Two Year,Debit Card,0
+62,217863,48,11868.1,2,1,533.4,Chennai,Male,One Year,Net Banking,0
+58,195246,39,1126.71,2,0,80.7,Mumbai,Male,One Year,Credit Card,0
+24,78410,77,7953.81,2,0,11.56,Hyderabad,Male,Monthly,UPI,0
+53,150802,53,13944.18,0,1,137.37,Chennai,Male,Two Year,Net Banking,0
+53,200593,51,14398.96,2,0,577.94,Mumbai,Male,Two Year,Debit Card,1
+61,205690,63,9739.77,5,0,16.63,Mumbai,Male,Monthly,UPI,1
+43,208590,83,12251.17,3,0,368.15,Hyderabad,Female,Two Year,UPI,0
+61,46623,52,3401.3,1,0,181.85,Chennai,Female,One Year,Debit Card,0
+49,81693,63,13826.7,3,2,416.65,Pune,Female,Monthly,Debit Card,1
+43,186750,75,7435.38,0,1,354.23,Bangalore,Female,Monthly,Credit Card,1
+59,67833,60,9720.72,1,3,409.21,Chennai,Female,Monthly,UPI,0
+22,81335,80,6569.32,6,1,278.8,Pune,Female,Monthly,Credit Card,1
+50,201640,27,4118.13,3,0,639.92,Pune,Male,Monthly,Debit Card,1
+48,135002,51,4375.4,3,1,212.37,Bangalore,Male,One Year,Credit Card,0
+28,88566,70,9505.22,7,0,85.09,Hyderabad,Male,Two Year,UPI,0
+66,60483,46,2676.51,5,0,72.28,Bangalore,Male,Monthly,Credit Card,1
+65,137462,56,6169.7,2,1,303.1,Chennai,Female,Two Year,UPI,0
+35,171195,70,10017.74,3,2,176.98,Hyderabad,Female,Monthly,Debit Card,1
+26,202072,10,14211.32,1,0,225.88,Bangalore,Male,One Year,Debit Card,1
+53,157970,80,7695.38,0,2,248.01,Bangalore,Female,One Year,UPI,1
+52,71228,24,12571.42,2,1,637.13,Pune,Female,Monthly,Net Banking,1
+48,161827,71,14580.49,0,0,132.04,Hyderabad,Male,Monthly,UPI,1
+54,57362,1,3877.36,0,0,567.84,Chennai,Male,One Year,UPI,0
+51,178270,94,10301.56,5,1,576.99,Bangalore,Female,Monthly,Credit Card,1
+35,70817,50,2529.6,2,0,439.07,Hyderabad,Male,Monthly,Net Banking,0
+63,98551,84,5037.46,0,0,361.89,Hyderabad,Male,One Year,UPI,0
+49,43954,60,11726.68,1,0,619.53,Bangalore,Female,Two Year,Net Banking,0
+44,93109,17,13927.89,4,0,119.04,Pune,Male,One Year,Credit Card,1
+50,80850,17,1329.05,3,2,653.25,Mumbai,Female,Monthly,Net Banking,0
+38,151627,1,11590.69,0,0,38.19,Mumbai,Male,One Year,Net Banking,0
+59,37678,34,12375.26,1,1,533.77,Mumbai,Female,Monthly,Debit Card,0
+67,99034,1,11992.97,1,1,492.48,Mumbai,Female,Monthly,Net Banking,1
+26,124924,18,7631.09,2,2,617.6,Chennai,Male,Monthly,UPI,1
+28,42726,1,12692.25,0,1,39.58,Chennai,Female,Monthly,Debit Card,0
+25,33278,98,12067.93,1,1,38.67,Pune,Female,Monthly,UPI,0
+44,217684,9,10632.0,2,1,415.14,Pune,Male,Monthly,Debit Card,1
+23,62371,65,648.1,0,2,164.62,Bangalore,Male,Two Year,Credit Card,0
+40,41168,98,8330.16,2,0,319.71,Pune,Female,Monthly,UPI,0
+43,94774,12,4309.75,1,0,331.3,Bangalore,Female,Monthly,Credit Card,0
+39,80782,69,4820.64,1,0,563.45,Hyderabad,Female,One Year,Net Banking,0
+55,102149,96,1361.36,0,1,33.23,Hyderabad,Male,Monthly,Credit Card,0
+40,168606,14,1883.63,1,2,141.29,Mumbai,Male,Monthly,Credit Card,0
+33,210556,67,11790.63,3,3,420.63,Hyderabad,Male,Monthly,Credit Card,1
+32,27257,5,11074.71,0,0,70.97,Bangalore,Female,Monthly,Net Banking,0
+58,155294,97,1762.73,1,0,83.71,Bangalore,Female,Two Year,Net Banking,0
+36,31189,9,5572.85,2,0,623.08,Pune,Male,Two Year,Credit Card,0
+30,70451,22,5803.41,3,2,603.13,Hyderabad,Male,Monthly,Debit Card,1
+32,170341,8,9259.27,3,1,273.56,Mumbai,Female,One Year,Credit Card,1
+51,191702,83,1584.31,2,1,554.23,Chennai,Male,Monthly,UPI,1
+26,216321,50,8658.82,4,1,147.28,Hyderabad,Male,One Year,Debit Card,1
+22,42017,19,10852.21,2,1,161.52,Chennai,Female,Monthly,Credit Card,0
+47,200225,37,5152.43,2,2,241.73,Bangalore,Female,One Year,Debit Card,1
+58,136692,57,10407.17,1,1,72.9,Pune,Female,Two Year,Credit Card,0
+46,93896,13,3453.86,1,1,560.45,Bangalore,Male,Monthly,Debit Card,0
+57,61339,56,2013.49,3,1,326.3,Mumbai,Male,Monthly,Net Banking,0
+60,209342,35,7399.42,3,1,111.36,Hyderabad,Male,Monthly,Debit Card,1
+39,89431,50,3193.73,0,2,483.54,Pune,Male,Monthly,Credit Card,1
+24,107089,79,708.68,1,0,264.23,Pune,Male,One Year,Debit Card,0
+54,92554,83,11019.45,1,1,604.43,Chennai,Female,One Year,UPI,0
+58,167062,82,10041.38,1,1,645.87,Bangalore,Male,Monthly,Net Banking,1
+62,174884,88,7137.71,5,1,283.78,Pune,Female,Monthly,UPI,0
+27,214949,85,8300.07,2,0,152.97,Chennai,Male,Monthly,UPI,1
+35,72418,84,1027.65,2,0,390.51,Hyderabad,Female,Two Year,Credit Card,0
+39,122578,31,7013.92,0,1,577.89,Pune,Male,Monthly,Debit Card,0
+39,163121,26,4955.18,2,1,398.49,Pune,Male,Monthly,Net Banking,1
+51,85715,70,8325.89,3,0,413.76,Chennai,Female,One Year,UPI,0
+40,188334,93,5788.9,3,1,340.1,Mumbai,Male,Monthly,Debit Card,1
+41,39230,90,5464.75,2,1,241.96,Mumbai,Male,Monthly,Net Banking,0
+30,93880,76,9726.9,4,0,260.23,Hyderabad,Female,One Year,UPI,1
+36,125056,69,12610.78,2,0,494.76,Bangalore,Male,Two Year,Debit Card,0
+65,188740,57,2845.85,2,2,633.09,Hyderabad,Female,Monthly,Debit Card,1
+34,174477,87,5004.77,3,0,318.36,Chennai,Female,Monthly,Credit Card,0
+46,44898,93,10661.1,2,2,177.8,Bangalore,Male,Monthly,Net Banking,0
+58,196883,96,13557.99,2,1,170.98,Mumbai,Male,One Year,Net Banking,1
+47,211514,64,2463.35,1,1,385.96,Bangalore,Female,Two Year,Net Banking,1
+67,129360,55,14653.54,5,0,207.79,Pune,Male,Two Year,Net Banking,0
+66,172297,33,13840.99,2,4,265.53,Bangalore,Male,Two Year,Credit Card,1
+67,61322,69,4179.58,1,0,496.77,Bangalore,Female,Monthly,Net Banking,0
+43,156379,6,9238.91,3,2,44.85,Hyderabad,Female,Monthly,UPI,1
+66,36583,93,10855.87,2,2,463.33,Mumbai,Male,Monthly,UPI,0
+35,175286,29,1644.79,3,2,399.92,Mumbai,Male,One Year,Debit Card,1
+65,167289,89,4068.98,1,1,693.75,Hyderabad,Male,Monthly,Credit Card,0
+29,98539,21,12328.24,2,3,363.73,Bangalore,Female,One Year,Credit Card,1
+50,73656,31,12554.5,2,0,148.83,Hyderabad,Male,Monthly,UPI,1
+28,189028,31,5873.83,2,1,158.03,Pune,Male,Monthly,Net Banking,0
+57,110331,60,9934.1,5,1,286.39,Hyderabad,Female,Monthly,UPI,0
+21,162795,36,9543.26,2,3,294.76,Pune,Male,Monthly,Debit Card,1
+60,133779,26,11687.07,1,1,122.4,Hyderabad,Male,One Year,Debit Card,0
+55,32045,37,7845.95,0,1,566.97,Chennai,Male,One Year,Credit Card,0
+25,109718,56,4664.99,4,1,290.42,Chennai,Male,One Year,Debit Card,0
+33,148041,38,2486.09,3,0,395.13,Pune,Male,One Year,UPI,0
+61,178650,86,4811.68,1,0,545.9,Chennai,Male,One Year,Net Banking,0
+55,91175,94,2276.23,5,1,263.36,Pune,Male,Monthly,Net Banking,0
+50,190874,46,4199.11,5,2,518.4,Chennai,Male,Monthly,Debit Card,1
+53,118358,25,7958.19,2,3,614.45,Pune,Male,Monthly,Debit Card,1
+36,170692,71,7711.08,0,1,74.78,Mumbai,Male,Monthly,Debit Card,1
+39,25764,95,1771.41,0,1,55.32,Pune,Female,Two Year,Debit Card,0
+33,174255,38,10087.91,3,2,43.55,Bangalore,Male,Monthly,Net Banking,1
+42,92013,29,5046.33,0,1,104.15,Chennai,Female,Two Year,UPI,0
+44,119454,24,13702.5,2,1,15.85,Chennai,Female,One Year,UPI,1
+24,203109,69,14053.75,2,0,527.19,Chennai,Male,Monthly,Net Banking,1
+36,127389,91,7067.36,4,1,150.24,Hyderabad,Male,Two Year,Net Banking,0
+30,179196,75,5995.68,2,2,594.29,Mumbai,Female,One Year,Net Banking,0
+29,106703,81,9188.65,1,0,111.65,Chennai,Male,Monthly,Credit Card,0
+37,194069,72,11403.63,4,1,400.19,Mumbai,Male,Monthly,Credit Card,1
+48,41187,3,13686.07,1,1,395.32,Hyderabad,Male,Two Year,Credit Card,0
+47,197043,86,9502.68,1,0,598.4,Chennai,Female,Two Year,Debit Card,0
+48,60446,93,4907.2,3,0,642.48,Bangalore,Male,Monthly,Credit Card,0
+45,100340,47,12469.56,1,0,678.57,Chennai,Male,One Year,Net Banking,0
+61,41151,48,1713.53,4,2,78.09,Bangalore,Male,One Year,Debit Card,0
+55,102511,35,5064.25,2,0,222.62,Pune,Female,Monthly,Debit Card,0
+44,142044,38,11350.59,0,1,556.43,Mumbai,Female,Monthly,Net Banking,1
+31,148649,28,14765.02,1,0,390.05,Bangalore,Male,Monthly,Debit Card,1
+33,132298,51,4327.77,2,0,383.36,Hyderabad,Female,One Year,UPI,0
+65,100423,67,11196.17,0,2,81.8,Bangalore,Male,One Year,Debit Card,0
+40,102575,19,3564.84,1,2,495.49,Hyderabad,Male,One Year,Credit Card,0
+28,151750,51,8622.23,0,1,143.85,Chennai,Female,Monthly,Net Banking,0
+57,120327,14,9038.22,1,1,351.66,Mumbai,Male,Monthly,Credit Card,1
+39,157216,81,1957.5,2,2,684.62,Chennai,Male,One Year,UPI,0
+62,164611,70,4363.97,3,2,43.55,Bangalore,Female,One Year,UPI,0
+50,71837,19,11537.62,1,1,25.16,Chennai,Male,Monthly,Credit Card,0
+32,130469,75,1743.72,0,0,576.26,Mumbai,Male,Two Year,Net Banking,0
+27,66928,15,7255.76,2,0,257.43,Bangalore,Male,Two Year,UPI,0
+52,155193,60,8134.16,2,2,109.19,Bangalore,Female,Monthly,Debit Card,1
+35,51473,87,1434.76,3,1,267.69,Pune,Female,Monthly,Net Banking,0
+30,147147,52,9710.19,1,3,613.89,Bangalore,Female,Monthly,Credit Card,1
+35,184938,89,8860.62,0,5,331.71,Mumbai,Female,Two Year,Credit Card,0
+43,165360,78,1904.79,0,0,361.48,Chennai,Male,Monthly,Credit Card,1
+48,144935,76,8015.84,0,1,300.68,Pune,Male,One Year,UPI,1
+23,37384,60,14965.13,3,1,280.36,Mumbai,Male,Two Year,Credit Card,0
+41,98916,50,2073.61,2,2,388.99,Pune,Male,One Year,UPI,0
+56,82164,16,6891.1,1,1,346.78,Mumbai,Male,Monthly,UPI,0
+67,58808,96,6188.9,1,0,247.27,Mumbai,Female,One Year,Net Banking,0
+28,177420,3,9117.03,2,2,56.26,Chennai,Female,Two Year,UPI,0
+21,195745,53,13105.14,3,1,337.64,Hyderabad,Female,One Year,Credit Card,1
+22,62706,25,2340.52,1,0,685.92,Chennai,Female,Monthly,Credit Card,0
+23,103521,91,9862.61,5,0,140.72,Mumbai,Female,Monthly,Credit Card,1
+41,90041,81,13645.19,3,2,188.19,Hyderabad,Male,One Year,Credit Card,1
+21,151232,79,4416.09,2,1,137.93,Pune,Female,Monthly,Debit Card,0
+35,151366,16,12710.13,2,1,410.11,Pune,Male,Monthly,Credit Card,1
+24,117395,98,12630.68,0,0,674.19,Hyderabad,Female,Monthly,Credit Card,0
+29,70801,2,13000.42,3,2,652.36,Chennai,Female,Monthly,Credit Card,1
+56,137296,64,10048.6,0,3,646.56,Mumbai,Female,Monthly,Credit Card,1
+33,50122,86,7122.0,2,3,292.04,Mumbai,Male,Monthly,Debit Card,0
+52,124954,89,3730.58,0,0,27.23,Bangalore,Male,One Year,Debit Card,0
+41,70123,17,10054.98,2,1,524.58,Chennai,Male,Monthly,UPI,0
+58,195944,90,2693.29,0,1,276.95,Chennai,Female,One Year,Debit Card,0
+61,75701,84,6746.89,1,0,53.12,Bangalore,Male,One Year,Net Banking,0
+39,202000,23,978.01,2,2,43.49,Bangalore,Female,One Year,Net Banking,0
+48,72073,95,6108.81,5,1,118.65,Pune,Male,Monthly,UPI,0
+32,151958,95,11505.71,2,1,365.78,Mumbai,Male,One Year,UPI,0
+28,26164,24,4041.31,4,1,587.74,Pune,Female,Monthly,Net Banking,1
+57,161342,44,12385.3,0,2,611.23,Mumbai,Male,Monthly,Net Banking,1
+59,134528,27,13243.86,2,2,254.23,Mumbai,Male,Monthly,Credit Card,1
+40,103383,11,3234.15,3,2,622.75,Bangalore,Female,One Year,UPI,1
+48,122712,95,4802.28,2,1,384.66,Bangalore,Male,Monthly,Debit Card,0
+59,109758,30,11338.33,1,0,521.28,Mumbai,Female,Two Year,Net Banking,0
+56,143106,73,719.99,3,1,629.51,Hyderabad,Male,Monthly,UPI,0
+22,88703,55,13127.47,6,0,59.34,Pune,Female,Two Year,UPI,0
+52,144037,6,6634.59,1,2,19.98,Chennai,Male,One Year,Net Banking,0
+67,214733,44,5169.59,1,0,678.47,Pune,Female,One Year,Net Banking,0
+55,35394,59,11799.65,2,1,244.86,Mumbai,Male,One Year,Net Banking,0
+49,76912,68,814.05,2,2,613.5,Chennai,Female,One Year,Debit Card,0
+34,76661,41,1209.41,2,1,436.13,Chennai,Female,Monthly,Debit Card,0
+43,209128,4,3073.95,1,1,620.88,Mumbai,Male,Monthly,Credit Card,1
+62,45048,40,14204.96,2,1,529.31,Mumbai,Female,Monthly,Net Banking,1
+60,218606,2,1518.25,2,0,554.74,Chennai,Male,Two Year,Net Banking,0
+44,211281,18,8599.92,2,0,156.47,Mumbai,Male,Monthly,Debit Card,1
+40,26861,66,6699.77,1,3,128.04,Hyderabad,Female,One Year,Debit Card,0
+32,148546,41,10434.17,1,2,522.77,Chennai,Female,Monthly,UPI,0
+32,144789,79,10716.67,2,1,132.03,Bangalore,Female,Monthly,Net Banking,1
+52,127447,47,10325.85,3,0,341.11,Hyderabad,Male,One Year,UPI,0
+59,112453,27,12014.58,4,0,9.02,Mumbai,Male,Monthly,Debit Card,1
+37,36418,45,3812.79,0,1,17.72,Mumbai,Male,One Year,Debit Card,0
+59,155815,48,11123.18,4,2,466.68,Chennai,Female,One Year,Credit Card,1
+65,209740,3,6018.26,1,2,345.13,Chennai,Female,One Year,Net Banking,1
+56,116668,89,510.47,2,1,77.59,Pune,Male,One Year,Debit Card,0
+41,145167,21,8031.72,4,1,490.89,Pune,Female,Monthly,Debit Card,1
+53,155062,19,8671.74,3,1,112.49,Hyderabad,Female,Two Year,Debit Card,0
+58,30662,61,3825.6,1,0,463.62,Mumbai,Female,One Year,Net Banking,0
+38,91159,26,4036.31,1,0,424.33,Mumbai,Female,Two Year,Credit Card,0
+24,173956,31,761.46,2,0,125.3,Bangalore,Female,One Year,Credit Card,0
+21,69793,59,9221.86,1,1,35.27,Chennai,Male,Monthly,Debit Card,0
+27,33815,73,4014.56,3,3,480.29,Hyderabad,Male,Monthly,Credit Card,0
+21,194821,49,14129.44,2,2,77.14,Pune,Female,One Year,Credit Card,0
+61,205385,95,9074.06,0,1,166.59,Pune,Male,Two Year,Credit Card,0
+37,51712,61,12141.32,5,1,272.56,Chennai,Female,Monthly,Credit Card,0
+28,112557,98,13577.26,3,2,624.4,Chennai,Male,One Year,Net Banking,1
+45,99108,31,1660.24,0,1,620.73,Bangalore,Female,Monthly,Debit Card,0
+64,121264,88,3822.73,2,1,134.52,Pune,Female,Monthly,Credit Card,0
+46,196549,18,9226.63,3,0,380.44,Mumbai,Male,One Year,Debit Card,1
+63,99294,64,10173.73,1,0,27.44,Chennai,Female,Two Year,Credit Card,0
+23,151185,10,7722.99,2,0,536.13,Chennai,Male,Monthly,Net Banking,0
+37,203142,32,4463.91,1,2,499.97,Mumbai,Female,One Year,UPI,1
+43,83586,17,9652.92,4,1,254.91,Hyderabad,Female,Two Year,Net Banking,1
+48,76945,7,13855.66,1,1,263.06,Bangalore,Female,Monthly,Credit Card,1
+25,100416,86,8190.51,2,1,670.35,Pune,Female,Two Year,Credit Card,0
+54,170448,95,4792.87,2,0,455.47,Chennai,Male,One Year,Net Banking,0
+52,42402,91,12154.98,2,1,242.42,Mumbai,Male,Monthly,Credit Card,0
+42,38286,32,13456.35,2,1,306.79,Bangalore,Female,One Year,Credit Card,0
+26,133608,83,1436.19,4,1,161.04,Mumbai,Female,Monthly,Debit Card,0
+57,148436,69,13695.59,1,3,113.02,Hyderabad,Female,Monthly,Debit Card,1
+49,166361,38,5403.2,3,1,368.36,Pune,Male,Monthly,Debit Card,1
+48,37861,27,12426.2,0,1,129.0,Pune,Male,Monthly,Credit Card,1
+57,199347,87,14921.89,2,0,105.09,Pune,Female,Monthly,UPI,1
+23,37618,75,14904.36,3,1,61.89,Chennai,Male,One Year,Net Banking,0
+35,101268,74,14843.58,2,0,328.27,Bangalore,Female,Monthly,Credit Card,0
+28,28401,77,14639.64,3,2,247.63,Chennai,Female,Monthly,UPI,1
+22,113040,98,760.12,2,2,252.85,Mumbai,Male,Monthly,Credit Card,0
+62,189596,52,6906.89,3,0,110.37,Pune,Male,Two Year,Net Banking,0
+24,47924,75,8858.75,1,1,398.71,Mumbai,Female,One Year,Debit Card,0
+47,147493,87,7989.03,7,0,313.34,Hyderabad,Male,One Year,Debit Card,0
+52,40751,60,6097.07,3,2,370.59,Bangalore,Female,One Year,UPI,0
+43,193198,68,3934.35,1,1,346.71,Chennai,Male,Monthly,Net Banking,1
+47,63472,70,3938.75,1,2,547.89,Pune,Male,Monthly,Debit Card,1
+49,122322,85,6438.93,2,1,506.41,Mumbai,Female,Monthly,Debit Card,0
+38,172683,56,5026.09,0,0,567.94,Mumbai,Female,Monthly,Net Banking,0
+50,163710,75,11772.0,3,0,245.49,Mumbai,Female,Monthly,UPI,1
+32,93421,70,9884.62,0,0,588.08,Mumbai,Female,Monthly,Debit Card,0
+59,184943,84,9126.82,3,1,597.73,Hyderabad,Female,Monthly,UPI,1
+46,187090,74,8635.91,2,2,437.45,Chennai,Male,Monthly,Debit Card,1
+56,200096,48,11165.89,5,1,235.37,Hyderabad,Female,Monthly,UPI,1
+22,164365,93,8404.18,1,0,220.77,Chennai,Male,Two Year,Debit Card,0
+39,64982,23,8306.21,2,0,299.41,Bangalore,Female,Monthly,Debit Card,0
+47,208358,88,1815.02,1,0,261.23,Bangalore,Male,Monthly,Debit Card,1
+65,116744,75,12843.97,3,2,580.68,Pune,Female,One Year,Net Banking,0
+64,36598,55,11222.75,2,0,687.62,Bangalore,Male,Monthly,UPI,0
+28,148917,49,4766.77,3,1,474.98,Mumbai,Male,One Year,Credit Card,0
+67,71601,56,3277.82,3,1,684.01,Hyderabad,Male,Monthly,Debit Card,0
+52,62949,54,756.98,4,1,545.42,Chennai,Female,One Year,UPI,0
+33,50958,99,3895.88,0,1,439.46,Chennai,Female,One Year,Credit Card,0
+43,102180,88,12758.96,4,2,486.87,Chennai,Female,Monthly,Credit Card,1
+56,25586,92,6396.99,6,0,49.99,Chennai,Male,Two Year,Credit Card,0
+41,104241,67,14452.76,6,1,450.81,Pune,Female,Monthly,Debit Card,1
+63,27484,58,3622.38,1,0,599.03,Mumbai,Male,Two Year,Credit Card,0
+35,82708,55,13250.46,2,0,268.13,Pune,Female,One Year,Net Banking,0
+23,64623,31,11294.6,1,2,218.95,Bangalore,Male,One Year,UPI,0
+65,70724,49,9651.97,3,1,530.2,Pune,Male,Two Year,Credit Card,0
+44,130026,9,8900.19,2,1,33.62,Chennai,Female,One Year,Net Banking,0
+42,183845,19,4887.92,1,1,425.4,Hyderabad,Female,Two Year,Net Banking,0
+53,115763,35,3949.53,1,1,106.67,Chennai,Male,Monthly,Debit Card,0
+37,67402,72,3394.44,3,0,410.61,Pune,Male,Two Year,Debit Card,0
+21,93478,14,750.62,2,0,551.09,Bangalore,Male,One Year,Net Banking,0
+35,210812,46,6549.68,3,0,331.68,Bangalore,Female,One Year,UPI,0
+38,46151,2,1129.89,2,0,312.11,Bangalore,Male,Monthly,Net Banking,0
+64,84350,44,7978.75,4,0,427.95,Mumbai,Female,One Year,Net Banking,0
+38,105685,35,10313.21,1,1,560.57,Mumbai,Female,Two Year,Net Banking,1
+25,135641,38,4658.74,1,1,683.0,Bangalore,Female,Monthly,Credit Card,1
+52,25988,64,5011.93,4,3,500.29,Bangalore,Female,Monthly,Credit Card,1
+46,204427,40,9890.52,0,0,474.41,Chennai,Male,Monthly,Credit Card,0
+37,64299,84,11755.69,1,2,480.46,Chennai,Male,Two Year,UPI,0
+60,157870,18,14940.22,1,1,116.96,Chennai,Female,Monthly,UPI,1
+22,90990,41,10252.83,2,0,604.6,Hyderabad,Male,Monthly,Debit Card,1
+66,195776,42,4454.8,1,2,352.55,Hyderabad,Male,Monthly,Credit Card,1
+34,105981,97,2065.34,1,1,233.54,Mumbai,Male,Monthly,UPI,0
+44,196995,28,7101.29,2,0,663.0,Mumbai,Male,One Year,Net Banking,1
+54,200556,88,9409.97,1,1,83.92,Pune,Male,Monthly,UPI,0
+56,73988,87,10130.66,1,1,321.99,Bangalore,Male,Monthly,Net Banking,0
+30,55375,16,10961.1,2,2,674.76,Bangalore,Female,One Year,UPI,0
+67,51362,81,11158.49,1,1,683.03,Pune,Male,One Year,Net Banking,0
+62,210365,83,14032.37,1,1,90.33,Chennai,Female,Two Year,Net Banking,0
+56,153850,92,3158.63,3,0,496.85,Hyderabad,Female,Two Year,Debit Card,0
+26,29840,98,5177.71,0,0,241.36,Mumbai,Female,Monthly,Debit Card,0
+41,33639,15,560.52,1,1,206.51,Chennai,Female,Monthly,Credit Card,0
+56,98210,92,9040.86,2,1,573.6,Bangalore,Female,One Year,UPI,0
+37,104846,6,9982.9,3,1,190.12,Pune,Female,One Year,Debit Card,1
+48,219256,56,567.63,0,2,460.08,Mumbai,Female,Monthly,UPI,1
+24,43058,97,5481.98,2,1,392.47,Mumbai,Male,One Year,Net Banking,0
+64,26503,25,9239.23,1,2,286.52,Pune,Female,Two Year,Net Banking,0
+58,152282,62,10248.11,0,2,158.82,Bangalore,Female,Monthly,Net Banking,1
+53,176785,16,12876.61,1,0,611.07,Pune,Female,One Year,UPI,1
+67,37377,16,10831.69,1,0,512.33,Chennai,Female,Monthly,Debit Card,1
+65,162890,73,12191.47,5,1,455.09,Hyderabad,Male,Monthly,UPI,1
+37,74295,17,9426.68,0,1,129.09,Bangalore,Male,One Year,UPI,0
+25,135895,98,2827.43,0,3,266.8,Hyderabad,Female,One Year,Debit Card,0
+25,42084,18,9744.12,4,1,456.89,Mumbai,Male,Monthly,Debit Card,1
+47,68573,90,6236.19,1,1,287.45,Pune,Male,One Year,Debit Card,0
+63,189444,27,9836.43,1,0,155.97,Pune,Male,Two Year,Debit Card,0
+56,113371,17,13399.14,3,2,572.31,Pune,Female,One Year,Net Banking,1
+47,196183,29,6200.06,1,1,12.45,Mumbai,Male,Monthly,Debit Card,0
+25,125033,61,8095.67,6,3,11.34,Hyderabad,Male,Two Year,Net Banking,0
+44,27776,48,1108.24,2,0,260.36,Hyderabad,Male,Monthly,Debit Card,0
+65,53422,96,9472.89,5,0,418.19,Pune,Female,One Year,Credit Card,0
+45,146073,53,10556.86,0,0,292.06,Bangalore,Female,Monthly,Debit Card,1
+31,77677,39,9279.76,0,1,563.06,Pune,Female,Monthly,Debit Card,1
+52,182352,48,14180.41,2,0,355.49,Chennai,Female,Monthly,UPI,1
+33,216716,54,9495.51,0,1,240.84,Hyderabad,Male,Monthly,UPI,1
+47,154017,68,5151.06,1,0,474.84,Chennai,Female,Two Year,Debit Card,0
+23,217589,89,8863.72,6,0,475.49,Chennai,Male,Monthly,Debit Card,1
+65,45065,78,4291.38,3,0,621.53,Chennai,Male,Monthly,UPI,1
+35,51007,45,5722.15,4,0,674.63,Hyderabad,Female,Monthly,Debit Card,1
+35,113707,44,7423.66,4,1,278.44,Bangalore,Female,Monthly,Debit Card,1
+59,202268,82,3700.32,1,0,424.63,Pune,Female,Monthly,Debit Card,0
+54,165091,54,5843.03,3,2,544.26,Hyderabad,Female,Monthly,Credit Card,1
+28,121044,72,8696.23,2,1,322.02,Bangalore,Female,Monthly,Credit Card,1
+38,36999,8,14143.55,2,0,575.93,Hyderabad,Female,Monthly,UPI,1
+46,200808,31,6186.43,1,0,391.92,Bangalore,Male,One Year,Debit Card,1
+33,184214,90,10399.12,3,0,77.55,Mumbai,Female,Two Year,Debit Card,0
+66,82208,67,9369.28,1,1,422.97,Pune,Male,Monthly,Net Banking,1
+36,94743,52,1698.57,1,1,660.44,Bangalore,Female,Monthly,Net Banking,0
+46,208306,38,9321.74,1,2,70.8,Bangalore,Male,Monthly,Debit Card,1
+46,186676,66,11708.46,7,0,480.12,Pune,Female,One Year,UPI,1
+28,193000,44,1749.01,6,0,650.63,Pune,Female,One Year,Net Banking,1
+59,154455,71,7995.83,1,2,612.81,Hyderabad,Male,One Year,UPI,0
+57,137819,78,7589.99,2,0,201.79,Chennai,Male,Two Year,Debit Card,0
+62,164457,12,9944.66,4,1,563.39,Hyderabad,Male,One Year,Debit Card,0
+67,205050,98,8813.27,1,0,611.06,Hyderabad,Female,Two Year,Credit Card,0
+43,26177,65,2996.8,1,3,491.09,Hyderabad,Female,Two Year,Net Banking,0
+50,206084,16,3879.67,0,1,523.25,Chennai,Female,Two Year,Net Banking,0
+33,38872,65,4711.26,3,1,484.36,Chennai,Female,Two Year,Net Banking,0
+30,160305,51,10184.46,1,2,489.42,Pune,Male,Monthly,Credit Card,1
+22,172208,41,11700.55,4,1,546.33,Mumbai,Female,Monthly,Debit Card,1
+31,73257,41,11792.16,3,1,559.91,Pune,Female,Monthly,UPI,1
+34,203586,79,9649.52,0,0,577.27,Chennai,Male,Monthly,UPI,1
+28,125461,70,2941.97,1,0,639.24,Chennai,Male,Two Year,UPI,0
+59,27949,50,8252.25,3,2,208.25,Mumbai,Female,Monthly,Net Banking,1
+57,40138,47,7364.74,3,0,610.89,Bangalore,Male,Monthly,Net Banking,0
+60,201875,40,14902.9,1,1,132.13,Mumbai,Male,Monthly,Credit Card,1
+50,185629,45,4569.63,0,0,106.37,Bangalore,Male,One Year,Credit Card,0
+22,101890,48,5400.19,1,1,534.16,Pune,Female,One Year,Credit Card,0
+36,156978,68,1869.72,4,1,10.53,Bangalore,Female,Two Year,Debit Card,0
+46,65400,31,14232.12,2,0,28.04,Hyderabad,Female,Monthly,Net Banking,1
+32,92930,2,12934.68,3,0,503.57,Mumbai,Male,Monthly,Debit Card,0
+51,169761,24,13062.84,0,1,447.44,Hyderabad,Female,Monthly,UPI,1
+52,159769,15,6809.35,0,1,594.95,Pune,Male,Monthly,UPI,1
+41,205682,69,14949.04,2,2,118.04,Hyderabad,Male,Two Year,UPI,0
+39,182866,26,6221.34,2,0,682.05,Chennai,Male,Monthly,UPI,1
+29,38324,96,14897.67,0,0,248.29,Bangalore,Male,One Year,Net Banking,0
+61,34687,51,9407.05,1,0,554.73,Bangalore,Male,Monthly,Net Banking,0
+49,217836,75,10899.7,2,0,532.79,Mumbai,Male,One Year,Net Banking,0
+67,62150,19,4331.08,3,0,563.61,Mumbai,Male,Monthly,UPI,0
+58,207952,69,4443.18,2,1,456.88,Hyderabad,Male,Monthly,Credit Card,0
+46,99466,6,7261.09,3,2,639.92,Bangalore,Male,Monthly,UPI,1
+29,164894,9,14533.07,3,2,573.73,Mumbai,Male,Monthly,Credit Card,1
+31,85186,68,7388.91,2,1,685.13,Chennai,Male,Monthly,UPI,1
+29,88952,27,13771.26,0,5,357.26,Hyderabad,Female,One Year,Debit Card,1
+60,119878,22,13175.72,1,1,259.61,Mumbai,Male,Monthly,UPI,1
+49,36354,37,3818.84,1,0,317.2,Pune,Female,One Year,Credit Card,0
+63,144476,5,12218.34,3,1,622.13,Chennai,Male,One Year,Debit Card,1
+55,201785,38,869.52,1,1,684.75,Bangalore,Male,Two Year,UPI,0
+30,182276,71,13176.98,2,0,602.19,Chennai,Male,Monthly,Net Banking,1
+45,92432,64,14644.0,1,0,149.71,Chennai,Female,One Year,Credit Card,0
+55,75486,45,1813.26,3,0,264.96,Mumbai,Male,Two Year,UPI,0
+44,133195,78,14014.25,2,1,289.87,Mumbai,Male,One Year,UPI,0
+63,164693,20,1492.67,0,2,335.78,Hyderabad,Male,One Year,Net Banking,0
+65,146234,51,6270.22,1,2,237.13,Hyderabad,Female,Monthly,UPI,1
+22,177241,93,3141.3,1,2,541.75,Pune,Female,Monthly,Net Banking,0
+46,68890,12,1245.4,0,1,690.15,Hyderabad,Male,One Year,Net Banking,0
+31,84031,1,12317.46,0,0,278.27,Pune,Male,Monthly,Net Banking,1
+32,77429,1,10337.02,1,3,294.02,Mumbai,Male,Two Year,UPI,0
+59,39767,47,3188.93,1,0,451.56,Mumbai,Female,Monthly,Credit Card,0
+22,138894,9,2994.23,2,2,696.01,Bangalore,Female,Two Year,UPI,0
+32,174324,20,3451.04,2,3,353.04,Chennai,Female,Two Year,Credit Card,0
+59,143626,87,4767.68,3,0,556.63,Hyderabad,Male,Two Year,Net Banking,0
+29,199029,49,1755.53,2,2,36.54,Chennai,Female,Two Year,UPI,0
+44,200266,25,1752.4,2,1,165.17,Hyderabad,Female,One Year,Debit Card,0
+54,188796,64,12950.66,1,0,195.15,Chennai,Female,Monthly,Debit Card,1
+59,216730,31,9866.85,3,2,416.31,Hyderabad,Male,Monthly,UPI,1
+49,72657,19,6744.88,2,0,234.31,Hyderabad,Male,Monthly,Credit Card,0
+55,85097,49,6992.49,2,1,451.14,Chennai,Female,Monthly,Debit Card,0
+33,90289,61,1779.31,1,0,538.91,Hyderabad,Male,One Year,Net Banking,0
+21,175102,56,2360.42,3,2,234.71,Hyderabad,Male,Monthly,Net Banking,0
+46,205386,46,8974.07,0,0,546.2,Chennai,Male,Two Year,Net Banking,1
+28,126017,32,6239.95,4,2,699.79,Hyderabad,Male,Two Year,Net Banking,1
+32,156033,24,13133.14,3,3,261.39,Hyderabad,Female,Two Year,Debit Card,0
+57,173807,16,10080.93,2,0,694.1,Pune,Male,Monthly,Credit Card,1
+34,212232,60,12221.81,0,0,502.24,Bangalore,Female,One Year,Credit Card,1
+25,66154,88,5063.27,0,2,657.77,Chennai,Female,Monthly,UPI,1
+63,35227,31,1086.95,2,2,573.92,Hyderabad,Female,One Year,Debit Card,0
+47,214530,80,657.34,1,2,442.86,Chennai,Male,One Year,Credit Card,0
+48,100817,8,3981.94,1,1,251.42,Pune,Male,Two Year,UPI,0
+51,172828,67,12902.68,2,2,337.32,Mumbai,Female,Two Year,Debit Card,1
+55,73727,92,8436.03,3,1,167.34,Hyderabad,Male,Monthly,Credit Card,1
+21,171887,88,6052.32,2,0,435.32,Hyderabad,Male,Monthly,Debit Card,0
+56,154132,77,2277.79,4,2,95.27,Pune,Female,One Year,Net Banking,0
+50,100435,43,2825.55,3,0,302.13,Hyderabad,Male,One Year,Net Banking,0
+46,128497,73,10359.04,1,1,680.6,Mumbai,Female,Monthly,Net Banking,1
+53,133785,25,1842.96,1,1,556.36,Pune,Female,Monthly,Net Banking,1
+28,100802,59,14549.08,2,0,314.9,Chennai,Female,Monthly,Net Banking,0
+50,160016,64,664.83,3,0,33.49,Pune,Female,Monthly,UPI,0
+30,143700,86,13634.87,1,1,214.08,Pune,Male,Monthly,Debit Card,1
+35,73708,13,9114.14,3,2,61.69,Bangalore,Male,Monthly,Net Banking,1
+24,101405,54,12205.89,1,1,600.6,Hyderabad,Female,One Year,Net Banking,1
+49,89420,59,10842.51,2,3,660.73,Chennai,Male,Two Year,UPI,0
+43,167344,95,10971.87,0,1,325.19,Bangalore,Male,Two Year,Net Banking,0
+44,110263,5,14459.65,2,0,596.46,Chennai,Male,Monthly,UPI,1
+53,217332,2,3239.56,2,1,422.4,Chennai,Female,One Year,UPI,0
+43,106708,17,12363.05,7,1,651.52,Pune,Male,Two Year,Debit Card,1
+63,84458,44,11606.84,0,0,376.1,Pune,Male,Monthly,Credit Card,0
+29,178702,9,13453.48,1,0,235.13,Mumbai,Female,Monthly,Credit Card,1
+41,66892,52,10783.75,2,1,350.36,Mumbai,Female,One Year,UPI,0
+36,96510,70,1340.54,3,0,157.63,Chennai,Female,One Year,Debit Card,0
+62,58066,50,5208.72,3,2,29.17,Mumbai,Female,One Year,Debit Card,0
+24,159249,90,13512.75,3,1,623.59,Mumbai,Male,Monthly,Net Banking,1
+46,131190,65,10211.43,1,1,668.28,Bangalore,Male,One Year,Credit Card,0
+64,169314,33,9484.98,1,1,124.77,Pune,Male,One Year,Debit Card,1
+51,199265,82,10870.51,0,4,163.79,Pune,Female,One Year,Debit Card,0
+59,187475,57,13078.37,4,2,146.33,Bangalore,Male,Monthly,Credit Card,1
+52,84819,18,4197.68,2,1,693.55,Mumbai,Male,One Year,UPI,0
+38,74487,11,2567.41,2,2,681.09,Bangalore,Female,One Year,UPI,0
+50,59346,26,11847.55,2,2,393.64,Chennai,Female,Two Year,UPI,0
+25,68539,48,5752.76,2,0,186.42,Mumbai,Male,Monthly,UPI,0
+55,134334,51,13274.97,1,2,590.32,Chennai,Male,Monthly,UPI,1
+42,156635,41,13814.15,4,1,170.47,Hyderabad,Male,Monthly,UPI,1
+40,111700,63,13666.74,3,0,263.1,Bangalore,Male,One Year,Debit Card,0
+26,92042,18,13795.85,2,1,462.37,Mumbai,Female,Two Year,Net Banking,1
+41,213581,14,1474.59,3,0,609.2,Chennai,Female,One Year,UPI,0
+64,167019,85,5051.91,1,0,590.61,Hyderabad,Male,Monthly,UPI,1
+29,101740,74,2640.37,2,0,7.62,Mumbai,Male,Monthly,Debit Card,0
+51,110792,93,13644.29,2,2,221.17,Bangalore,Male,Monthly,Credit Card,1
+60,162048,92,8869.44,4,0,526.0,Mumbai,Male,Monthly,UPI,1
+33,211323,68,2291.81,1,1,395.71,Pune,Female,One Year,UPI,0
+50,182445,60,965.87,0,2,60.32,Bangalore,Female,Monthly,UPI,0
+29,141465,11,1717.31,3,0,211.06,Chennai,Male,Monthly,UPI,1
+67,97039,31,9666.11,4,1,580.51,Pune,Female,Two Year,Debit Card,0
+46,181473,7,10578.51,1,1,562.94,Bangalore,Female,One Year,Net Banking,0
+37,54710,87,5694.36,2,0,509.51,Chennai,Female,Monthly,Net Banking,0
+43,174643,96,9996.02,2,2,116.65,Chennai,Male,Monthly,Debit Card,1
+53,134485,77,3027.99,4,0,43.19,Hyderabad,Male,One Year,UPI,0
+36,111754,72,9641.28,3,0,12.54,Hyderabad,Female,One Year,Net Banking,0
+58,211372,89,11629.94,1,1,130.96,Chennai,Female,One Year,UPI,1
+56,117241,91,10507.21,4,2,311.77,Pune,Male,Monthly,Debit Card,1
+60,168411,98,12118.84,2,0,40.84,Pune,Female,One Year,UPI,0
+47,103181,74,2993.17,3,1,25.52,Mumbai,Female,Monthly,Net Banking,0
+27,47858,11,7803.7,2,1,381.32,Pune,Female,Monthly,UPI,0
+33,126160,4,14260.22,4,2,103.01,Mumbai,Female,Monthly,Debit Card,1
+62,81670,91,14187.62,2,0,371.97,Pune,Male,One Year,Debit Card,0
+26,136520,6,2424.4,2,1,200.47,Pune,Female,Monthly,Credit Card,1
+60,181002,32,11613.89,1,1,630.6,Hyderabad,Male,Monthly,Net Banking,1
+32,183659,76,5203.27,5,2,10.56,Chennai,Female,One Year,UPI,0
+64,124421,49,10546.17,2,0,407.88,Mumbai,Male,Monthly,UPI,1
+36,199829,76,5178.78,1,1,635.63,Bangalore,Female,Monthly,Credit Card,0
+57,56942,85,2688.41,1,0,400.69,Pune,Male,One Year,Credit Card,0
+28,155799,21,9606.16,2,0,76.62,Hyderabad,Female,Monthly,UPI,1
+46,208916,18,14002.86,4,4,641.44,Chennai,Female,Monthly,Debit Card,1
+39,92910,35,5233.07,1,0,282.28,Bangalore,Female,One Year,Debit Card,0
+54,179676,74,12190.82,0,0,308.89,Pune,Male,Monthly,Net Banking,1
+50,128025,25,2045.55,3,0,199.75,Pune,Female,Monthly,Net Banking,1
+63,190422,6,11033.85,1,1,161.32,Chennai,Female,Monthly,Credit Card,1
+47,118367,42,7768.79,1,0,510.86,Hyderabad,Female,Two Year,UPI,0
+55,104725,16,14440.79,4,4,562.32,Pune,Male,Monthly,Credit Card,1
+41,157298,82,10119.27,2,0,272.31,Chennai,Male,One Year,Net Banking,1
+21,57305,60,10896.69,2,0,249.68,Chennai,Female,Two Year,Net Banking,0
+41,47389,95,13334.39,1,0,105.77,Pune,Male,One Year,Debit Card,0
+55,90784,56,13107.21,2,1,295.74,Hyderabad,Female,One Year,Debit Card,1
+46,189974,39,2174.35,2,1,263.97,Bangalore,Female,Monthly,Debit Card,1
+44,166176,36,7275.58,2,1,247.38,Mumbai,Female,Two Year,Credit Card,0
+26,202211,36,8260.12,0,0,229.38,Pune,Female,Monthly,Credit Card,0
+57,208242,89,2601.52,2,0,361.08,Hyderabad,Male,One Year,Credit Card,0
+56,121822,3,12357.16,3,0,203.16,Pune,Female,One Year,Net Banking,1
+38,162055,77,10178.85,6,2,68.71,Mumbai,Male,One Year,Net Banking,0
+40,187744,27,10559.04,4,2,312.13,Mumbai,Female,One Year,Credit Card,0
+56,151565,22,8297.47,1,2,83.34,Bangalore,Female,One Year,Credit Card,0
+47,117662,93,8102.07,1,2,234.25,Bangalore,Female,Monthly,UPI,1
+55,102042,4,12613.78,3,1,291.42,Hyderabad,Female,Two Year,Credit Card,1
+55,195478,37,3131.12,0,0,156.62,Bangalore,Male,One Year,UPI,0
+24,128938,45,5416.13,2,1,546.27,Mumbai,Female,Monthly,Debit Card,1
+53,163102,85,5487.93,2,2,661.46,Pune,Female,One Year,UPI,1
+41,38692,65,783.75,4,1,664.67,Mumbai,Female,Monthly,UPI,0
+67,155462,81,10918.05,2,0,505.64,Hyderabad,Male,One Year,Credit Card,0
+35,194473,70,3256.69,1,0,298.8,Bangalore,Male,One Year,Net Banking,0
+57,131666,96,8304.48,3,3,81.08,Pune,Male,One Year,UPI,0
+30,179396,90,11585.43,0,0,281.02,Pune,Male,Two Year,Net Banking,0
+33,74591,31,13086.24,2,0,455.04,Hyderabad,Female,Monthly,Net Banking,0
+25,183385,28,2976.33,1,0,439.37,Chennai,Male,Monthly,Credit Card,0
+36,33101,3,13691.73,2,0,676.0,Mumbai,Female,Monthly,UPI,1
+48,31723,94,10623.69,2,1,49.03,Mumbai,Male,One Year,UPI,0
+22,112196,85,5568.73,1,2,649.64,Mumbai,Female,Monthly,UPI,1
+61,190985,20,11344.76,1,2,165.48,Chennai,Male,Two Year,UPI,0
+35,184944,39,5596.22,5,0,225.78,Hyderabad,Female,One Year,Net Banking,1
+61,214242,33,8508.37,1,2,101.39,Pune,Female,Two Year,UPI,0
+49,47577,49,4931.08,6,1,428.02,Hyderabad,Female,Monthly,UPI,1
+21,144324,58,5069.48,1,0,206.56,Mumbai,Female,Two Year,Net Banking,0
+58,154014,56,13600.58,2,1,115.79,Pune,Male,Monthly,Debit Card,1
+53,161317,70,1703.63,1,0,370.03,Pune,Female,One Year,UPI,0
+64,189432,67,14345.15,1,1,174.16,Bangalore,Male,Monthly,Debit Card,1
+27,171581,1,6281.17,0,2,607.22,Bangalore,Male,Monthly,Debit Card,1
+25,110994,58,7043.97,3,1,319.85,Hyderabad,Female,One Year,Credit Card,0
+21,98327,96,12480.56,1,0,654.89,Hyderabad,Male,One Year,Debit Card,0
+61,33836,64,3973.78,0,0,7.76,Chennai,Female,One Year,Net Banking,0
+36,204981,47,14975.17,2,0,534.84,Mumbai,Male,Monthly,UPI,1
+42,99986,43,1185.67,3,1,82.04,Hyderabad,Female,Two Year,Debit Card,0
+56,79095,56,6261.99,3,0,13.22,Chennai,Female,Monthly,Debit Card,0
+45,109539,55,13966.26,1,1,233.58,Mumbai,Male,One Year,Debit Card,0
+59,162955,48,9324.58,1,0,340.64,Hyderabad,Female,Monthly,Credit Card,0
+61,188545,5,6469.44,3,0,676.02,Hyderabad,Female,Monthly,Net Banking,0
+50,149413,43,7987.8,1,1,289.79,Hyderabad,Male,One Year,Net Banking,1
+59,192455,71,14350.54,5,1,49.86,Mumbai,Female,Monthly,UPI,1
+60,98025,50,13189.35,4,1,514.87,Mumbai,Female,Monthly,Credit Card,1
+64,82425,54,8007.12,0,3,533.44,Hyderabad,Male,Monthly,Debit Card,0
+22,30516,78,2601.97,1,0,275.84,Bangalore,Female,Monthly,Credit Card,0
+48,123427,25,1874.39,2,1,634.04,Mumbai,Male,One Year,UPI,0
+54,148393,88,636.78,3,1,405.78,Mumbai,Female,Monthly,UPI,1
+23,62112,82,13344.16,1,0,345.22,Mumbai,Female,One Year,Net Banking,0
+55,68101,72,4312.65,0,2,271.51,Hyderabad,Female,One Year,Net Banking,0
+56,158490,13,6593.96,3,0,67.34,Mumbai,Female,Monthly,UPI,1
+33,85338,81,9178.31,1,0,171.24,Bangalore,Female,Monthly,UPI,0
+23,191536,84,6921.77,0,2,8.64,Pune,Male,One Year,Debit Card,0
+64,186848,45,3227.68,2,0,452.29,Mumbai,Female,Monthly,Net Banking,1
+41,120565,12,6406.56,1,0,42.97,Bangalore,Female,Two Year,Credit Card,0
+29,142450,10,1551.43,1,3,214.76,Chennai,Male,Two Year,Credit Card,0
+59,130130,15,1957.22,1,0,544.52,Chennai,Female,Monthly,UPI,0
+30,117580,47,4028.99,1,1,244.52,Hyderabad,Male,Monthly,Net Banking,0
+65,94751,1,14058.51,2,0,614.39,Pune,Male,Monthly,UPI,1
+42,42206,26,7148.82,2,0,189.2,Mumbai,Male,Monthly,Debit Card,1
+49,114279,37,14180.53,3,0,513.75,Mumbai,Female,Monthly,Net Banking,1
+32,213170,48,4165.67,3,1,106.93,Bangalore,Male,Monthly,Credit Card,1
+66,138871,96,3482.24,1,2,19.0,Chennai,Male,Two Year,Net Banking,0
+34,61438,39,4851.28,1,2,333.83,Pune,Female,One Year,UPI,0
+21,49843,2,5616.86,4,0,491.69,Mumbai,Male,Monthly,UPI,0
+44,144766,68,9231.88,2,0,518.28,Hyderabad,Female,One Year,UPI,0
+26,213743,56,7434.02,1,1,112.55,Chennai,Male,Monthly,Credit Card,1
+53,207626,97,1612.66,1,1,433.06,Bangalore,Male,One Year,Debit Card,0
+32,158934,39,8749.23,0,0,578.04,Bangalore,Male,Monthly,Credit Card,0
+61,95373,88,6301.71,8,1,324.78,Chennai,Female,Monthly,Debit Card,1
+25,84411,51,4979.02,2,2,531.36,Pune,Male,Two Year,UPI,0
+38,81681,38,13961.87,1,1,474.0,Bangalore,Male,One Year,UPI,0
+38,126905,62,3907.18,2,1,380.32,Chennai,Male,Monthly,Credit Card,0
+33,216374,94,13577.1,1,1,60.6,Hyderabad,Male,Monthly,UPI,1
+44,136933,90,12736.67,3,2,586.54,Mumbai,Male,Monthly,Credit Card,1
+42,155512,67,9605.29,1,1,546.75,Mumbai,Female,Two Year,Net Banking,0
+29,205098,98,12942.07,1,0,301.56,Pune,Female,Two Year,Debit Card,0
+35,69599,77,7193.21,2,2,216.63,Hyderabad,Male,Two Year,Debit Card,0
+31,116480,57,10522.8,2,3,86.16,Chennai,Female,Monthly,UPI,0

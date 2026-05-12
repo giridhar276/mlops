@@ -1,0 +1,1001 @@
+area_sqft,bedrooms,bathrooms,property_age,distance_city_km,school_rating,parking_slots,location,property_type,furnishing,price
+4831,3,3,31,7.1,8.9,3,Good,Villa,Unfurnished,29964929.13
+1623,3,2,24,15.26,9.4,0,Good,Apartment,Fully-Furnished,13438472.98
+4654,4,1,41,20.84,5.9,0,Good,Apartment,Fully-Furnished,25618663.81
+4665,4,1,16,10.93,9.6,1,Good,Apartment,Fully-Furnished,27933641.19
+1875,4,4,14,20.38,9.0,0,Developing,Apartment,Unfurnished,13841900.43
+3420,5,1,43,11.21,3.2,2,Good,Villa,Unfurnished,22395849.09
+3425,5,4,16,15.47,4.0,0,Good,Apartment,Semi-Furnished,21174439.34
+1840,1,1,43,8.91,3.6,2,Prime,Apartment,Fully-Furnished,13635933.84
+696,3,2,19,20.62,9.2,1,Good,Apartment,Semi-Furnished,8195426.11
+2585,1,3,22,37.28,7.1,1,Good,Apartment,Semi-Furnished,14758438.26
+674,1,2,39,23.3,6.9,0,Average,Apartment,Semi-Furnished,3012765.69
+1405,5,1,42,38.5,7.8,2,Good,Apartment,Semi-Furnished,7917138.32
+459,1,1,2,18.92,1.3,0,Average,Apartment,Semi-Furnished,2989123.72
+2050,5,1,25,35.94,8.3,3,Prime,Villa,Semi-Furnished,17996905.01
+2710,2,3,32,15.43,5.3,0,Good,Apartment,Fully-Furnished,15011231.94
+3673,5,1,28,7.48,8.7,2,Developing,Independent House,Semi-Furnished,23283183.6
+2326,2,4,4,9.0,7.6,2,Prime,Villa,Unfurnished,19324116.91
+1687,2,4,11,25.63,9.9,0,Average,Independent House,Unfurnished,12032625.04
+3893,3,4,10,24.93,8.5,3,Average,Apartment,Semi-Furnished,22186350.39
+1301,5,1,23,20.81,4.6,2,Good,Apartment,Semi-Furnished,11057170.76
+2563,5,1,39,37.97,7.5,1,Average,Villa,Semi-Furnished,16955278.39
+780,3,3,5,38.88,7.2,3,Good,Apartment,Semi-Furnished,9221577.4
+1999,4,3,41,17.43,2.7,2,Developing,Independent House,Unfurnished,9480782.65
+3438,2,4,40,29.19,5.0,0,Average,Apartment,Semi-Furnished,16191654.22
+919,5,4,41,9.87,4.6,1,Prime,Independent House,Fully-Furnished,11897792.87
+4380,1,1,15,7.23,2.6,1,Average,Apartment,Unfurnished,21746165.24
+651,4,1,18,6.3,7.8,3,Good,Apartment,Semi-Furnished,9038295.64
+2842,4,1,33,25.43,9.1,0,Developing,Apartment,Fully-Furnished,16038779.14
+741,1,1,20,32.08,4.8,0,Prime,Apartment,Semi-Furnished,6275888.07
+3346,2,1,34,33.89,5.9,0,Good,Apartment,Fully-Furnished,17600973.1
+4457,4,1,7,39.84,5.1,2,Average,Apartment,Semi-Furnished,23841593.61
+3828,4,1,30,7.23,5.4,3,Prime,Apartment,Semi-Furnished,25473192.74
+1190,5,4,21,31.07,6.7,0,Average,Apartment,Semi-Furnished,7507986.98
+578,2,4,1,6.93,4.4,1,Average,Apartment,Semi-Furnished,6955934.21
+2388,5,4,11,15.52,5.8,1,Good,Independent House,Unfurnished,19075965.32
+2689,2,3,26,15.67,9.5,0,Developing,Apartment,Unfurnished,14110109.02
+4795,5,2,7,17.86,3.2,3,Average,Apartment,Unfurnished,27553687.52
+4442,1,3,8,18.22,2.8,2,Average,Independent House,Unfurnished,25170509.47
+1580,4,3,25,2.16,2.6,0,Good,Apartment,Unfurnished,9864975.4
+978,4,2,40,38.73,6.4,3,Prime,Apartment,Fully-Furnished,9418498.62
+1565,4,1,9,15.47,4.7,3,Developing,Apartment,Fully-Furnished,10634913.9
+2235,4,3,26,19.97,7.2,3,Good,Villa,Unfurnished,17359229.85
+4764,4,4,9,38.08,7.1,1,Good,Apartment,Semi-Furnished,27505570.41
+4490,2,4,2,35.32,3.3,3,Good,Apartment,Fully-Furnished,26255830.3
+1565,4,1,10,1.75,3.1,3,Prime,Villa,Fully-Furnished,17479742.25
+4365,2,2,35,39.13,8.0,2,Good,Apartment,Semi-Furnished,21305891.52
+3084,5,1,0,18.59,9.8,0,Average,Apartment,Semi-Furnished,20318483.13
+1617,4,2,33,17.82,1.9,0,Developing,Independent House,Fully-Furnished,9110663.26
+3393,1,2,19,15.64,8.4,3,Average,Apartment,Unfurnished,20499061.02
+1606,5,1,21,2.56,5.5,2,Prime,Apartment,Semi-Furnished,15596026.06
+3252,3,3,38,15.74,3.6,2,Good,Apartment,Unfurnished,18141397.65
+4072,4,2,43,12.69,4.8,1,Average,Apartment,Fully-Furnished,21255420.71
+4547,5,4,31,23.23,6.8,3,Average,Independent House,Semi-Furnished,28014426.19
+4107,4,3,16,19.74,4.1,3,Average,Apartment,Semi-Furnished,23785068.4
+2005,4,3,32,32.23,6.0,0,Average,Apartment,Semi-Furnished,11198113.48
+2553,3,3,22,9.63,5.3,2,Good,Apartment,Semi-Furnished,16532667.79
+1302,4,4,25,11.97,6.0,2,Good,Independent House,Semi-Furnished,12472036.97
+1648,3,1,2,29.63,3.9,3,Good,Apartment,Unfurnished,11109025.63
+3502,1,4,22,25.96,8.5,1,Good,Apartment,Unfurnished,20338819.57
+1299,4,1,4,12.94,5.9,1,Good,Apartment,Semi-Furnished,11291045.67
+2447,5,3,12,5.04,1.1,3,Prime,Apartment,Fully-Furnished,20337166.16
+1328,1,3,30,24.17,3.5,2,Good,Independent House,Unfurnished,7802657.48
+3246,4,3,26,11.01,1.6,0,Developing,Independent House,Unfurnished,17921798.99
+1146,4,1,36,18.32,1.6,3,Average,Villa,Unfurnished,9024394.51
+4362,3,3,31,32.04,1.9,2,Good,Independent House,Semi-Furnished,24399548.11
+2544,1,1,15,8.67,6.8,2,Good,Villa,Fully-Furnished,19108696.49
+2850,1,3,9,13.74,3.5,1,Good,Apartment,Fully-Furnished,16871432.77
+2261,4,1,20,36.69,7.7,2,Good,Villa,Unfurnished,16924534.44
+2334,3,3,17,10.11,3.5,3,Developing,Villa,Unfurnished,16514169.02
+4894,2,3,43,29.03,5.7,3,Good,Apartment,Semi-Furnished,25589034.29
+4714,5,1,43,24.85,1.5,1,Good,Villa,Semi-Furnished,26287680.92
+1263,2,2,30,37.48,4.8,2,Average,Apartment,Semi-Furnished,6043023.98
+3426,5,1,40,38.77,4.4,3,Prime,Apartment,Unfurnished,20975948.61
+1549,2,1,20,5.73,2.2,2,Average,Apartment,Semi-Furnished,9853293.31
+2219,2,1,24,15.45,8.9,1,Prime,Villa,Unfurnished,18120790.52
+2451,4,3,11,33.5,6.6,3,Developing,Apartment,Semi-Furnished,16234847.52
+887,4,2,27,30.68,8.3,3,Average,Apartment,Unfurnished,5891454.35
+4596,3,1,14,2.27,9.4,1,Prime,Independent House,Semi-Furnished,32876310.01
+1835,2,4,29,18.69,4.9,0,Good,Villa,Unfurnished,13811358.66
+2384,2,4,42,23.37,7.0,3,Good,Apartment,Unfurnished,14910800.82
+1971,1,2,28,4.34,9.4,1,Prime,Apartment,Unfurnished,15111013.08
+4131,3,3,38,21.63,3.4,3,Prime,Independent House,Unfurnished,24572487.42
+2111,4,1,30,4.84,5.5,3,Prime,Independent House,Semi-Furnished,17576767.97
+1897,5,1,20,38.24,8.3,0,Prime,Apartment,Semi-Furnished,14122105.59
+4424,5,2,38,2.68,2.2,0,Prime,Apartment,Unfurnished,25574096.75
+4661,3,2,6,6.33,3.4,2,Good,Independent House,Unfurnished,27502992.74
+3471,5,2,7,13.0,6.7,2,Prime,Apartment,Unfurnished,24931412.89
+2604,1,1,22,22.83,3.7,3,Good,Villa,Semi-Furnished,16823986.73
+1542,2,4,5,17.64,3.8,0,Good,Apartment,Unfurnished,11944047.98
+1947,1,2,7,15.77,7.2,2,Prime,Apartment,Unfurnished,16643594.8
+1526,5,3,18,3.01,4.9,3,Developing,Apartment,Unfurnished,10594502.4
+3257,4,1,42,13.75,1.7,0,Good,Apartment,Unfurnished,17159174.05
+4391,2,2,33,2.85,5.4,2,Prime,Independent House,Semi-Furnished,27909856.02
+2747,3,2,44,4.84,5.6,3,Prime,Apartment,Unfurnished,16912513.95
+4528,4,3,38,25.43,6.7,3,Good,Villa,Semi-Furnished,27586380.27
+4577,4,1,44,19.56,6.6,2,Good,Villa,Unfurnished,26956848.62
+4553,1,1,42,10.63,5.3,3,Average,Villa,Fully-Furnished,25088114.65
+1480,4,1,4,33.71,2.1,2,Prime,Villa,Semi-Furnished,15962559.48
+1931,2,1,1,17.78,9.5,2,Prime,Apartment,Unfurnished,16267020.66
+1320,5,1,32,2.22,2.8,0,Good,Apartment,Unfurnished,9947084.43
+4630,1,1,31,11.34,7.3,2,Good,Apartment,Unfurnished,25384993.53
+3013,3,4,5,26.89,6.6,3,Average,Apartment,Semi-Furnished,19043574.6
+3139,2,2,3,8.21,7.0,2,Average,Apartment,Semi-Furnished,20893755.84
+1031,3,3,2,30.32,1.9,1,Good,Apartment,Semi-Furnished,9471162.47
+552,5,1,12,6.64,4.4,1,Average,Villa,Semi-Furnished,8894070.46
+593,4,4,35,38.07,1.6,0,Good,Villa,Unfurnished,5181231.8
+4501,5,4,3,17.55,3.4,1,Developing,Independent House,Unfurnished,26576398.45
+2489,2,2,34,38.39,8.3,3,Developing,Villa,Semi-Furnished,14969760.58
+4503,2,1,25,9.31,9.6,1,Prime,Independent House,Semi-Furnished,28792462.06
+4397,3,1,21,25.13,8.4,2,Average,Villa,Fully-Furnished,27856554.04
+2232,5,4,34,21.09,5.7,1,Prime,Apartment,Unfurnished,17423966.33
+978,1,4,14,12.82,5.3,0,Prime,Apartment,Unfurnished,9950395.5
+2224,2,4,16,20.48,3.0,1,Average,Villa,Semi-Furnished,14142940.71
+4173,5,1,42,26.05,4.6,1,Average,Apartment,Semi-Furnished,20377969.26
+4895,3,1,12,33.69,5.2,2,Average,Apartment,Semi-Furnished,26169035.29
+4038,5,2,40,13.87,4.0,2,Developing,Independent House,Fully-Furnished,23582047.14
+4961,2,3,38,8.44,9.2,1,Good,Apartment,Semi-Furnished,28747348.2
+4518,1,2,2,9.66,2.3,0,Developing,Independent House,Fully-Furnished,26709058.36
+2038,4,1,37,38.08,7.9,3,Good,Apartment,Unfurnished,11315855.64
+4297,3,1,13,32.27,6.7,1,Developing,Independent House,Semi-Furnished,23545053.73
+4583,1,4,19,2.82,6.9,3,Average,Apartment,Semi-Furnished,25777960.69
+2172,5,1,14,14.04,5.6,0,Average,Apartment,Unfurnished,14361862.27
+949,4,3,18,16.72,4.2,0,Average,Villa,Unfurnished,8584609.66
+1977,1,3,35,23.53,4.2,0,Average,Independent House,Unfurnished,10125266.38
+565,3,3,10,36.26,4.1,1,Average,Apartment,Fully-Furnished,5128657.19
+2526,5,3,20,3.0,2.1,3,Good,Apartment,Semi-Furnished,17522636.08
+2266,2,4,42,30.86,1.9,0,Prime,Apartment,Fully-Furnished,12617899.18
+3195,4,1,23,32.12,1.2,3,Good,Apartment,Unfurnished,18994244.31
+1759,3,1,5,36.3,6.1,1,Good,Apartment,Unfurnished,13412553.51
+2633,1,1,41,22.44,1.9,2,Average,Apartment,Unfurnished,9417577.87
+2065,5,1,29,1.88,5.0,3,Average,Apartment,Unfurnished,14116680.47
+1135,3,2,36,9.74,8.9,2,Average,Apartment,Unfurnished,7071786.41
+1012,4,4,16,34.46,7.1,1,Developing,Independent House,Unfurnished,9117467.77
+1290,3,3,20,29.76,2.3,1,Good,Apartment,Unfurnished,7613294.99
+1235,4,4,0,11.8,9.1,2,Good,Apartment,Semi-Furnished,15363212.53
+2557,3,3,4,4.07,9.1,3,Average,Independent House,Semi-Furnished,19905773.79
+4028,3,3,4,26.27,2.1,1,Prime,Apartment,Semi-Furnished,27784159.2
+1621,5,3,9,8.66,7.1,2,Prime,Villa,Semi-Furnished,18443672.21
+4634,4,1,15,38.93,2.0,1,Prime,Villa,Unfurnished,28177395.56
+1812,1,3,11,17.34,1.1,0,Good,Apartment,Semi-Furnished,11277579.15
+1772,4,3,0,37.47,3.9,3,Average,Apartment,Unfurnished,11874692.38
+3495,2,3,44,22.16,5.1,2,Prime,Apartment,Semi-Furnished,20903401.88
+3275,5,1,4,25.19,7.1,0,Good,Apartment,Fully-Furnished,24168350.86
+1679,1,3,0,25.57,2.3,1,Good,Apartment,Fully-Furnished,12664427.78
+3181,1,3,38,16.8,4.1,3,Average,Apartment,Semi-Furnished,16106949.59
+4723,2,2,39,12.94,1.3,2,Prime,Independent House,Semi-Furnished,27940365.11
+2626,5,2,41,25.23,6.0,0,Average,Independent House,Unfurnished,14880528.64
+1640,2,4,12,38.56,8.5,3,Good,Apartment,Fully-Furnished,12416830.74
+2126,1,2,37,35.29,6.2,3,Developing,Independent House,Fully-Furnished,12220107.87
+1451,2,4,8,37.14,1.3,0,Good,Apartment,Unfurnished,7996205.03
+719,3,2,26,33.55,2.0,0,Good,Independent House,Semi-Furnished,6174501.31
+2371,5,4,16,27.48,9.3,1,Average,Independent House,Unfurnished,15999618.54
+3686,1,3,30,9.66,2.0,2,Good,Apartment,Semi-Furnished,20676404.55
+1809,4,2,22,11.47,1.2,3,Good,Apartment,Semi-Furnished,12411875.73
+1309,5,4,14,5.31,4.7,1,Prime,Villa,Unfurnished,14122161.84
+4091,3,4,44,32.59,9.9,1,Good,Villa,Semi-Furnished,25295449.4
+2671,1,4,1,3.29,7.2,2,Prime,Independent House,Unfurnished,22229597.13
+2523,1,3,9,36.6,2.4,2,Good,Villa,Unfurnished,16447364.12
+1014,1,1,39,39.97,8.4,0,Developing,Independent House,Unfurnished,5010296.29
+1474,2,1,2,32.71,7.2,3,Prime,Independent House,Unfurnished,14362514.04
+1579,2,1,11,15.63,2.8,1,Good,Independent House,Semi-Furnished,11268684.36
+3978,5,4,0,11.7,9.8,3,Prime,Apartment,Semi-Furnished,30897084.27
+1250,3,1,14,38.58,6.9,3,Good,Apartment,Semi-Furnished,10496956.04
+2318,3,1,26,28.04,6.1,2,Average,Apartment,Unfurnished,12759265.64
+1998,3,4,1,36.62,2.0,1,Average,Independent House,Unfurnished,14096379.83
+3589,1,1,0,26.57,4.8,1,Good,Apartment,Semi-Furnished,20495102.88
+1163,3,4,14,7.61,3.9,0,Good,Apartment,Unfurnished,8723883.2
+2136,1,1,28,36.18,9.1,2,Good,Apartment,Semi-Furnished,11857778.32
+2314,3,3,12,29.22,10.0,1,Developing,Independent House,Fully-Furnished,16780541.17
+1326,2,4,41,15.91,5.9,1,Developing,Apartment,Fully-Furnished,9272809.98
+3232,1,3,1,25.35,2.6,0,Good,Apartment,Semi-Furnished,18446838.59
+4995,3,3,17,16.59,8.8,3,Developing,Apartment,Semi-Furnished,28744601.87
+2118,1,2,30,3.36,9.9,1,Good,Independent House,Fully-Furnished,17419565.37
+1916,4,3,26,18.72,9.4,0,Prime,Apartment,Semi-Furnished,16704458.22
+3589,2,4,25,16.44,9.6,1,Developing,Villa,Semi-Furnished,23497928.77
+3311,4,2,18,22.43,9.1,3,Good,Villa,Unfurnished,23198956.41
+3718,4,4,25,1.26,8.9,1,Good,Villa,Semi-Furnished,26110814.54
+1599,1,2,39,38.97,4.4,2,Average,Apartment,Fully-Furnished,6233659.85
+4980,3,4,19,2.57,4.1,2,Prime,Apartment,Unfurnished,30816389.02
+482,3,1,29,6.59,4.6,1,Average,Apartment,Unfurnished,3512701.6
+2805,5,4,9,4.23,7.6,3,Average,Villa,Semi-Furnished,23657290.14
+4110,1,2,3,6.74,2.0,1,Average,Villa,Unfurnished,24092233.97
+3423,4,4,7,23.01,9.1,3,Average,Apartment,Semi-Furnished,22569932.09
+3211,4,4,32,27.98,9.1,1,Good,Independent House,Unfurnished,21334294.65
+2641,1,4,29,14.63,5.2,1,Average,Apartment,Semi-Furnished,15212428.2
+457,5,4,12,30.79,4.3,3,Good,Apartment,Unfurnished,7083993.94
+1815,2,3,13,32.25,7.2,2,Average,Villa,Semi-Furnished,13953072.12
+3893,4,2,26,22.27,7.8,3,Average,Villa,Unfurnished,25036741.04
+3602,1,1,15,36.31,7.6,0,Average,Apartment,Unfurnished,18420608.18
+1539,5,3,13,10.74,3.8,2,Average,Apartment,Semi-Furnished,11823864.94
+1360,1,2,0,28.33,3.3,0,Prime,Apartment,Semi-Furnished,12027155.34
+1606,5,3,44,14.87,8.3,0,Prime,Apartment,Semi-Furnished,11610475.69
+1640,1,1,21,37.78,9.0,3,Average,Apartment,Fully-Furnished,11043447.04
+783,5,1,20,21.51,1.6,2,Good,Apartment,Unfurnished,6885439.8
+4524,4,3,32,13.83,4.5,2,Good,Apartment,Semi-Furnished,26382713.47
+2031,3,2,36,34.69,5.4,2,Good,Apartment,Fully-Furnished,11836511.81
+519,2,1,3,12.02,3.8,2,Good,Apartment,Semi-Furnished,8148205.98
+3934,2,2,27,13.67,9.9,0,Average,Apartment,Semi-Furnished,22457330.63
+2827,2,4,40,16.96,8.1,2,Average,Apartment,Unfurnished,14957450.05
+2036,3,4,41,5.0,5.4,3,Good,Apartment,Unfurnished,13055504.2
+617,5,3,29,4.66,7.5,3,Good,Apartment,Semi-Furnished,8159204.99
+3864,1,4,21,22.26,7.0,2,Good,Apartment,Unfurnished,21635860.64
+2766,5,4,14,21.84,2.8,3,Prime,Apartment,Unfurnished,19155267.8
+631,3,3,34,28.29,9.0,0,Average,Apartment,Unfurnished,3068916.53
+1319,2,1,44,27.38,8.5,3,Developing,Apartment,Semi-Furnished,7112074.41
+3102,5,3,5,16.93,9.2,3,Prime,Villa,Semi-Furnished,25959018.4
+4396,2,2,29,14.62,7.9,0,Developing,Apartment,Unfurnished,23498417.18
+4183,2,2,13,28.85,2.3,3,Average,Apartment,Semi-Furnished,23301842.13
+4597,1,3,39,39.62,3.8,1,Developing,Apartment,Unfurnished,18907806.14
+4722,3,4,19,24.3,4.0,2,Good,Apartment,Unfurnished,27550584.51
+3105,1,2,34,14.6,5.6,2,Prime,Apartment,Fully-Furnished,19137890.46
+3873,4,1,22,16.14,5.1,3,Average,Apartment,Unfurnished,20912462.17
+730,4,1,20,36.85,6.9,2,Average,Apartment,Fully-Furnished,5539160.53
+850,2,4,37,15.32,1.6,1,Good,Independent House,Fully-Furnished,7703257.44
+2176,2,1,43,7.63,5.3,2,Average,Apartment,Fully-Furnished,11756836.19
+3163,5,3,43,3.43,4.8,0,Average,Independent House,Unfurnished,20052775.85
+2582,4,4,24,17.92,7.9,0,Good,Apartment,Unfurnished,15290034.38
+2082,1,2,27,35.81,1.4,1,Average,Apartment,Fully-Furnished,10109621.8
+1105,2,1,7,24.43,5.6,2,Average,Independent House,Semi-Furnished,9468811.94
+2283,3,2,3,19.17,6.3,2,Developing,Independent House,Unfurnished,15863062.26
+3626,5,1,39,14.35,1.5,0,Average,Independent House,Unfurnished,20143501.54
+2572,1,3,11,4.17,3.2,3,Prime,Apartment,Semi-Furnished,21129446.04
+4531,5,1,40,1.29,7.9,3,Developing,Apartment,Semi-Furnished,26614588.08
+2423,5,4,1,21.94,3.0,1,Developing,Apartment,Unfurnished,16271256.44
+928,4,1,38,36.7,7.1,1,Average,Apartment,Unfurnished,3497509.88
+4444,1,4,22,35.76,5.3,1,Good,Villa,Unfurnished,25822088.01
+4958,3,1,23,23.54,9.9,1,Good,Apartment,Unfurnished,27653694.06
+2381,3,2,1,25.1,3.0,3,Good,Villa,Fully-Furnished,18200231.48
+2702,5,3,32,21.14,7.5,1,Good,Apartment,Semi-Furnished,19352842.98
+530,3,1,14,33.65,9.9,1,Good,Apartment,Unfurnished,5591173.65
+1856,4,1,34,1.36,6.1,2,Average,Apartment,Unfurnished,12370966.89
+2489,1,3,36,13.32,4.0,3,Average,Apartment,Fully-Furnished,12259162.09
+2881,1,4,33,3.55,7.0,1,Good,Villa,Unfurnished,20717906.18
+3851,5,2,29,28.01,9.2,2,Developing,Villa,Semi-Furnished,22496726.04
+3564,5,3,0,19.58,6.7,0,Average,Apartment,Fully-Furnished,24476108.08
+4019,5,1,16,25.04,5.8,0,Average,Villa,Unfurnished,24299140.49
+4366,4,4,19,21.98,5.1,0,Good,Apartment,Unfurnished,24878067.44
+1936,3,3,5,1.74,8.3,1,Average,Apartment,Semi-Furnished,14727580.37
+2336,5,3,14,12.79,3.1,0,Average,Villa,Unfurnished,15453906.75
+4010,1,1,22,37.91,8.7,1,Average,Apartment,Semi-Furnished,19530676.59
+4545,1,2,33,21.7,1.5,3,Average,Independent House,Semi-Furnished,24338010.91
+711,4,2,43,22.02,7.1,3,Prime,Apartment,Unfurnished,6393234.07
+1179,1,4,36,20.32,4.2,0,Good,Apartment,Semi-Furnished,7948992.06
+2020,5,3,6,4.09,9.0,0,Prime,Independent House,Semi-Furnished,19699942.69
+1141,2,4,20,21.94,2.1,1,Prime,Apartment,Semi-Furnished,10329546.4
+1255,4,1,39,27.18,2.6,2,Average,Apartment,Semi-Furnished,6678981.87
+3647,4,3,41,26.58,6.5,0,Average,Villa,Semi-Furnished,20928407.27
+1315,3,1,7,15.77,5.6,2,Good,Apartment,Semi-Furnished,11837981.79
+3159,1,1,35,29.65,1.7,3,Good,Apartment,Semi-Furnished,16288533.19
+3294,3,3,31,16.73,5.8,3,Average,Apartment,Fully-Furnished,19493843.03
+1619,1,2,11,36.22,5.7,0,Developing,Apartment,Unfurnished,8194097.2
+856,2,1,36,20.08,9.3,2,Good,Apartment,Unfurnished,5259680.71
+532,4,4,22,37.83,3.2,3,Good,Apartment,Unfurnished,5363951.78
+4746,4,2,36,24.18,5.9,2,Good,Independent House,Fully-Furnished,28668603.83
+4861,2,4,31,3.99,2.4,2,Good,Apartment,Fully-Furnished,27348445.45
+2605,2,1,25,6.61,5.1,3,Good,Independent House,Fully-Furnished,19609675.47
+1500,4,1,7,4.5,1.0,1,Average,Villa,Semi-Furnished,12490594.35
+2695,1,1,0,30.5,8.4,3,Good,Apartment,Unfurnished,17429937.24
+4351,3,2,15,38.61,2.9,2,Prime,Apartment,Semi-Furnished,25340929.1
+3175,5,2,18,30.87,8.6,3,Developing,Apartment,Fully-Furnished,21254958.03
+1260,1,3,6,31.3,8.0,3,Average,Apartment,Semi-Furnished,9306757.12
+2710,5,4,43,20.54,5.9,2,Prime,Apartment,Fully-Furnished,19474321.68
+3732,3,3,9,8.42,3.0,2,Average,Apartment,Semi-Furnished,22535456.73
+4841,4,4,35,5.78,9.8,2,Good,Independent House,Unfurnished,29257398.39
+1197,3,4,14,17.99,6.9,2,Average,Apartment,Unfurnished,7720097.25
+1665,3,2,32,9.69,9.2,3,Prime,Apartment,Semi-Furnished,14765057.36
+702,4,1,6,12.14,6.4,3,Developing,Apartment,Semi-Furnished,6497037.98
+4088,5,2,25,23.69,6.5,2,Average,Apartment,Unfurnished,21497320.92
+4350,3,4,9,16.02,2.4,0,Good,Apartment,Fully-Furnished,25957393.74
+2702,4,3,19,14.43,4.1,3,Prime,Villa,Semi-Furnished,22308212.55
+4424,4,3,14,35.84,9.5,0,Good,Apartment,Unfurnished,26468306.82
+824,2,4,42,39.54,5.8,1,Developing,Apartment,Semi-Furnished,3106098.8
+2178,3,4,16,38.87,6.8,0,Developing,Villa,Semi-Furnished,15041628.09
+3511,4,2,35,29.7,5.7,2,Good,Independent House,Unfurnished,21120824.27
+1581,2,3,4,37.97,6.0,0,Average,Independent House,Fully-Furnished,11209547.98
+1652,2,4,23,25.12,6.5,1,Average,Apartment,Semi-Furnished,10655014.08
+1692,4,1,17,36.31,1.9,1,Developing,Independent House,Fully-Furnished,8203239.48
+1235,1,4,14,6.22,6.7,2,Developing,Apartment,Unfurnished,10079448.23
+3495,4,4,38,21.68,5.2,3,Good,Apartment,Semi-Furnished,20588754.82
+2736,4,3,33,38.01,8.7,0,Average,Independent House,Unfurnished,14149948.99
+3350,3,2,1,28.9,2.2,0,Good,Apartment,Semi-Furnished,21497469.2
+4024,2,4,26,14.4,2.7,0,Prime,Apartment,Unfurnished,24273939.62
+2170,2,2,11,26.31,8.9,1,Good,Apartment,Fully-Furnished,15171309.91
+544,4,2,10,31.23,1.4,3,Average,Apartment,Semi-Furnished,3690808.17
+4694,3,4,35,34.43,4.7,0,Developing,Apartment,Semi-Furnished,23098862.26
+4367,4,2,20,20.5,8.8,0,Developing,Apartment,Semi-Furnished,23821814.08
+811,5,1,36,28.1,8.0,3,Average,Apartment,Unfurnished,5589439.62
+2187,5,3,36,21.46,4.4,0,Prime,Apartment,Unfurnished,13111889.56
+873,2,3,44,30.42,5.3,1,Good,Apartment,Unfurnished,4851702.1
+1444,4,1,15,8.63,7.2,3,Good,Apartment,Unfurnished,14417979.27
+4813,5,3,6,8.83,1.1,0,Good,Apartment,Fully-Furnished,29081577.44
+4182,2,1,7,1.38,5.0,3,Good,Apartment,Unfurnished,25560855.06
+2491,3,2,44,35.9,8.7,0,Good,Apartment,Semi-Furnished,13103151.12
+4242,4,4,27,9.74,8.2,0,Good,Apartment,Unfurnished,26102522.33
+710,1,1,38,26.77,7.9,3,Good,Apartment,Semi-Furnished,5351913.51
+2735,2,2,41,34.59,4.1,0,Good,Apartment,Semi-Furnished,13862070.33
+1324,3,2,15,25.65,5.2,0,Good,Apartment,Unfurnished,8496832.14
+1614,1,1,22,6.01,6.5,1,Developing,Apartment,Semi-Furnished,10302483.01
+2789,3,3,3,13.26,8.5,1,Good,Apartment,Semi-Furnished,18816598.16
+3624,5,3,40,17.88,3.8,3,Good,Independent House,Fully-Furnished,22747013.69
+489,1,1,26,25.67,1.6,2,Average,Apartment,Semi-Furnished,900000.0
+4760,3,4,27,8.83,4.8,2,Prime,Apartment,Fully-Furnished,29827857.84
+958,1,3,22,18.15,2.1,3,Prime,Apartment,Semi-Furnished,9816805.53
+4682,4,4,42,39.34,3.0,0,Average,Apartment,Unfurnished,23701396.81
+1370,3,2,20,25.44,1.6,1,Average,Villa,Semi-Furnished,9291057.02
+1495,4,2,6,7.15,2.4,0,Average,Apartment,Fully-Furnished,12312318.96
+2314,1,4,36,23.81,1.9,2,Developing,Apartment,Unfurnished,10436186.76
+3027,5,3,41,17.54,2.7,0,Average,Apartment,Fully-Furnished,16888670.27
+1100,5,2,15,5.85,7.6,1,Good,Apartment,Unfurnished,10060192.64
+4437,5,2,38,9.65,3.2,3,Average,Apartment,Semi-Furnished,24346812.01
+2202,1,4,30,29.39,2.4,0,Average,Apartment,Semi-Furnished,10551906.02
+1794,5,1,41,4.28,8.7,0,Average,Apartment,Semi-Furnished,10859005.95
+4701,1,2,7,39.45,1.4,3,Developing,Apartment,Unfurnished,22869129.81
+4529,5,3,7,38.49,7.2,3,Average,Apartment,Unfurnished,26929856.39
+4088,3,4,26,1.66,4.5,1,Prime,Apartment,Unfurnished,26672167.56
+1664,3,2,20,26.19,2.9,1,Good,Independent House,Unfurnished,9925649.66
+4379,5,1,3,6.77,9.4,2,Prime,Apartment,Fully-Furnished,31009031.87
+1413,1,4,4,27.74,2.0,2,Prime,Independent House,Semi-Furnished,13653099.9
+3604,5,1,43,17.96,1.8,3,Good,Apartment,Unfurnished,18942600.46
+518,5,1,20,7.66,6.9,1,Good,Apartment,Unfurnished,6954316.44
+4148,1,1,23,26.89,7.7,2,Good,Apartment,Unfurnished,22844974.54
+2157,3,4,42,39.22,1.6,1,Average,Apartment,Semi-Furnished,9991612.28
+4472,2,2,11,4.94,4.8,0,Good,Villa,Unfurnished,28986811.57
+3146,2,1,30,12.41,5.1,3,Average,Independent House,Fully-Furnished,18868208.27
+4573,4,4,37,8.21,4.8,3,Developing,Apartment,Fully-Furnished,27754625.82
+1246,2,4,18,11.36,7.9,2,Average,Apartment,Semi-Furnished,10378993.55
+1712,1,3,19,23.33,2.1,3,Average,Villa,Semi-Furnished,13151719.15
+637,3,2,22,38.33,7.4,3,Good,Apartment,Unfurnished,6341786.07
+3685,5,4,26,30.61,4.3,1,Good,Independent House,Unfurnished,22426528.57
+1561,5,4,30,9.16,3.3,3,Average,Apartment,Fully-Furnished,10295658.92
+4982,3,3,35,36.93,8.7,0,Average,Apartment,Fully-Furnished,24762980.27
+3750,1,2,27,10.04,2.3,3,Good,Apartment,Semi-Furnished,20280265.73
+4362,3,1,23,2.92,7.8,0,Developing,Apartment,Semi-Furnished,24669219.93
+1175,3,2,6,10.69,4.2,3,Prime,Independent House,Semi-Furnished,13626689.23
+4310,4,1,7,20.08,3.9,3,Prime,Apartment,Unfurnished,27888431.97
+4065,4,2,22,13.5,8.3,1,Developing,Villa,Unfurnished,26011714.67
+4011,1,3,5,7.39,1.0,3,Average,Villa,Unfurnished,25535531.07
+4498,1,1,44,32.43,8.5,3,Prime,Apartment,Unfurnished,24196562.94
+4275,3,1,37,28.6,2.7,1,Developing,Apartment,Fully-Furnished,21791088.38
+3048,2,2,42,11.65,2.6,1,Average,Villa,Semi-Furnished,16795694.06
+4806,2,3,16,30.56,6.7,1,Average,Independent House,Fully-Furnished,27269601.51
+3926,2,2,26,34.03,7.2,1,Developing,Independent House,Unfurnished,21571903.06
+3754,4,2,44,14.54,7.2,3,Prime,Independent House,Semi-Furnished,24993508.44
+3392,3,1,8,24.49,3.7,2,Good,Independent House,Semi-Furnished,22293195.64
+4110,1,1,35,26.05,8.3,2,Prime,Apartment,Semi-Furnished,23866049.62
+2304,1,2,26,33.43,2.7,2,Prime,Villa,Unfurnished,14956214.36
+2635,1,1,19,4.74,6.0,1,Average,Villa,Semi-Furnished,17459232.89
+2935,3,3,27,15.46,2.6,0,Good,Apartment,Unfurnished,15820857.81
+3348,2,3,22,21.56,8.1,1,Prime,Apartment,Semi-Furnished,21241187.87
+3917,5,2,37,15.99,7.0,3,Prime,Apartment,Semi-Furnished,25980865.31
+2205,5,2,5,14.49,1.1,2,Good,Apartment,Unfurnished,14846536.05
+867,5,3,20,23.98,4.4,2,Average,Independent House,Unfurnished,8058450.95
+4141,4,1,34,34.45,5.7,0,Good,Villa,Unfurnished,24427886.07
+2369,1,4,37,33.76,2.7,3,Good,Villa,Semi-Furnished,12995858.6
+1141,1,2,44,17.87,9.6,2,Good,Apartment,Semi-Furnished,7465321.46
+2403,1,2,11,20.51,7.2,1,Average,Villa,Unfurnished,17786275.0
+2321,4,4,31,36.31,4.8,1,Good,Apartment,Semi-Furnished,12813175.11
+2930,1,4,37,31.66,7.8,1,Prime,Apartment,Unfurnished,17496520.16
+3891,3,3,5,15.75,9.7,0,Good,Apartment,Fully-Furnished,26264616.1
+3849,1,4,14,17.68,4.3,2,Average,Apartment,Fully-Furnished,23055394.44
+4709,5,1,38,7.71,7.6,2,Prime,Independent House,Semi-Furnished,30306437.46
+3477,5,3,21,33.0,5.0,1,Good,Apartment,Unfurnished,22221854.86
+807,2,3,30,1.02,2.7,1,Good,Independent House,Unfurnished,7460688.62
+1890,3,2,3,37.82,8.8,1,Good,Apartment,Semi-Furnished,14189362.22
+2330,5,4,27,28.02,6.3,3,Prime,Apartment,Semi-Furnished,18940845.25
+2608,2,2,1,22.02,4.6,1,Good,Villa,Fully-Furnished,18908463.07
+2381,2,4,25,38.28,1.3,1,Good,Villa,Unfurnished,14723832.17
+4378,4,2,29,29.64,6.9,3,Developing,Apartment,Semi-Furnished,23278144.68
+1143,2,4,39,4.97,1.2,1,Developing,Apartment,Unfurnished,6169099.28
+2281,1,3,37,30.31,3.4,3,Good,Apartment,Unfurnished,11557705.77
+4875,2,2,29,4.29,6.3,1,Average,Apartment,Semi-Furnished,25406166.81
+1184,2,4,40,39.86,5.7,3,Good,Apartment,Semi-Furnished,7099982.52
+460,3,1,6,23.94,7.9,1,Prime,Independent House,Unfurnished,9763411.11
+455,2,4,39,11.15,6.4,0,Good,Independent House,Unfurnished,5607474.26
+4986,3,1,34,2.17,2.7,2,Average,Apartment,Semi-Furnished,27629115.51
+2704,2,3,27,29.39,5.6,2,Good,Apartment,Semi-Furnished,16396271.68
+1747,1,3,41,23.5,2.7,3,Developing,Villa,Unfurnished,9899637.59
+3495,4,1,40,13.86,4.9,1,Average,Apartment,Unfurnished,17490109.05
+3357,2,1,41,31.62,4.7,0,Average,Apartment,Semi-Furnished,14813409.38
+3426,1,2,18,23.88,8.2,3,Average,Apartment,Semi-Furnished,20497125.78
+553,5,1,38,24.71,6.1,2,Prime,Apartment,Unfurnished,5267311.41
+1131,2,2,35,1.97,2.3,3,Good,Apartment,Semi-Furnished,7787628.04
+3142,1,1,19,14.09,2.5,1,Prime,Independent House,Unfurnished,19843545.13
+3257,5,3,39,16.68,4.1,0,Prime,Independent House,Fully-Furnished,21142922.1
+1224,1,1,15,18.66,6.5,0,Good,Apartment,Unfurnished,9190512.73
+3209,1,1,18,26.99,7.8,3,Good,Apartment,Unfurnished,18231958.14
+2242,2,3,24,24.42,7.1,0,Good,Apartment,Fully-Furnished,13601409.72
+984,3,4,20,21.73,6.3,2,Good,Villa,Semi-Furnished,10055774.3
+983,2,1,23,1.2,5.9,0,Prime,Apartment,Semi-Furnished,10229394.19
+4152,1,2,14,28.99,8.8,1,Average,Apartment,Unfurnished,23447549.48
+1072,5,2,5,13.28,7.0,2,Average,Apartment,Unfurnished,10873005.47
+1324,4,3,44,10.03,5.6,3,Good,Apartment,Unfurnished,8959250.42
+3956,2,1,30,22.88,5.9,0,Good,Independent House,Fully-Furnished,23101142.84
+4976,3,4,16,6.81,9.3,1,Good,Villa,Fully-Furnished,32603582.7
+4422,2,2,42,10.57,7.8,1,Good,Apartment,Fully-Furnished,24168231.06
+1759,5,2,22,33.73,1.2,0,Good,Apartment,Semi-Furnished,9354400.7
+1233,2,2,34,35.37,4.1,3,Average,Apartment,Semi-Furnished,5512845.77
+3901,5,1,9,3.68,7.1,3,Good,Apartment,Semi-Furnished,26075748.95
+1895,3,4,39,38.02,4.5,2,Average,Apartment,Unfurnished,8576307.48
+1885,3,1,7,17.2,3.2,2,Average,Apartment,Fully-Furnished,12732203.58
+2707,1,3,26,33.97,6.3,3,Prime,Apartment,Unfurnished,18420864.71
+4393,3,1,11,15.61,8.7,1,Average,Villa,Unfurnished,28832306.16
+1615,4,3,12,11.3,3.1,3,Good,Apartment,Semi-Furnished,13074078.58
+955,2,1,18,33.92,2.5,0,Good,Apartment,Semi-Furnished,5540569.39
+3562,3,4,27,28.37,5.5,3,Prime,Independent House,Semi-Furnished,23873565.52
+2985,1,4,16,34.42,7.5,0,Good,Apartment,Semi-Furnished,17122220.64
+3059,2,4,32,9.84,5.6,2,Good,Apartment,Semi-Furnished,18607830.25
+3638,2,3,19,8.59,1.5,1,Average,Villa,Unfurnished,22715996.59
+1270,3,3,32,39.88,9.9,2,Good,Apartment,Semi-Furnished,8234404.73
+1415,4,4,38,30.2,9.3,0,Average,Apartment,Semi-Furnished,8874927.8
+1142,1,3,44,23.13,1.8,0,Prime,Apartment,Semi-Furnished,6998837.82
+1543,2,4,30,5.59,4.8,3,Good,Independent House,Fully-Furnished,11579596.88
+4910,5,2,12,4.14,5.7,0,Good,Apartment,Semi-Furnished,29337424.11
+4573,4,4,22,35.76,2.2,0,Good,Apartment,Fully-Furnished,25599876.24
+2359,2,4,11,14.37,3.6,1,Average,Apartment,Unfurnished,13886847.67
+1905,5,4,1,37.54,8.6,1,Developing,Apartment,Fully-Furnished,12839763.69
+764,4,4,25,31.85,5.4,3,Developing,Apartment,Semi-Furnished,5616202.48
+3953,1,3,12,22.42,9.8,0,Prime,Apartment,Unfurnished,26075198.63
+3413,1,2,9,36.55,3.6,2,Average,Apartment,Unfurnished,18532578.31
+2481,5,3,3,32.14,7.0,0,Developing,Apartment,Fully-Furnished,17191944.53
+1206,4,2,25,27.05,1.3,3,Good,Apartment,Semi-Furnished,7992459.15
+1233,5,2,21,31.03,4.5,0,Developing,Independent House,Unfurnished,10053298.24
+914,5,2,13,13.22,3.4,3,Good,Independent House,Unfurnished,10904565.91
+1150,3,1,7,23.05,3.9,0,Average,Villa,Fully-Furnished,11356659.0
+3861,5,3,20,9.91,6.6,2,Good,Independent House,Semi-Furnished,25900736.55
+3810,2,3,3,27.88,7.4,0,Average,Apartment,Unfurnished,21994435.53
+4014,3,2,10,12.65,3.7,0,Average,Apartment,Semi-Furnished,23537198.56
+4227,2,2,20,9.79,5.4,3,Good,Apartment,Semi-Furnished,25130575.87
+1368,1,1,26,9.83,7.3,0,Good,Apartment,Semi-Furnished,9081987.02
+4547,5,3,4,35.21,8.7,1,Good,Apartment,Semi-Furnished,28277509.46
+3419,4,4,37,32.64,2.8,2,Good,Apartment,Unfurnished,18232744.29
+4331,4,3,34,12.81,1.8,1,Average,Independent House,Fully-Furnished,23399500.72
+2648,4,1,24,1.54,3.6,3,Good,Apartment,Unfurnished,17666662.38
+1081,5,1,16,8.92,7.7,0,Developing,Apartment,Unfurnished,9031380.89
+4773,4,1,17,17.42,2.1,3,Developing,Apartment,Semi-Furnished,26093443.87
+3931,1,3,16,29.86,8.9,1,Good,Apartment,Unfurnished,22277017.44
+3811,5,1,18,24.69,4.7,2,Average,Villa,Semi-Furnished,23990627.86
+3012,1,3,17,27.14,1.2,2,Average,Apartment,Fully-Furnished,16770423.04
+3799,3,1,39,23.07,2.9,3,Prime,Apartment,Fully-Furnished,23479397.39
+4219,5,4,36,9.72,9.4,1,Average,Apartment,Semi-Furnished,25134942.11
+3712,4,4,40,13.2,6.1,3,Good,Apartment,Unfurnished,22780108.08
+2447,1,3,44,25.97,6.3,0,Prime,Apartment,Semi-Furnished,12125046.22
+4264,1,2,15,2.09,8.0,1,Average,Independent House,Fully-Furnished,26623777.65
+1705,1,2,16,36.78,4.5,1,Good,Independent House,Semi-Furnished,10741246.87
+1252,3,4,32,19.47,7.7,0,Prime,Apartment,Unfurnished,9697207.79
+1500,3,4,10,12.32,7.1,2,Prime,Independent House,Unfurnished,16715728.1
+2614,2,2,4,24.02,5.5,1,Average,Apartment,Semi-Furnished,15656363.11
+1365,2,1,42,19.81,5.4,3,Good,Independent House,Unfurnished,8187912.75
+4886,3,2,34,18.26,9.8,0,Prime,Apartment,Fully-Furnished,30919764.07
+4940,5,3,4,5.21,9.2,2,Prime,Villa,Unfurnished,35176404.01
+1329,1,2,42,17.36,3.5,3,Prime,Villa,Unfurnished,11145767.29
+943,2,2,18,30.43,3.1,0,Average,Apartment,Semi-Furnished,6257029.95
+934,4,4,17,16.52,9.8,0,Average,Apartment,Unfurnished,9408778.83
+4117,2,2,17,20.2,1.7,2,Prime,Apartment,Unfurnished,25156826.59
+583,3,1,26,31.69,3.3,3,Good,Apartment,Fully-Furnished,4707144.48
+2847,2,2,8,15.59,8.6,3,Average,Villa,Unfurnished,20414594.03
+4501,4,4,18,12.15,8.6,3,Prime,Apartment,Unfurnished,29293683.21
+4355,5,3,14,32.66,6.2,1,Average,Apartment,Semi-Furnished,23167185.28
+4141,3,4,11,27.93,8.4,1,Developing,Independent House,Semi-Furnished,25180707.95
+2420,3,1,37,28.29,8.5,0,Good,Apartment,Semi-Furnished,13250940.01
+4961,4,4,9,10.63,8.5,3,Good,Villa,Unfurnished,33087583.99
+2474,2,1,34,2.76,4.4,0,Prime,Independent House,Unfurnished,18092727.74
+2413,4,3,29,14.11,3.9,3,Prime,Villa,Semi-Furnished,22169913.84
+3410,3,1,0,18.11,4.6,1,Good,Apartment,Fully-Furnished,23364746.36
+4803,3,1,16,14.32,6.5,1,Average,Apartment,Fully-Furnished,26199530.1
+1457,2,2,22,36.07,9.5,1,Prime,Apartment,Unfurnished,10268094.4
+3754,1,4,0,34.98,5.9,0,Prime,Apartment,Semi-Furnished,23348162.36
+4035,2,4,16,9.31,8.1,1,Good,Villa,Semi-Furnished,28077938.53
+2248,5,4,34,36.63,4.8,1,Good,Apartment,Unfurnished,13049232.96
+4466,4,2,26,21.39,3.1,0,Average,Apartment,Unfurnished,23610746.45
+4026,3,4,5,1.78,6.5,2,Average,Apartment,Unfurnished,26030051.32
+747,4,3,17,14.38,2.3,2,Prime,Apartment,Semi-Furnished,10194353.55
+2467,1,1,24,13.16,4.0,3,Average,Apartment,Semi-Furnished,13657394.2
+1950,3,3,41,17.66,7.8,3,Good,Apartment,Unfurnished,11701131.22
+2564,5,4,21,24.93,1.2,0,Developing,Apartment,Fully-Furnished,13813105.17
+4157,2,2,1,9.25,2.3,2,Prime,Apartment,Semi-Furnished,28183535.18
+3540,2,3,12,21.06,8.8,2,Good,Villa,Semi-Furnished,26094355.61
+3428,1,2,41,8.23,2.3,3,Prime,Apartment,Unfurnished,19312239.88
+1312,4,1,6,1.56,1.7,2,Good,Villa,Fully-Furnished,15185040.57
+4238,5,3,31,23.11,4.1,0,Good,Independent House,Unfurnished,24604169.78
+1939,3,1,15,9.87,8.0,0,Good,Apartment,Semi-Furnished,14382900.77
+4615,3,4,8,18.21,4.9,1,Good,Apartment,Semi-Furnished,28675209.15
+1776,5,3,5,4.78,8.0,0,Good,Apartment,Semi-Furnished,16765730.91
+738,2,3,5,27.12,8.5,3,Average,Independent House,Semi-Furnished,10236954.93
+1156,5,3,39,2.91,6.4,3,Good,Villa,Unfurnished,11527585.97
+4977,3,4,39,15.67,8.5,2,Developing,Apartment,Fully-Furnished,27723476.16
+2089,4,2,27,2.68,5.0,1,Average,Apartment,Unfurnished,13580834.47
+2484,5,2,17,38.22,1.6,2,Average,Apartment,Semi-Furnished,12780078.86
+4335,1,2,37,1.67,1.1,1,Good,Apartment,Semi-Furnished,23220823.5
+4416,2,3,33,11.46,7.6,3,Prime,Independent House,Unfurnished,28779846.57
+1170,1,4,30,6.51,1.0,3,Prime,Independent House,Fully-Furnished,10863332.63
+2700,2,4,34,34.86,1.1,3,Good,Apartment,Semi-Furnished,13316601.42
+565,5,2,36,4.91,9.3,2,Good,Apartment,Unfurnished,7676007.56
+1076,5,3,28,6.33,8.2,3,Good,Apartment,Semi-Furnished,11474450.7
+4703,5,2,34,19.46,4.2,1,Good,Villa,Fully-Furnished,26997711.97
+4111,2,1,24,28.02,8.3,0,Good,Independent House,Semi-Furnished,23579772.3
+2083,3,3,17,32.28,6.4,1,Average,Independent House,Fully-Furnished,14060837.92
+3542,4,4,35,31.22,4.4,3,Average,Apartment,Unfurnished,18296657.8
+4620,1,1,13,18.24,1.9,0,Good,Apartment,Unfurnished,25952122.28
+2636,5,4,25,25.53,9.9,3,Developing,Independent House,Semi-Furnished,17911735.94
+2110,5,4,44,15.94,5.6,2,Developing,Villa,Semi-Furnished,15715204.2
+4149,1,4,20,29.33,2.4,1,Prime,Apartment,Unfurnished,24308178.46
+3213,5,1,12,37.5,7.2,0,Average,Apartment,Unfurnished,17914606.4
+2158,5,1,20,13.97,6.9,1,Good,Villa,Unfurnished,18379554.81
+906,1,1,10,11.9,1.1,0,Good,Apartment,Unfurnished,7069596.6
+494,3,1,44,31.96,6.2,2,Prime,Independent House,Semi-Furnished,6675953.5
+4192,3,2,32,31.84,5.5,2,Good,Apartment,Unfurnished,22044733.67
+4276,2,2,29,26.82,7.6,3,Good,Apartment,Fully-Furnished,24227536.66
+1499,2,2,37,1.56,4.1,3,Average,Apartment,Unfurnished,8434324.67
+914,5,3,13,6.43,1.9,2,Developing,Villa,Semi-Furnished,9392789.89
+2613,2,1,43,20.18,6.5,1,Average,Apartment,Semi-Furnished,13152694.44
+4625,2,3,23,14.14,3.4,3,Average,Apartment,Fully-Furnished,26547756.51
+2918,4,2,39,25.03,8.6,1,Prime,Independent House,Semi-Furnished,19804416.96
+4992,1,2,2,1.77,5.2,3,Good,Apartment,Unfurnished,29758939.2
+3992,1,1,10,28.79,5.6,0,Average,Apartment,Semi-Furnished,20016120.31
+2459,1,3,28,5.85,8.3,1,Developing,Apartment,Fully-Furnished,14732655.25
+2925,3,1,19,9.04,4.2,1,Average,Apartment,Semi-Furnished,16449349.39
+3714,5,3,15,25.43,1.4,3,Good,Villa,Semi-Furnished,22706860.34
+4608,5,2,21,27.62,6.8,3,Prime,Apartment,Semi-Furnished,29647668.9
+1350,5,4,20,4.79,4.0,2,Good,Apartment,Semi-Furnished,12365254.75
+4074,2,1,41,18.76,5.7,2,Average,Apartment,Semi-Furnished,21505116.64
+1574,4,2,24,15.07,6.9,3,Developing,Villa,Fully-Furnished,14269918.29
+2642,4,2,31,3.34,1.2,2,Prime,Apartment,Fully-Furnished,18358226.83
+2511,4,4,33,31.7,1.2,0,Good,Apartment,Semi-Furnished,12980824.27
+2237,5,3,35,28.77,7.3,3,Prime,Villa,Unfurnished,18082252.14
+2585,4,1,43,31.39,3.4,3,Good,Apartment,Semi-Furnished,14141743.56
+2996,4,4,36,9.55,2.8,3,Average,Apartment,Semi-Furnished,17826156.34
+4719,5,4,15,31.5,7.2,2,Developing,Apartment,Semi-Furnished,27056257.05
+1926,5,2,11,2.74,3.0,0,Average,Apartment,Unfurnished,12619225.72
+2822,3,1,19,24.98,9.2,3,Good,Apartment,Unfurnished,19629943.57
+1017,5,2,34,9.63,1.8,1,Average,Villa,Fully-Furnished,9115616.53
+3722,4,3,13,39.02,7.4,3,Good,Apartment,Semi-Furnished,23511279.74
+2588,5,3,44,7.9,9.4,1,Good,Apartment,Unfurnished,16374382.65
+3955,3,2,10,24.82,2.1,0,Good,Apartment,Unfurnished,22086358.36
+4904,4,4,11,32.19,1.2,2,Developing,Independent House,Semi-Furnished,27612731.95
+4385,4,2,32,9.48,1.5,0,Prime,Apartment,Unfurnished,26436524.38
+1937,3,3,17,27.81,3.8,3,Developing,Independent House,Unfurnished,13774733.27
+2827,4,3,11,39.28,5.3,1,Good,Apartment,Unfurnished,17351432.64
+3820,2,4,24,23.77,4.1,3,Good,Apartment,Semi-Furnished,22080855.16
+712,5,4,25,30.53,2.9,0,Average,Apartment,Fully-Furnished,6147102.81
+3110,5,2,20,19.42,8.0,1,Good,Apartment,Semi-Furnished,19581498.49
+2372,5,4,31,22.62,1.1,0,Average,Independent House,Semi-Furnished,13269583.15
+4099,5,1,28,9.47,7.1,3,Average,Apartment,Unfurnished,24181214.8
+1555,5,4,31,16.82,6.0,1,Prime,Independent House,Unfurnished,15423015.92
+4052,2,3,44,24.5,3.8,1,Average,Apartment,Unfurnished,19555186.52
+4090,1,2,23,24.08,9.2,1,Good,Villa,Semi-Furnished,25313070.89
+4748,5,2,16,6.12,6.1,3,Average,Villa,Fully-Furnished,32991765.75
+3605,1,1,2,20.58,6.7,3,Prime,Independent House,Unfurnished,24977520.63
+1260,5,1,27,38.01,9.2,2,Prime,Apartment,Semi-Furnished,10519839.99
+1915,2,3,31,34.79,2.0,3,Average,Villa,Unfurnished,12972919.21
+2706,1,2,15,38.84,5.5,3,Prime,Apartment,Semi-Furnished,17122483.9
+2240,3,3,43,21.55,5.3,0,Average,Villa,Unfurnished,12652044.72
+3632,4,2,9,1.55,1.4,3,Developing,Apartment,Semi-Furnished,22447005.21
+1775,2,3,33,12.63,5.6,3,Average,Villa,Semi-Furnished,12822005.45
+1682,4,3,2,22.33,5.2,3,Developing,Apartment,Fully-Furnished,13599951.89
+842,2,1,43,21.34,2.3,2,Average,Villa,Semi-Furnished,6290633.57
+4298,2,2,31,5.58,7.4,0,Prime,Apartment,Unfurnished,26960398.43
+1933,2,4,21,27.91,7.5,3,Good,Independent House,Semi-Furnished,15392698.23
+3049,1,4,8,4.94,1.6,3,Developing,Villa,Semi-Furnished,20105440.31
+2131,2,3,31,2.56,2.1,2,Average,Apartment,Unfurnished,12627567.25
+1769,4,3,13,7.14,2.9,0,Prime,Independent House,Unfurnished,16342889.51
+989,5,1,44,20.2,4.0,3,Prime,Apartment,Unfurnished,9429773.5
+4251,4,1,2,16.6,5.5,3,Good,Apartment,Fully-Furnished,27881500.74
+1646,3,4,6,39.65,4.7,3,Good,Independent House,Fully-Furnished,12824419.39
+1295,2,2,34,31.56,8.5,1,Good,Apartment,Fully-Furnished,8093431.94
+3972,4,1,7,3.14,2.3,2,Prime,Apartment,Semi-Furnished,25974014.24
+3486,4,2,43,10.52,6.9,1,Average,Villa,Semi-Furnished,21789161.15
+744,5,4,10,2.64,3.6,1,Developing,Apartment,Semi-Furnished,7717328.52
+1040,2,2,37,10.75,5.2,1,Average,Apartment,Unfurnished,4866602.48
+2397,1,3,39,15.49,7.7,2,Developing,Apartment,Fully-Furnished,13665596.15
+2556,1,4,40,30.25,1.9,1,Average,Apartment,Semi-Furnished,13033352.9
+992,5,3,24,14.32,8.5,3,Good,Apartment,Unfurnished,11073191.01
+3619,1,4,0,19.15,4.1,3,Good,Villa,Semi-Furnished,26355607.83
+3035,4,4,6,33.64,9.7,1,Developing,Villa,Semi-Furnished,21293554.65
+2379,2,1,23,26.31,5.8,2,Developing,Independent House,Fully-Furnished,13535802.93
+1008,4,2,2,32.92,6.7,1,Good,Independent House,Semi-Furnished,13007842.76
+1913,3,2,10,38.58,5.9,1,Good,Apartment,Semi-Furnished,13928633.32
+1649,2,1,5,13.47,6.9,1,Average,Apartment,Unfurnished,11347138.27
+4983,2,1,16,21.21,7.9,1,Average,Apartment,Unfurnished,26686849.17
+4964,1,3,44,2.34,9.5,2,Developing,Apartment,Semi-Furnished,26932553.2
+1636,4,2,26,16.31,2.3,2,Good,Independent House,Unfurnished,11024473.1
+3682,1,4,23,32.66,8.2,0,Developing,Apartment,Semi-Furnished,17551840.62
+4218,4,2,36,30.4,1.3,1,Average,Independent House,Semi-Furnished,21769690.03
+3286,5,4,31,2.46,5.6,3,Prime,Independent House,Semi-Furnished,25698296.29
+4388,4,4,33,4.81,9.0,2,Developing,Apartment,Semi-Furnished,25270729.19
+1186,5,2,5,19.69,3.2,1,Average,Villa,Semi-Furnished,11844797.56
+3531,4,4,44,38.14,3.4,3,Good,Apartment,Unfurnished,18779033.49
+1474,4,3,36,15.31,9.4,0,Good,Apartment,Semi-Furnished,11169151.51
+1052,1,2,2,26.9,10.0,3,Good,Apartment,Semi-Furnished,10980083.15
+4946,2,4,31,14.23,4.0,0,Average,Apartment,Fully-Furnished,25886740.34
+1671,2,1,34,6.46,7.4,2,Good,Apartment,Semi-Furnished,12848735.23
+3550,2,1,38,23.22,9.3,1,Developing,Apartment,Semi-Furnished,18673532.6
+4121,2,1,20,11.93,3.5,1,Good,Apartment,Fully-Furnished,23306756.71
+3711,2,1,16,35.02,2.7,0,Good,Apartment,Unfurnished,19052046.87
+4942,4,3,9,28.22,7.9,2,Prime,Independent House,Unfurnished,32198805.61
+4598,5,3,40,38.12,2.7,2,Good,Apartment,Semi-Furnished,24760397.11
+4622,4,1,8,6.39,8.0,1,Prime,Villa,Fully-Furnished,34553405.33
+2562,1,2,7,13.44,2.3,0,Developing,Independent House,Semi-Furnished,15787633.29
+812,3,4,23,7.23,4.5,1,Average,Apartment,Unfurnished,6587468.29
+2484,5,1,24,37.34,5.1,2,Prime,Apartment,Fully-Furnished,17280187.87
+3308,2,4,36,32.72,6.5,0,Prime,Apartment,Semi-Furnished,18126482.46
+2204,3,3,4,21.62,1.2,1,Good,Apartment,Unfurnished,13260107.71
+2333,5,3,13,28.16,5.1,2,Good,Independent House,Fully-Furnished,16325226.07
+1485,1,1,26,27.86,3.5,1,Developing,Apartment,Unfurnished,6986507.71
+4648,4,1,18,2.9,6.3,2,Average,Villa,Unfurnished,28628177.12
+842,5,1,0,32.94,8.4,0,Average,Apartment,Semi-Furnished,8345269.02
+3887,3,3,27,37.9,8.9,3,Good,Apartment,Fully-Furnished,21824596.21
+1964,1,4,10,17.41,8.2,0,Good,Independent House,Semi-Furnished,15622163.04
+4530,4,4,38,9.46,9.5,2,Average,Apartment,Unfurnished,26292680.5
+2698,3,4,8,23.05,5.7,2,Prime,Independent House,Fully-Furnished,21576425.63
+3967,3,1,6,14.67,6.8,1,Developing,Apartment,Fully-Furnished,23178772.39
+1061,3,3,9,39.86,6.4,3,Developing,Apartment,Unfurnished,6495208.73
+4551,4,1,31,18.44,3.8,3,Average,Apartment,Fully-Furnished,25716407.14
+1741,3,1,22,9.07,1.9,3,Prime,Independent House,Unfurnished,13646717.97
+4836,3,2,40,2.3,3.9,2,Average,Apartment,Unfurnished,25908473.84
+3659,2,1,37,22.38,8.1,2,Prime,Apartment,Semi-Furnished,24455235.36
+2979,4,3,27,36.2,3.2,3,Good,Apartment,Semi-Furnished,16867460.3
+718,2,4,22,23.65,3.6,2,Good,Apartment,Unfurnished,6836444.66
+3366,5,2,30,35.06,5.0,1,Prime,Apartment,Semi-Furnished,20878131.08
+4906,1,4,10,20.43,3.7,0,Good,Independent House,Semi-Furnished,29647589.05
+3458,2,2,37,7.43,3.4,1,Average,Apartment,Semi-Furnished,16240202.26
+2679,1,2,44,36.53,1.7,3,Good,Apartment,Semi-Furnished,13412963.34
+1196,4,1,30,5.95,7.0,1,Good,Apartment,Fully-Furnished,10984194.73
+798,3,3,35,37.32,3.6,1,Average,Apartment,Semi-Furnished,3813430.5
+3589,4,4,22,31.83,1.7,2,Prime,Apartment,Unfurnished,21595137.73
+4309,4,4,42,1.85,3.8,0,Average,Villa,Unfurnished,25865232.86
+2950,4,1,39,28.77,6.2,3,Good,Villa,Unfurnished,18685320.78
+1225,3,1,0,22.19,9.9,2,Good,Independent House,Semi-Furnished,13618707.14
+3350,4,3,24,9.79,9.1,1,Prime,Apartment,Fully-Furnished,24851238.3
+991,4,3,25,6.81,6.7,3,Prime,Apartment,Unfurnished,14300671.97
+3722,2,1,39,20.2,7.9,2,Good,Apartment,Semi-Furnished,20510610.82
+4929,1,2,40,9.42,1.9,0,Average,Apartment,Fully-Furnished,26089114.24
+3953,5,1,36,26.17,5.4,0,Prime,Apartment,Semi-Furnished,24630657.81
+2044,5,1,36,17.33,1.3,0,Good,Apartment,Semi-Furnished,11553058.84
+916,3,3,11,19.03,2.9,2,Average,Villa,Fully-Furnished,9417729.33
+3415,4,3,3,25.02,5.3,2,Good,Apartment,Semi-Furnished,21540708.86
+4387,5,4,39,12.35,6.6,3,Prime,Apartment,Semi-Furnished,29426648.37
+1514,5,2,25,34.83,6.6,2,Developing,Villa,Semi-Furnished,11934173.9
+3008,5,1,11,24.93,1.0,1,Good,Apartment,Fully-Furnished,16644810.9
+2549,4,2,43,14.99,6.6,3,Average,Apartment,Semi-Furnished,14228926.78
+1454,4,2,12,12.44,3.6,2,Prime,Apartment,Unfurnished,13108755.81
+3837,5,1,27,17.34,8.6,3,Prime,Apartment,Unfurnished,23897058.28
+1749,4,2,9,19.45,2.6,3,Good,Independent House,Fully-Furnished,14221460.7
+2903,4,2,16,24.99,8.1,0,Prime,Apartment,Unfurnished,20198518.6
+4861,5,3,20,18.27,4.6,1,Good,Independent House,Unfurnished,27677599.73
+3334,5,3,28,13.36,3.4,0,Good,Apartment,Semi-Furnished,19583353.99
+3340,3,4,10,37.38,7.7,2,Prime,Apartment,Fully-Furnished,22697559.85
+3525,1,3,34,11.18,6.2,2,Average,Independent House,Unfurnished,20510119.35
+3191,2,2,32,22.58,4.2,0,Developing,Independent House,Unfurnished,15437645.01
+1742,1,1,11,32.92,5.0,3,Good,Apartment,Fully-Furnished,12556386.06
+3446,1,2,33,24.12,1.1,2,Developing,Apartment,Fully-Furnished,16055466.94
+3745,5,1,29,5.07,3.1,2,Average,Apartment,Semi-Furnished,21899773.77
+3558,3,3,28,8.97,6.6,2,Average,Independent House,Semi-Furnished,22458719.23
+3368,3,4,44,27.77,9.2,2,Good,Independent House,Unfurnished,20443973.18
+4689,5,2,28,30.63,4.7,2,Good,Independent House,Semi-Furnished,28046040.1
+2877,3,4,34,1.61,5.6,2,Good,Villa,Semi-Furnished,22072756.76
+860,3,1,39,11.97,3.3,3,Developing,Apartment,Semi-Furnished,3754092.18
+3826,4,1,17,36.93,7.9,2,Good,Apartment,Unfurnished,22703246.89
+2114,1,2,40,22.79,2.9,0,Prime,Apartment,Semi-Furnished,12909465.8
+882,5,2,19,11.7,8.0,2,Good,Apartment,Semi-Furnished,9007092.99
+2226,2,1,32,37.0,8.2,1,Average,Independent House,Semi-Furnished,11770400.05
+4764,3,1,41,1.87,1.3,3,Prime,Apartment,Semi-Furnished,27690274.55
+3084,1,2,22,32.99,4.4,3,Average,Villa,Unfurnished,18039335.6
+1487,1,4,24,27.03,1.3,3,Prime,Apartment,Unfurnished,10255762.86
+3907,4,3,1,14.67,2.8,2,Average,Apartment,Semi-Furnished,23673148.79
+3470,5,2,40,32.15,6.4,3,Good,Villa,Fully-Furnished,22698658.99
+1159,2,1,40,17.97,4.5,0,Average,Apartment,Unfurnished,3879673.88
+1225,5,2,19,10.47,5.6,3,Average,Apartment,Unfurnished,10819008.46
+1518,2,2,42,31.02,7.3,1,Good,Apartment,Semi-Furnished,8023289.93
+3895,5,2,43,25.13,9.1,0,Good,Independent House,Fully-Furnished,23858023.55
+4404,5,3,16,15.07,4.1,3,Prime,Apartment,Semi-Furnished,29077683.81
+3825,1,4,27,39.49,6.0,2,Good,Independent House,Unfurnished,20954969.16
+4127,4,1,8,4.68,9.8,3,Average,Apartment,Semi-Furnished,26026050.63
+2674,2,1,16,30.38,8.6,1,Prime,Apartment,Unfurnished,17139748.72
+1303,2,1,39,7.69,4.6,0,Prime,Villa,Semi-Furnished,11382183.72
+4325,4,1,2,38.6,7.2,1,Good,Apartment,Fully-Furnished,25597022.43
+3840,4,2,12,32.95,9.5,0,Average,Apartment,Semi-Furnished,22716473.08
+4144,3,2,22,25.29,9.4,0,Good,Villa,Semi-Furnished,25229625.27
+4580,5,3,20,4.78,5.5,2,Developing,Apartment,Unfurnished,27670159.67
+1910,5,2,27,13.97,9.2,3,Developing,Apartment,Semi-Furnished,13341446.16
+1230,4,1,34,18.62,8.5,3,Average,Apartment,Fully-Furnished,8989875.32
+2586,5,2,43,23.32,6.8,0,Good,Apartment,Semi-Furnished,15736931.33
+3715,3,1,21,3.64,5.6,3,Developing,Independent House,Semi-Furnished,23344034.6
+1055,1,1,12,4.92,7.7,0,Good,Villa,Semi-Furnished,11763499.27
+1938,3,4,10,13.99,7.6,0,Good,Apartment,Unfurnished,14928056.64
+1581,3,2,41,8.56,3.8,3,Developing,Apartment,Fully-Furnished,8998122.27
+2557,1,2,4,18.36,1.1,3,Good,Villa,Semi-Furnished,18660545.45
+4953,4,2,2,5.15,2.4,3,Good,Apartment,Unfurnished,29251692.8
+1956,2,1,31,12.06,4.4,1,Average,Apartment,Unfurnished,8996645.95
+771,4,2,17,35.39,4.6,1,Prime,Apartment,Fully-Furnished,8143726.1
+4936,1,1,8,16.46,3.3,2,Developing,Apartment,Unfurnished,26028747.8
+2474,1,4,7,5.75,3.6,2,Prime,Apartment,Fully-Furnished,19968283.62
+1514,1,3,12,9.38,5.9,2,Developing,Independent House,Semi-Furnished,13108303.12
+1904,3,1,12,8.28,9.4,2,Good,Apartment,Unfurnished,14123817.54
+2834,3,1,19,13.94,4.6,2,Developing,Apartment,Semi-Furnished,15854718.05
+4541,5,4,37,19.15,4.3,0,Developing,Apartment,Unfurnished,22906789.46
+3698,3,2,42,31.78,6.8,3,Average,Apartment,Fully-Furnished,20553065.25
+1515,3,3,36,1.22,1.9,1,Good,Apartment,Unfurnished,8110112.93
+3357,2,2,34,2.24,6.6,3,Average,Villa,Unfurnished,20792417.98
+3608,2,1,33,38.48,9.9,3,Prime,Apartment,Unfurnished,21750732.38
+451,1,2,34,27.06,7.9,0,Prime,Independent House,Semi-Furnished,4255887.87
+1168,2,4,29,12.69,3.0,0,Average,Apartment,Unfurnished,5569484.76
+1350,1,4,12,5.26,8.6,1,Good,Independent House,Fully-Furnished,14427656.47
+1314,2,4,21,16.79,8.5,2,Average,Apartment,Unfurnished,8877066.32
+4462,5,3,42,1.86,2.7,2,Good,Apartment,Unfurnished,25873376.24
+3276,2,3,24,30.12,8.9,0,Good,Independent House,Semi-Furnished,18979251.3
+3886,3,3,43,4.28,5.2,1,Good,Apartment,Fully-Furnished,22138598.33
+4858,5,2,3,13.63,6.9,0,Average,Apartment,Unfurnished,28898274.54
+2730,5,2,6,1.67,10.0,2,Good,Independent House,Unfurnished,22100816.7
+2316,3,2,38,21.62,8.4,3,Good,Villa,Fully-Furnished,18202739.04
+4986,4,3,34,22.46,9.3,1,Prime,Villa,Semi-Furnished,33194921.17
+1265,3,3,25,25.51,1.6,2,Good,Villa,Unfurnished,9383908.69
+4986,4,2,36,7.69,1.8,0,Average,Apartment,Fully-Furnished,26652159.72
+750,1,3,28,16.57,4.8,1,Prime,Apartment,Semi-Furnished,7893039.19
+2917,3,2,1,38.82,7.2,2,Good,Apartment,Unfurnished,18815773.3
+3169,1,2,19,20.69,4.4,2,Developing,Apartment,Fully-Furnished,17062852.49
+2412,2,2,5,1.63,8.9,1,Prime,Independent House,Fully-Furnished,20894777.87
+3661,1,1,3,3.88,4.7,1,Developing,Apartment,Unfurnished,19414024.94
+823,1,1,30,19.41,8.3,3,Good,Apartment,Unfurnished,7369582.71
+1118,1,2,40,17.82,8.5,1,Good,Independent House,Semi-Furnished,8864326.42
+4261,3,1,20,23.58,1.6,3,Prime,Independent House,Unfurnished,27922451.11
+4705,1,4,22,28.24,5.6,1,Good,Apartment,Semi-Furnished,26266962.43
+3152,4,1,4,23.96,6.8,2,Average,Apartment,Fully-Furnished,19678223.67
+4446,5,1,14,3.89,4.4,1,Prime,Apartment,Fully-Furnished,29079904.98
+719,1,3,42,36.27,9.2,2,Prime,Independent House,Semi-Furnished,8110493.12
+4954,5,3,23,34.56,7.2,3,Prime,Apartment,Unfurnished,31092132.26
+4772,5,4,3,37.93,3.8,3,Prime,Apartment,Unfurnished,29537535.09
+1176,1,3,36,32.41,9.5,1,Developing,Independent House,Semi-Furnished,5983924.02
+4469,2,1,39,36.13,5.2,2,Good,Apartment,Unfurnished,21235209.93
+2188,1,1,22,27.04,8.7,3,Average,Independent House,Semi-Furnished,15292461.81
+3431,3,1,16,11.82,5.6,1,Good,Apartment,Semi-Furnished,20894125.65
+2296,5,2,7,1.51,6.0,1,Good,Independent House,Semi-Furnished,18576466.63
+2034,1,4,10,13.75,9.6,2,Average,Apartment,Semi-Furnished,14802345.9
+3001,2,4,42,9.3,6.5,2,Prime,Apartment,Semi-Furnished,19102801.75
+1304,4,3,41,34.46,5.9,2,Developing,Independent House,Unfurnished,9129967.83
+2771,2,4,26,32.41,5.9,0,Average,Apartment,Unfurnished,14680963.35
+915,3,2,42,2.18,6.4,3,Developing,Apartment,Semi-Furnished,7244599.19
+1761,4,2,19,9.93,8.5,3,Good,Apartment,Unfurnished,13429669.16
+4451,1,3,1,6.94,6.0,3,Good,Apartment,Unfurnished,27833754.51
+928,3,1,11,29.85,3.1,3,Prime,Independent House,Fully-Furnished,12310271.88
+2934,5,4,0,21.48,5.1,1,Good,Independent House,Semi-Furnished,20931030.41
+3925,1,3,26,31.49,1.5,0,Average,Independent House,Unfurnished,20312575.66
+2475,3,4,17,39.67,5.7,1,Prime,Apartment,Unfurnished,16533282.58
+3903,4,3,41,18.7,9.6,2,Prime,Villa,Semi-Furnished,26875570.53
+597,1,3,32,37.79,7.2,0,Average,Apartment,Semi-Furnished,3569084.4
+1355,3,4,8,35.41,4.6,0,Average,Apartment,Semi-Furnished,9312612.1
+913,5,4,21,6.45,4.2,0,Good,Apartment,Unfurnished,10682416.26
+2849,5,3,36,19.31,7.5,3,Prime,Apartment,Semi-Furnished,19072021.28
+4022,1,2,16,33.04,3.6,2,Prime,Apartment,Unfurnished,22981260.0
+4199,2,4,2,38.72,7.9,1,Average,Apartment,Semi-Furnished,25143763.44
+3346,2,2,24,33.62,2.3,3,Developing,Independent House,Semi-Furnished,18140699.1
+4866,1,3,23,28.26,3.1,3,Prime,Apartment,Semi-Furnished,28471817.61
+2919,5,2,30,16.7,9.3,3,Average,Independent House,Semi-Furnished,19035610.85
+2042,2,2,38,26.7,9.4,0,Good,Independent House,Semi-Furnished,13273158.23
+2600,5,2,10,35.51,1.8,1,Good,Apartment,Fully-Furnished,17094376.81
+4307,2,4,0,9.19,2.4,3,Good,Apartment,Semi-Furnished,28904832.51
+1163,3,3,41,15.52,5.9,2,Developing,Apartment,Fully-Furnished,6586661.94
+1187,3,1,29,9.53,2.1,1,Developing,Apartment,Unfurnished,5638955.58
+4618,3,4,26,36.5,4.4,2,Average,Villa,Semi-Furnished,27186736.93
+468,5,1,25,38.7,3.1,2,Prime,Apartment,Unfurnished,4852655.42
+1468,3,4,1,8.31,6.4,2,Good,Apartment,Semi-Furnished,15007327.45
+4427,3,4,26,10.58,8.0,0,Good,Apartment,Unfurnished,27013611.4
+4038,3,2,0,24.91,2.7,0,Good,Apartment,Unfurnished,22367040.15
+2012,5,4,35,27.92,1.1,1,Good,Apartment,Fully-Furnished,12038813.25
+1426,2,2,6,18.21,9.6,1,Good,Apartment,Fully-Furnished,13263487.7
+1676,2,1,26,34.14,3.6,1,Good,Independent House,Unfurnished,10498206.68
+1847,4,2,5,27.25,3.2,2,Good,Apartment,Fully-Furnished,13514565.13
+4175,1,3,35,32.11,1.8,3,Prime,Independent House,Fully-Furnished,25910439.06
+4263,1,3,33,11.5,8.7,2,Prime,Apartment,Fully-Furnished,27540043.4
+3708,2,1,17,39.09,3.7,0,Good,Independent House,Unfurnished,21301065.79
+3780,5,1,22,12.56,5.5,2,Good,Apartment,Semi-Furnished,22660036.2
+4707,5,1,44,31.7,2.7,2,Prime,Independent House,Semi-Furnished,27822229.15
+3421,4,2,18,37.85,3.2,3,Average,Apartment,Semi-Furnished,18649807.27
+1894,3,3,34,5.82,5.9,0,Average,Apartment,Semi-Furnished,10316170.84
+3433,1,2,36,33.22,4.5,3,Good,Independent House,Semi-Furnished,19475046.43
+1875,3,4,38,17.85,9.7,0,Good,Apartment,Unfurnished,12784566.22
+4765,1,4,28,20.11,4.3,0,Good,Apartment,Semi-Furnished,23870640.2
+507,4,4,41,5.8,7.4,1,Developing,Apartment,Semi-Furnished,5362936.19
+4084,1,2,20,35.62,1.1,3,Developing,Apartment,Unfurnished,19123169.8
+1787,1,4,39,37.81,1.5,2,Good,Apartment,Fully-Furnished,8258692.99
+4875,2,1,3,16.53,5.5,1,Good,Apartment,Unfurnished,27831485.65
+4694,5,2,36,31.68,3.3,1,Average,Independent House,Semi-Furnished,25177194.74
+859,1,2,39,7.57,3.7,1,Good,Apartment,Fully-Furnished,5695337.74
+4611,1,2,6,10.76,6.6,0,Average,Apartment,Unfurnished,25639439.57
+1419,1,2,31,15.52,4.6,3,Good,Independent House,Fully-Furnished,11460513.05
+2116,1,2,36,31.77,4.0,3,Good,Apartment,Semi-Furnished,11834360.32
+1379,5,3,35,15.44,1.7,0,Average,Apartment,Semi-Furnished,6619772.38
+3156,1,1,13,37.21,9.9,2,Average,Apartment,Unfurnished,17620197.42
+2448,2,1,8,9.91,5.5,3,Average,Independent House,Unfurnished,17730091.35
+4941,5,2,9,2.49,5.0,2,Prime,Independent House,Unfurnished,35255739.49
+3631,1,2,44,32.16,7.8,1,Prime,Apartment,Unfurnished,19304028.23
+4246,5,1,18,33.05,7.9,3,Good,Apartment,Semi-Furnished,25876887.56
+3611,1,2,28,32.77,8.4,1,Good,Apartment,Fully-Furnished,19159831.58
+2987,5,4,6,4.93,9.4,0,Average,Independent House,Semi-Furnished,23829660.3
+1678,2,4,34,27.65,2.4,1,Developing,Apartment,Unfurnished,5732028.52
+4594,5,1,26,3.67,3.8,3,Average,Independent House,Unfurnished,27611698.4
+3891,5,2,8,14.06,5.1,0,Developing,Apartment,Semi-Furnished,23048522.89
+4229,5,2,29,18.5,3.7,0,Developing,Villa,Unfurnished,23877172.63
+4586,3,3,35,38.39,2.1,1,Good,Villa,Fully-Furnished,26914525.94
+3865,3,4,39,1.38,1.8,2,Average,Apartment,Semi-Furnished,19456846.34
+4273,1,2,20,31.39,1.6,2,Developing,Apartment,Unfurnished,20103822.79
+1726,4,2,27,19.31,5.0,1,Good,Apartment,Semi-Furnished,11110980.03
+1252,3,2,25,19.28,9.8,2,Average,Apartment,Semi-Furnished,8947858.79
+3293,2,1,43,15.25,1.8,1,Average,Apartment,Unfurnished,15466962.94
+1059,5,1,8,14.31,8.5,2,Good,Apartment,Fully-Furnished,12383658.21
+2661,3,2,25,4.13,9.9,2,Average,Apartment,Unfurnished,16849935.46
+1526,3,1,43,30.05,6.0,1,Prime,Apartment,Unfurnished,9905347.28
+4119,2,2,40,3.27,6.2,1,Prime,Independent House,Semi-Furnished,26370972.86
+2449,3,3,5,3.97,7.3,0,Average,Apartment,Semi-Furnished,16026542.05
+3064,3,4,39,22.24,1.8,1,Average,Apartment,Fully-Furnished,15548221.64
+3203,3,3,17,24.54,8.8,2,Average,Apartment,Semi-Furnished,19521898.64
+3479,2,3,0,11.54,7.3,2,Average,Independent House,Semi-Furnished,24459192.39
+1483,1,3,41,27.63,5.5,1,Developing,Apartment,Fully-Furnished,7579793.52
+4416,1,4,2,34.16,8.1,2,Good,Apartment,Semi-Furnished,26464230.67
+2776,2,4,33,16.5,1.9,3,Good,Apartment,Unfurnished,17191619.17
+2718,1,2,37,11.1,4.9,2,Average,Apartment,Fully-Furnished,13907101.13
+2777,4,2,36,18.01,5.0,3,Average,Apartment,Unfurnished,15799213.0
+2480,5,1,31,15.55,8.9,2,Average,Apartment,Semi-Furnished,16343318.59
+927,2,3,15,26.57,8.0,2,Good,Apartment,Semi-Furnished,8606275.62
+3172,2,3,38,13.89,4.2,0,Good,Villa,Fully-Furnished,20745917.79
+3733,4,4,0,11.75,9.6,1,Average,Independent House,Fully-Furnished,26316704.67
+4950,1,3,24,36.07,8.3,3,Average,Apartment,Unfurnished,25583673.5
+4549,2,3,42,24.34,3.8,3,Average,Independent House,Unfurnished,24585378.77
+1600,2,4,29,14.82,3.2,1,Average,Independent House,Semi-Furnished,10611967.29
+1177,4,1,2,8.65,1.6,0,Good,Apartment,Fully-Furnished,9966809.12
+4119,5,3,43,17.69,8.5,1,Good,Apartment,Unfurnished,23492642.06
+3216,5,1,21,19.0,2.0,0,Developing,Apartment,Semi-Furnished,18467004.55
+1764,3,2,19,7.81,2.6,1,Good,Apartment,Semi-Furnished,12892416.26
+3186,4,1,36,27.07,3.2,0,Good,Apartment,Unfurnished,17276099.43
+2510,2,2,41,6.62,9.1,1,Average,Apartment,Semi-Furnished,13458197.37
+581,5,4,35,31.01,7.5,1,Average,Apartment,Unfurnished,3367774.03
+2066,1,1,36,8.67,2.4,3,Good,Apartment,Semi-Furnished,11608480.37
+4920,3,2,13,21.47,6.4,0,Average,Apartment,Semi-Furnished,25224386.18
+3304,2,2,24,33.29,7.5,0,Good,Villa,Unfurnished,20889711.84
+1314,3,1,15,10.73,7.9,3,Prime,Apartment,Unfurnished,12557093.04
+3736,5,3,20,33.77,4.8,1,Prime,Independent House,Semi-Furnished,24144595.21
+3381,2,3,27,16.5,5.0,1,Good,Independent House,Semi-Furnished,20686753.23
+4387,5,1,8,11.04,7.1,0,Prime,Independent House,Fully-Furnished,30112731.02
+2142,3,2,42,39.84,7.7,2,Developing,Apartment,Unfurnished,9512240.17
+3559,1,1,28,29.81,3.7,2,Good,Apartment,Unfurnished,18375364.16
+3036,1,3,34,25.84,1.5,2,Average,Apartment,Fully-Furnished,15681160.55
+3234,5,4,28,30.23,1.3,1,Average,Apartment,Unfurnished,16410349.14
+4295,4,1,30,38.74,4.9,0,Good,Independent House,Unfurnished,22045342.39
+4442,4,2,44,10.13,5.5,0,Developing,Apartment,Unfurnished,22914599.46
+4426,3,4,44,27.71,7.3,3,Developing,Apartment,Fully-Furnished,23776751.44
+3924,1,2,18,10.06,8.6,0,Prime,Apartment,Semi-Furnished,23690682.7
+4928,1,1,24,6.86,2.2,0,Average,Apartment,Semi-Furnished,24420657.22
+4201,4,1,31,10.3,2.7,3,Good,Apartment,Semi-Furnished,23320213.21
+4646,4,4,28,7.36,2.0,3,Prime,Apartment,Unfurnished,28512582.81
+1624,2,3,28,27.98,7.2,2,Good,Apartment,Unfurnished,10506524.51
+3903,2,2,27,15.47,6.3,3,Good,Villa,Unfurnished,23528117.32
+481,4,3,31,6.58,2.6,0,Prime,Villa,Unfurnished,10125856.52
+4022,5,1,12,39.53,7.2,1,Average,Apartment,Fully-Furnished,22126813.98
+4613,2,3,44,32.45,8.5,0,Good,Apartment,Semi-Furnished,24282487.71
+3512,2,1,31,23.25,4.7,0,Good,Independent House,Semi-Furnished,21530533.17
+1882,2,1,2,31.23,9.6,0,Developing,Apartment,Semi-Furnished,11195166.31
+3207,4,4,37,4.63,6.4,3,Average,Apartment,Unfurnished,19362203.07
+3030,5,1,18,26.81,4.8,1,Good,Apartment,Unfurnished,19272089.41
+2598,1,2,1,38.35,5.1,0,Average,Villa,Semi-Furnished,16963471.01
+463,1,4,31,9.03,7.1,1,Average,Apartment,Semi-Furnished,5892870.71
+1997,1,2,16,32.08,4.7,0,Average,Apartment,Semi-Furnished,10846611.36
+3162,1,2,8,9.71,8.1,1,Average,Apartment,Semi-Furnished,19939300.7
+1986,2,2,13,27.99,4.7,1,Prime,Apartment,Fully-Furnished,12852688.2
+492,4,1,34,23.53,3.4,0,Average,Apartment,Semi-Furnished,1823497.15
+1016,2,3,10,28.51,3.3,0,Good,Apartment,Unfurnished,6546497.12
+2226,5,2,8,2.34,4.5,3,Average,Villa,Semi-Furnished,18693978.12
+4397,3,2,30,33.56,8.3,2,Developing,Apartment,Semi-Furnished,22206056.1
+4114,5,1,36,10.11,6.3,3,Good,Villa,Unfurnished,26928542.36
+1047,4,3,8,9.49,6.1,0,Prime,Apartment,Fully-Furnished,13729763.19
+1755,1,1,33,5.65,4.2,1,Prime,Apartment,Semi-Furnished,14485553.73
+2026,3,4,44,20.37,8.9,3,Average,Apartment,Unfurnished,12617476.77
+4522,2,1,2,3.88,9.1,3,Good,Apartment,Semi-Furnished,29139571.74
+591,4,4,10,38.07,3.6,1,Good,Villa,Fully-Furnished,10038141.04
+2576,4,1,18,22.5,2.7,2,Average,Villa,Semi-Furnished,17982123.39
+2792,5,3,29,36.05,2.3,3,Developing,Apartment,Semi-Furnished,15112821.09
+4846,4,2,23,8.92,8.1,2,Average,Independent House,Fully-Furnished,30145791.71
+2861,5,4,3,11.55,9.6,2,Good,Villa,Unfurnished,25844740.53
+4021,4,3,15,2.84,4.1,3,Good,Apartment,Semi-Furnished,27842910.24
+3090,1,1,27,27.02,8.1,1,Good,Independent House,Semi-Furnished,18000865.27
+650,1,3,35,29.77,1.6,2,Average,Apartment,Fully-Furnished,2101599.06
+1322,4,4,40,34.93,10.0,0,Average,Apartment,Semi-Furnished,7544998.93
+2213,5,2,9,24.14,8.4,2,Developing,Apartment,Semi-Furnished,15154687.17
+4042,4,1,14,3.46,5.7,2,Average,Apartment,Semi-Furnished,24681736.48
+3706,5,3,18,38.64,5.9,3,Developing,Independent House,Semi-Furnished,21036686.36
+3101,2,1,29,4.29,9.0,0,Prime,Independent House,Unfurnished,21658095.6
+2003,1,2,24,33.78,9.9,0,Prime,Villa,Fully-Furnished,16121400.88
+2606,3,1,31,19.09,3.8,0,Prime,Apartment,Unfurnished,16564707.37
+3431,1,2,7,27.27,6.5,2,Average,Apartment,Semi-Furnished,20961588.47
+3333,3,1,44,20.88,3.9,0,Developing,Independent House,Semi-Furnished,16523146.39
+2650,2,1,30,24.47,3.8,1,Average,Apartment,Unfurnished,11666471.94
+1749,4,4,21,37.7,8.2,3,Good,Apartment,Unfurnished,13676832.84
+3265,5,1,30,30.84,5.3,2,Good,Villa,Semi-Furnished,21056506.54
+1712,2,2,30,10.44,6.0,1,Good,Villa,Fully-Furnished,13604620.53
+1630,1,4,28,22.87,2.8,1,Good,Independent House,Semi-Furnished,10850837.5
+2298,4,2,31,11.26,1.4,2,Average,Apartment,Semi-Furnished,12261556.95
+3870,3,1,34,27.93,6.4,1,Developing,Apartment,Unfurnished,17608399.01
+2512,5,4,9,2.48,4.6,2,Prime,Apartment,Unfurnished,21535166.64
+489,5,2,10,37.09,3.4,1,Average,Independent House,Semi-Furnished,4481844.84
+3352,1,4,1,9.31,7.1,1,Average,Independent House,Semi-Furnished,23088409.86
+2129,1,4,36,6.89,7.5,3,Prime,Apartment,Fully-Furnished,16863974.11
+3547,5,3,30,20.02,7.3,2,Good,Apartment,Unfurnished,21500203.89
+1299,5,3,42,21.25,7.8,2,Good,Apartment,Unfurnished,9243238.81
+2166,5,2,32,26.32,3.6,3,Developing,Apartment,Unfurnished,11437643.77
+1436,5,3,43,17.36,4.0,1,Good,Apartment,Fully-Furnished,8395738.16
+492,4,4,40,23.2,6.5,3,Good,Apartment,Fully-Furnished,6751577.33
+4156,4,3,2,12.87,2.1,0,Average,Apartment,Unfurnished,23287836.42
+3269,5,4,12,18.7,6.1,3,Prime,Villa,Semi-Furnished,25394027.99
+1072,3,4,34,10.9,9.8,1,Average,Apartment,Unfurnished,8383884.81
+3106,5,2,14,10.99,5.9,3,Good,Apartment,Unfurnished,19929793.46
+2337,4,2,17,18.82,5.9,0,Prime,Apartment,Fully-Furnished,18460467.64
+4081,5,3,1,16.43,8.1,3,Developing,Apartment,Unfurnished,27054023.97
+3620,1,3,6,23.59,1.8,3,Good,Independent House,Semi-Furnished,24313810.77
+3991,4,4,41,26.06,1.3,3,Average,Independent House,Semi-Furnished,22119275.64
+3172,1,3,27,20.45,2.9,1,Developing,Independent House,Fully-Furnished,18055732.99
+2237,3,2,23,21.09,7.3,1,Developing,Apartment,Fully-Furnished,12418852.24
+4352,5,3,20,9.03,5.2,1,Prime,Independent House,Semi-Furnished,29825588.99
+2704,5,2,11,37.84,4.2,2,Good,Apartment,Unfurnished,17245188.8
+2127,3,4,22,6.23,5.2,1,Average,Apartment,Fully-Furnished,15090210.9
+1833,3,1,31,9.09,9.8,1,Developing,Apartment,Semi-Furnished,10658345.27
+1808,5,3,19,10.6,1.7,2,Average,Apartment,Unfurnished,12430862.3
+4717,4,1,20,35.17,6.7,2,Good,Independent House,Semi-Furnished,26952347.74
+4604,5,2,4,24.95,4.2,3,Developing,Independent House,Fully-Furnished,28197113.53
+3665,2,3,12,38.19,1.6,1,Developing,Apartment,Fully-Furnished,17439471.93
+4679,3,1,17,32.42,4.5,3,Prime,Villa,Unfurnished,30351588.71
+2961,5,1,39,28.62,2.4,0,Average,Apartment,Unfurnished,14248062.31
+4047,3,1,39,29.54,3.8,2,Average,Apartment,Semi-Furnished,19644226.81
+654,3,3,33,30.97,7.1,1,Good,Apartment,Fully-Furnished,6008106.65
+1407,3,4,10,31.06,7.5,2,Developing,Apartment,Fully-Furnished,9827910.59
+2037,3,3,33,33.6,8.5,2,Average,Apartment,Semi-Furnished,11714120.1
+4565,4,3,24,15.37,3.9,1,Prime,Villa,Unfurnished,29307220.5
+2690,5,3,26,16.96,5.4,3,Good,Independent House,Unfurnished,19387599.63
+1021,1,3,27,31.88,9.4,1,Developing,Apartment,Semi-Furnished,5499840.35
+3793,4,1,29,32.66,4.9,3,Good,Apartment,Semi-Furnished,21297829.24
+4054,3,2,35,37.73,9.9,0,Developing,Independent House,Semi-Furnished,21820603.51
+2948,3,1,0,19.56,6.7,1,Average,Apartment,Unfurnished,18427794.2
+4134,4,2,28,39.61,4.6,1,Good,Apartment,Fully-Furnished,21419898.4
+3960,4,3,21,22.25,3.5,1,Good,Apartment,Semi-Furnished,23161986.87
+4501,2,4,25,39.64,7.2,1,Prime,Independent House,Semi-Furnished,29082280.88
+686,3,4,37,25.36,5.7,3,Developing,Apartment,Fully-Furnished,5763418.51
+2408,1,1,18,8.7,7.7,1,Good,Villa,Unfurnished,18092706.79
+3521,3,1,5,39.92,2.1,0,Prime,Villa,Semi-Furnished,24067829.35
+2131,3,3,34,28.14,2.0,3,Developing,Apartment,Unfurnished,9646893.03
+1017,1,2,19,35.96,5.5,3,Good,Apartment,Fully-Furnished,7025800.78
+2892,5,1,33,29.32,3.9,2,Average,Apartment,Fully-Furnished,17189749.53
+877,2,1,24,18.51,3.4,3,Good,Independent House,Semi-Furnished,6718248.61
+3743,1,2,28,17.22,8.8,3,Developing,Independent House,Fully-Furnished,21709930.2
+1555,4,1,30,30.91,2.4,1,Good,Apartment,Unfurnished,9575877.24
+2135,3,3,26,6.03,6.1,0,Prime,Apartment,Semi-Furnished,18411028.48
+3420,4,4,28,3.71,5.5,2,Average,Independent House,Semi-Furnished,22674822.47
+4015,2,3,14,34.88,6.9,3,Prime,Apartment,Fully-Furnished,25380733.18
+4356,3,1,0,24.4,6.2,3,Good,Independent House,Semi-Furnished,27982085.72
+3615,5,3,40,21.44,5.1,1,Good,Apartment,Semi-Furnished,21098388.76
+867,4,2,29,18.81,2.9,3,Average,Apartment,Unfurnished,5462811.85
+1406,5,2,29,10.28,5.5,1,Developing,Independent House,Unfurnished,9674104.09
+1710,3,2,23,36.08,7.5,0,Average,Apartment,Unfurnished,9365683.56
+2144,5,1,0,14.27,7.0,1,Developing,Villa,Unfurnished,16882624.79
+4357,2,2,18,38.56,2.7,0,Average,Apartment,Semi-Furnished,20333693.68
+1373,2,1,43,3.78,8.0,3,Prime,Apartment,Semi-Furnished,11940365.45
+4234,2,3,24,13.24,8.1,3,Average,Villa,Semi-Furnished,28613913.46
+4572,5,4,20,6.19,10.0,2,Prime,Apartment,Semi-Furnished,32601902.39
+3777,3,4,28,34.77,7.2,2,Good,Independent House,Unfurnished,22469680.77
+1733,1,3,7,37.66,6.8,3,Average,Apartment,Semi-Furnished,11345664.67
+1849,3,3,3,4.17,3.8,2,Good,Apartment,Fully-Furnished,15230595.97
+3131,4,1,35,31.55,7.3,0,Developing,Apartment,Unfurnished,13720064.49
+1341,1,4,24,30.97,3.5,1,Average,Apartment,Unfurnished,6363201.03
+2356,3,1,37,2.67,2.5,0,Average,Apartment,Semi-Furnished,13749418.34
+4474,1,2,7,20.03,2.5,0,Prime,Apartment,Fully-Furnished,27573215.6
+1393,2,3,14,6.6,1.6,0,Good,Apartment,Unfurnished,9769912.36
+4337,5,4,22,3.17,1.7,0,Developing,Apartment,Fully-Furnished,23881847.9
+1867,4,4,11,38.06,4.7,0,Good,Apartment,Fully-Furnished,11350058.08
+891,3,2,2,9.44,5.7,2,Developing,Villa,Unfurnished,11411268.12
+1407,3,1,10,34.4,3.8,3,Average,Apartment,Semi-Furnished,9001541.79
+4035,2,4,25,12.75,9.6,0,Developing,Independent House,Semi-Furnished,24555390.93
+2227,5,3,19,15.24,4.7,2,Good,Villa,Semi-Furnished,18491446.25
+2757,1,1,23,18.26,7.2,1,Prime,Apartment,Unfurnished,17932697.17
+3529,3,3,10,12.39,8.2,2,Average,Independent House,Unfurnished,23383847.38
+3814,3,1,33,8.69,7.8,0,Developing,Apartment,Fully-Furnished,19716192.71
+1830,1,4,13,18.39,1.3,3,Good,Apartment,Fully-Furnished,12557125.52
+1045,4,2,31,13.64,9.9,0,Average,Apartment,Unfurnished,7842897.87
+1735,5,4,22,37.54,1.8,0,Good,Apartment,Unfurnished,9893303.71
+4879,2,1,5,13.09,1.5,2,Average,Independent House,Fully-Furnished,29579878.64
+1377,5,3,20,20.31,5.1,0,Average,Apartment,Unfurnished,8309013.69
+912,4,1,30,16.46,4.0,1,Prime,Apartment,Semi-Furnished,8607605.81
+3513,4,1,27,24.67,6.1,1,Developing,Apartment,Semi-Furnished,17075964.67
+2849,2,3,33,36.52,5.6,3,Average,Apartment,Unfurnished,14537414.91
+3420,3,3,0,24.11,6.9,2,Average,Villa,Semi-Furnished,24344051.16
+3924,4,4,1,32.25,6.5,1,Prime,Independent House,Semi-Furnished,28294910.4
+2016,4,2,23,26.57,9.9,1,Developing,Apartment,Semi-Furnished,13446613.19
+1285,5,1,44,31.22,2.6,1,Good,Apartment,Unfurnished,5340557.0
+2722,3,1,27,9.3,2.6,1,Good,Apartment,Semi-Furnished,15787439.33
+1624,1,2,34,30.44,1.7,2,Average,Independent House,Unfurnished,6685020.69
+2441,1,3,0,4.74,5.4,1,Good,Independent House,Fully-Furnished,19168701.65
+3972,3,2,39,39.88,7.6,0,Developing,Villa,Unfurnished,21159535.76
+4940,2,1,28,31.03,4.7,1,Developing,Apartment,Unfurnished,23830990.65
+3894,5,4,17,1.23,3.8,0,Prime,Apartment,Unfurnished,25091282.27
+4072,1,3,42,30.34,3.0,0,Good,Apartment,Semi-Furnished,20145999.68
+2903,3,4,1,30.14,9.9,3,Good,Apartment,Semi-Furnished,21652903.46
+2356,1,1,38,9.89,1.6,1,Good,Apartment,Semi-Furnished,12497230.98
+1584,3,4,15,19.13,4.2,1,Good,Apartment,Unfurnished,11353755.76
+2191,5,4,19,35.94,3.8,1,Average,Apartment,Unfurnished,12041841.32
