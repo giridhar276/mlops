@@ -1,0 +1,6 @@
+
+name: sample_realtime_mlflow_project
+
+entry_points:
+  main:
+    command: "python train.py"
