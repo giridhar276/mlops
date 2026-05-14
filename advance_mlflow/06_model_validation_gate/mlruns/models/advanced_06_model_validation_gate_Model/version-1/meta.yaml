@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1778745040760
+current_stage: None
+description: null
+last_updated_timestamp: 1778745040760
+name: advanced_06_model_validation_gate_Model
+run_id: a1fdc311828744ac805da3410efe82fd
+run_link: null
+source: file:///Users/giridharsripathi/Documents/training/advance_mlflow/06_model_validation_gate/mlruns/913941964395275709/a1fdc311828744ac805da3410efe82fd/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/giridharsripathi/Documents/training/advance_mlflow/06_model_validation_gate/mlruns/913941964395275709/a1fdc311828744ac805da3410efe82fd/artifacts/model
+user_id: null
+version: 1

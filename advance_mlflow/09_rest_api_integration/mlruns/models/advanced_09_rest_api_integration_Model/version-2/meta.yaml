@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1778746516454
+current_stage: None
+description: null
+last_updated_timestamp: 1778746516454
+name: advanced_09_rest_api_integration_Model
+run_id: 94433ec04af64e10ba9aa39a9424ed97
+run_link: null
+source: file:///Users/giridharsripathi/Documents/training/advance_mlflow/09_rest_api_integration/mlruns/552264210901538081/94433ec04af64e10ba9aa39a9424ed97/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/giridharsripathi/Documents/training/advance_mlflow/09_rest_api_integration/mlruns/552264210901538081/94433ec04af64e10ba9aa39a9424ed97/artifacts/model
+user_id: null
+version: 2

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1778744732929
+current_stage: None
+description: null
+last_updated_timestamp: 1778744732929
+name: advanced_05_mlflow_evaluate_Model
+run_id: 3eac354c7f034c0fbde60cd62e07281a
+run_link: null
+source: file:///Users/giridharsripathi/Documents/training/advance_mlflow/05_mlflow_evaluate/mlruns/375099534778248088/3eac354c7f034c0fbde60cd62e07281a/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/giridharsripathi/Documents/training/advance_mlflow/05_mlflow_evaluate/mlruns/375099534778248088/3eac354c7f034c0fbde60cd62e07281a/artifacts/model
+user_id: null
+version: 1

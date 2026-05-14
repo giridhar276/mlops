@@ -1,0 +1,43 @@
+{
+    "dataframe_split": {
+        "index": [
+            368,
+            232
+        ],
+        "columns": [
+            "age",
+            "gender",
+            "region",
+            "plan_type",
+            "tenure_months",
+            "monthly_charges",
+            "support_tickets",
+            "data_usage_gb",
+            "contract_type"
+        ],
+        "data": [
+            [
+                39,
+                "Female",
+                "East",
+                "Basic",
+                1,
+                2497.61,
+                2,
+                41.78,
+                "One year"
+            ],
+            [
+                57,
+                "Female",
+                "West",
+                "Standard",
+                31,
+                2281.53,
+                1,
+                109.1,
+                "Month-to-month"
+            ]
+        ]
+    }
+}

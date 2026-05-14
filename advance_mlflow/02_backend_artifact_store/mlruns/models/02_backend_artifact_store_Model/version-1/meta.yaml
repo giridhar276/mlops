@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1778744344258
+current_stage: None
+description: null
+last_updated_timestamp: 1778744344258
+name: 02_backend_artifact_store_Model
+run_id: 94c7a1a3993e4f0d971e4711ae4d613e
+run_link: null
+source: file:///Users/giridharsripathi/Documents/training/advance_mlflow/02_backend_artifact_store/mlruns/580184984067769062/94c7a1a3993e4f0d971e4711ae4d613e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/giridharsripathi/Documents/training/advance_mlflow/02_backend_artifact_store/mlruns/580184984067769062/94c7a1a3993e4f0d971e4711ae4d613e/artifacts/model
+user_id: null
+version: 1

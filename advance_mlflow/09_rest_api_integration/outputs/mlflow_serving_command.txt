@@ -1,0 +1,1 @@
+mlflow models serve -m runs:/94433ec04af64e10ba9aa39a9424ed97/model -p 5001 --env-manager local

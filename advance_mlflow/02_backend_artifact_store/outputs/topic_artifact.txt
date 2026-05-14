@@ -1,0 +1,4 @@
+Backend store = metadata such as params, metrics, tags, and runs.
+Artifact store = files such as models, plots, reports, and outputs.
+Backend store URI example: sqlite:///mlflow.db
+Artifact store URI example: ./mlflow_artifacts

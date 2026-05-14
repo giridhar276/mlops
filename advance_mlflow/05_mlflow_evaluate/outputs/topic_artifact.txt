@@ -1,0 +1,1 @@
+mlflow.evaluate can standardize model evaluation after logging a model.

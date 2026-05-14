@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1778744040085
+current_stage: None
+description: null
+last_updated_timestamp: 1778744040085
+name: advanced_01_tracking_server_Model
+run_id: b3d48b4e51ac44a19b7b16da81e2a850
+run_link: null
+source: file:///Users/giridharsripathi/Documents/training/advance_mlflow/01_tracking_server/mlruns/534184005753757048/b3d48b4e51ac44a19b7b16da81e2a850/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/giridharsripathi/Documents/training/advance_mlflow/01_tracking_server/mlruns/534184005753757048/b3d48b4e51ac44a19b7b16da81e2a850/artifacts/model
+user_id: null
+version: 1
