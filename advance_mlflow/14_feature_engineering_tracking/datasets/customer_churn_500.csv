@@ -1,0 +1,501 @@
+customer_id,age,gender,region,plan_type,tenure_months,monthly_charges,support_tickets,data_usage_gb,contract_type,churn
+CUST1140001,28,Female,North,Standard,57,1325.55,3,79.57,One year,0
+CUST1140002,53,Male,South,Basic,70,2644.54,1,187.11,One year,0
+CUST1140003,61,Male,North,Standard,43,1763.1,2,79.62,Month-to-month,0
+CUST1140004,27,Male,North,Standard,10,2796.28,2,164.92,Month-to-month,1
+CUST1140005,24,Female,West,Basic,62,3179.03,3,213.73,Month-to-month,0
+CUST1140006,40,Female,South,Premium,34,1915.05,4,115.19,Month-to-month,1
+CUST1140007,39,Female,North,Standard,20,3132.79,4,159.62,Month-to-month,1
+CUST1140008,52,Female,North,Standard,21,2165.63,6,165.25,One year,0
+CUST1140009,60,Female,South,Enterprise,11,2938.16,1,149.54,Month-to-month,1
+CUST1140010,48,Male,East,Standard,3,833.33,2,220.45,One year,1
+CUST1140011,37,Male,West,Enterprise,12,2762.27,4,115.7,Month-to-month,1
+CUST1140012,50,Female,East,Standard,63,2325.48,4,96.57,Month-to-month,1
+CUST1140013,49,Female,Central,Premium,29,1679.3,1,107.75,Two year,1
+CUST1140014,40,Female,South,Basic,7,1139.93,2,233.06,Two year,1
+CUST1140015,37,Male,Central,Standard,60,3104.02,0,219.7,Two year,0
+CUST1140016,44,Female,South,Premium,68,2999.3,1,60.79,One year,0
+CUST1140017,21,Female,North,Standard,58,1959.86,0,52.11,Month-to-month,1
+CUST1140018,61,Female,Central,Premium,6,2900.56,1,93.87,Month-to-month,1
+CUST1140019,53,Female,Central,Premium,67,4696.62,3,154.78,One year,1
+CUST1140020,25,Male,Central,Basic,72,2339.34,4,134.26,Two year,0
+CUST1140021,37,Female,Central,Premium,37,1828.79,6,105.01,Month-to-month,0
+CUST1140022,28,Male,North,Basic,43,3187.1,3,72.81,Two year,0
+CUST1140023,28,Female,West,Standard,20,3913.27,1,160.66,Month-to-month,1
+CUST1140024,21,Female,Central,Standard,23,1608.12,3,101.2,Month-to-month,0
+CUST1140025,56,Female,West,Basic,10,500.0,2,81.43,Two year,0
+CUST1140026,46,Female,North,Standard,17,2113.87,1,81.23,Two year,0
+CUST1140027,53,Male,Central,Basic,42,2476.16,4,65.8,One year,1
+CUST1140028,28,Female,West,Standard,53,2933.57,5,150.13,Month-to-month,0
+CUST1140029,21,Female,West,Premium,34,2178.56,4,81.03,Month-to-month,0
+CUST1140030,35,Male,West,Enterprise,53,2985.11,3,162.45,Month-to-month,1
+CUST1140031,30,Male,North,Enterprise,3,2026.59,1,77.23,Month-to-month,1
+CUST1140032,65,Female,East,Basic,33,2416.93,0,203.29,One year,0
+CUST1140033,50,Female,East,Premium,11,2803.55,3,114.33,Month-to-month,1
+CUST1140034,58,Female,East,Premium,9,2551.19,4,50.71,One year,0
+CUST1140035,35,Male,Central,Standard,61,3403.4,2,150.36,One year,0
+CUST1140036,24,Female,North,Standard,6,2982.67,3,56.89,One year,1
+CUST1140037,40,Female,North,Basic,18,2917.39,2,51.69,One year,1
+CUST1140038,63,Other,East,Standard,26,1452.18,3,115.51,Two year,1
+CUST1140039,23,Female,West,Standard,40,1523.59,3,136.9,One year,0
+CUST1140040,38,Female,Central,Premium,1,685.91,1,130.15,Month-to-month,0
+CUST1140041,40,Female,Central,Basic,58,1055.82,2,76.21,Month-to-month,0
+CUST1140042,43,Female,North,Standard,51,3975.34,3,132.13,Month-to-month,0
+CUST1140043,48,Male,Central,Basic,13,2139.83,2,58.08,Month-to-month,1
+CUST1140044,58,Male,Central,Standard,30,2349.61,0,78.06,One year,0
+CUST1140045,30,Female,West,Basic,46,2875.18,0,178.99,Month-to-month,0
+CUST1140046,40,Male,Central,Premium,32,3600.13,1,73.66,Two year,0
+CUST1140047,54,Male,West,Basic,57,2826.19,1,91.28,Month-to-month,1
+CUST1140048,27,Male,North,Basic,55,3187.02,1,156.08,Two year,0
+CUST1140049,32,Female,South,Enterprise,14,3250.93,1,70.6,Month-to-month,0
+CUST1140050,30,Female,Central,Premium,19,3623.13,2,77.25,Month-to-month,0
+CUST1140051,34,Other,South,Premium,57,4115.14,4,60.14,One year,0
+CUST1140052,33,Female,Central,Basic,23,1810.21,2,80.87,Two year,0
+CUST1140053,56,Female,Central,Standard,6,3405.11,4,73.34,Two year,1
+CUST1140054,44,Male,Central,Standard,3,4494.71,2,88.95,Month-to-month,1
+CUST1140055,48,Male,North,Standard,31,2009.09,2,98.48,Month-to-month,1
+CUST1140056,21,Male,North,Basic,59,3614.31,0,125.81,Month-to-month,0
+CUST1140057,50,Female,East,Premium,10,2714.07,3,243.6,Month-to-month,0
+CUST1140058,24,Female,South,Premium,58,1368.23,2,95.4,One year,0
+CUST1140059,46,Male,South,Basic,41,3139.43,2,74.26,One year,1
+CUST1140060,56,Male,North,Premium,13,850.1,2,91.22,Month-to-month,1
+CUST1140061,48,Male,West,Premium,52,4213.39,4,93.75,Month-to-month,0
+CUST1140062,65,Female,West,Enterprise,67,2744.13,2,76.77,Month-to-month,0
+CUST1140063,35,Female,Central,Premium,60,3747.88,1,80.53,Month-to-month,0
+CUST1140064,26,Female,East,Basic,58,2412.22,2,124.08,Month-to-month,0
+CUST1140065,29,Female,East,Basic,35,3545.21,3,56.52,Month-to-month,0
+CUST1140066,53,Male,East,Basic,15,2652.09,0,229.05,Month-to-month,0
+CUST1140067,47,Female,West,Standard,34,2423.37,1,110.48,One year,1
+CUST1140068,36,Other,South,Basic,23,3588.38,3,147.86,Month-to-month,0
+CUST1140069,35,Female,South,Premium,28,3583.05,3,62.66,One year,0
+CUST1140070,25,Male,North,Standard,69,1742.35,2,101.79,Month-to-month,0
+CUST1140071,44,Female,South,Standard,24,2553.99,1,78.16,Two year,0
+CUST1140072,42,Female,Central,Enterprise,55,1503.09,2,137.53,Month-to-month,0
+CUST1140073,46,Male,South,Standard,37,2372.14,5,117.38,Month-to-month,1
+CUST1140074,22,Female,South,Standard,62,2503.05,0,96.0,Month-to-month,1
+CUST1140075,46,Female,Central,Basic,42,3056.18,3,44.79,Month-to-month,1
+CUST1140076,55,Male,South,Enterprise,12,2292.72,1,101.98,Two year,0
+CUST1140077,36,Female,Central,Basic,62,1863.7,1,80.89,Month-to-month,0
+CUST1140078,64,Male,North,Standard,1,3790.31,2,100.56,One year,0
+CUST1140079,22,Female,East,Basic,4,1885.9,4,68.56,One year,1
+CUST1140080,22,Female,South,Premium,25,2255.93,0,167.12,Month-to-month,0
+CUST1140081,39,Male,West,Standard,72,1958.39,2,74.6,One year,0
+CUST1140082,21,Male,West,Basic,42,3073.91,4,134.42,Month-to-month,0
+CUST1140083,33,Male,East,Basic,9,1352.28,1,83.72,Month-to-month,1
+CUST1140084,57,Female,North,Enterprise,72,2297.83,1,80.68,One year,0
+CUST1140085,29,Female,Central,Standard,25,2249.52,4,61.46,One year,0
+CUST1140086,22,Female,West,Enterprise,45,3377.51,2,47.62,One year,0
+CUST1140087,24,Male,East,Standard,23,3384.69,2,53.65,Month-to-month,0
+CUST1140088,50,Female,East,Basic,61,3967.6,2,56.29,One year,1
+CUST1140089,25,Male,South,Standard,58,3969.54,2,85.29,Month-to-month,0
+CUST1140090,39,Female,Central,Basic,64,3196.66,2,57.69,One year,0
+CUST1140091,39,Other,North,Basic,56,1595.43,1,90.3,One year,0
+CUST1140092,25,Female,North,Enterprise,33,2532.78,3,82.15,One year,0
+CUST1140093,24,Female,Central,Basic,24,2378.83,0,189.67,One year,0
+CUST1140094,43,Female,West,Premium,35,2643.74,2,44.09,One year,1
+CUST1140095,35,Male,Central,Standard,29,3929.98,1,97.05,Month-to-month,1
+CUST1140096,40,Female,South,Premium,30,1904.53,2,88.66,Month-to-month,0
+CUST1140097,28,Female,Central,Enterprise,66,2173.03,2,82.34,Month-to-month,0
+CUST1140098,38,Male,North,Standard,54,3548.14,3,113.12,Two year,0
+CUST1140099,37,Male,South,Standard,8,1635.64,1,194.28,Month-to-month,1
+CUST1140100,52,Male,East,Basic,69,2951.83,0,52.85,One year,0
+CUST1140101,59,Male,Central,Basic,57,3712.54,3,157.02,Month-to-month,0
+CUST1140102,41,Female,North,Standard,8,2190.98,1,70.1,Two year,0
+CUST1140103,62,Female,South,Premium,66,2332.57,4,99.33,One year,0
+CUST1140104,36,Male,East,Premium,56,3162.36,2,78.78,One year,0
+CUST1140105,28,Male,Central,Basic,55,2676.85,4,188.63,Month-to-month,0
+CUST1140106,34,Female,Central,Standard,8,2848.19,2,123.82,Month-to-month,1
+CUST1140107,25,Male,Central,Standard,34,2691.61,1,44.2,Month-to-month,1
+CUST1140108,31,Female,South,Standard,18,2414.28,0,94.91,One year,0
+CUST1140109,64,Female,Central,Enterprise,47,1030.48,4,142.38,One year,0
+CUST1140110,23,Male,Central,Premium,8,1264.5,2,178.81,Two year,0
+CUST1140111,26,Female,North,Standard,7,2153.8,3,148.97,One year,1
+CUST1140112,42,Female,Central,Basic,6,2581.28,1,170.91,Month-to-month,0
+CUST1140113,61,Female,Central,Basic,68,3864.31,1,75.74,Month-to-month,1
+CUST1140114,63,Male,South,Standard,29,3294.41,2,63.64,Month-to-month,1
+CUST1140115,33,Male,West,Basic,9,1780.09,2,87.8,Month-to-month,1
+CUST1140116,55,Female,West,Standard,41,2732.63,0,144.04,Two year,0
+CUST1140117,65,Female,South,Standard,15,3009.29,2,149.8,Month-to-month,1
+CUST1140118,27,Female,West,Premium,48,2100.61,5,91.3,One year,1
+CUST1140119,57,Female,East,Standard,48,1746.05,3,56.55,Two year,0
+CUST1140120,42,Female,East,Basic,62,2623.89,4,56.13,Month-to-month,0
+CUST1140121,31,Female,West,Standard,36,2636.13,3,150.27,One year,1
+CUST1140122,58,Male,Central,Basic,57,3278.96,0,50.75,One year,0
+CUST1140123,53,Male,North,Premium,2,3040.29,5,47.35,Month-to-month,0
+CUST1140124,22,Female,South,Standard,5,3477.8,2,68.93,One year,1
+CUST1140125,24,Female,North,Standard,28,3540.33,3,68.51,One year,1
+CUST1140126,38,Female,West,Basic,13,3007.85,3,130.92,Two year,0
+CUST1140127,21,Other,Central,Basic,5,1255.62,2,107.02,Month-to-month,1
+CUST1140128,46,Male,South,Standard,18,2922.11,3,117.82,Month-to-month,1
+CUST1140129,56,Female,South,Enterprise,71,3961.45,3,63.3,One year,0
+CUST1140130,26,Female,Central,Basic,61,1608.4,4,85.47,Month-to-month,1
+CUST1140131,33,Male,North,Premium,28,2065.68,1,118.86,One year,0
+CUST1140132,58,Male,South,Premium,42,4884.42,1,99.9,Month-to-month,0
+CUST1140133,54,Female,East,Basic,46,2073.07,2,28.2,Two year,1
+CUST1140134,25,Male,North,Standard,48,1862.25,0,145.86,Month-to-month,0
+CUST1140135,33,Female,North,Standard,24,3225.2,0,55.8,Month-to-month,0
+CUST1140136,47,Male,North,Premium,62,1988.61,3,158.97,One year,1
+CUST1140137,29,Male,West,Premium,16,1254.94,0,240.3,One year,0
+CUST1140138,43,Male,East,Basic,39,2747.9,4,105.32,One year,0
+CUST1140139,40,Female,South,Premium,55,2778.63,2,72.21,Two year,0
+CUST1140140,32,Male,East,Standard,65,1539.52,4,86.33,One year,0
+CUST1140141,22,Female,Central,Standard,22,764.78,3,103.38,Month-to-month,0
+CUST1140142,34,Female,North,Basic,51,3842.76,3,99.24,Two year,1
+CUST1140143,29,Male,West,Standard,38,3106.95,1,61.49,Month-to-month,0
+CUST1140144,27,Male,Central,Premium,46,2886.41,1,137.97,Month-to-month,0
+CUST1140145,61,Female,North,Standard,5,2481.3,1,145.8,One year,1
+CUST1140146,51,Male,North,Standard,35,2080.98,2,93.95,Month-to-month,1
+CUST1140147,54,Female,Central,Standard,23,2431.54,1,58.73,Two year,0
+CUST1140148,54,Female,West,Standard,72,3107.26,4,155.49,Month-to-month,1
+CUST1140149,39,Female,West,Standard,30,3111.72,0,123.1,One year,1
+CUST1140150,60,Female,East,Enterprise,57,1423.72,1,123.88,Month-to-month,0
+CUST1140151,60,Male,South,Premium,1,2873.44,1,151.54,Two year,1
+CUST1140152,27,Female,North,Standard,44,2459.04,3,25.75,Month-to-month,0
+CUST1140153,29,Female,East,Basic,7,2984.29,3,135.57,Month-to-month,1
+CUST1140154,44,Female,East,Basic,58,2643.4,2,196.69,Two year,0
+CUST1140155,45,Female,North,Basic,16,3648.25,1,92.86,Month-to-month,0
+CUST1140156,61,Male,South,Standard,16,2291.03,1,126.76,Month-to-month,0
+CUST1140157,61,Male,East,Basic,29,2803.06,4,130.28,One year,0
+CUST1140158,34,Other,West,Standard,56,1977.76,2,172.58,Month-to-month,0
+CUST1140159,41,Male,West,Premium,11,2701.68,0,143.71,Month-to-month,0
+CUST1140160,42,Male,North,Premium,8,1536.33,2,65.61,One year,0
+CUST1140161,63,Female,East,Standard,4,3176.08,3,100.69,Month-to-month,1
+CUST1140162,53,Female,North,Premium,2,2091.27,3,98.61,Month-to-month,0
+CUST1140163,44,Female,East,Standard,30,2981.79,2,152.9,Month-to-month,1
+CUST1140164,42,Female,West,Basic,69,1786.55,5,131.09,One year,0
+CUST1140165,42,Male,West,Premium,61,3165.66,3,132.52,Month-to-month,0
+CUST1140166,26,Female,Central,Standard,7,3392.87,0,101.13,Month-to-month,1
+CUST1140167,30,Female,Central,Standard,44,1942.13,1,163.48,Month-to-month,0
+CUST1140168,62,Male,North,Basic,7,1856.71,4,59.15,Month-to-month,1
+CUST1140169,25,Male,South,Standard,25,2341.54,4,69.51,Two year,1
+CUST1140170,52,Female,East,Basic,47,2999.84,2,76.47,One year,1
+CUST1140171,23,Male,Central,Basic,45,2101.53,3,143.56,Month-to-month,1
+CUST1140172,63,Other,South,Basic,59,3252.84,0,123.88,Month-to-month,0
+CUST1140173,56,Male,South,Enterprise,8,3503.0,2,47.54,Month-to-month,1
+CUST1140174,62,Female,Central,Premium,63,4164.8,3,64.01,Month-to-month,1
+CUST1140175,36,Female,East,Standard,53,3028.38,7,236.99,One year,0
+CUST1140176,45,Male,East,Premium,67,2362.38,1,131.03,One year,0
+CUST1140177,28,Male,East,Basic,37,2918.62,3,108.69,Month-to-month,0
+CUST1140178,64,Female,West,Standard,11,1964.93,5,122.76,Month-to-month,1
+CUST1140179,40,Female,East,Basic,61,2804.71,2,64.57,One year,1
+CUST1140180,30,Female,West,Basic,23,2222.62,3,88.46,Two year,1
+CUST1140181,50,Male,South,Enterprise,45,3055.19,3,154.46,Month-to-month,1
+CUST1140182,35,Female,West,Standard,9,1903.16,2,103.38,Month-to-month,1
+CUST1140183,22,Male,Central,Enterprise,48,2063.14,2,66.72,Two year,0
+CUST1140184,47,Male,North,Premium,11,2063.97,1,65.21,One year,1
+CUST1140185,59,Male,Central,Premium,8,1956.84,1,76.42,One year,0
+CUST1140186,29,Male,West,Premium,28,3816.56,1,103.01,Month-to-month,1
+CUST1140187,61,Male,West,Premium,61,2237.71,4,69.64,Month-to-month,0
+CUST1140188,24,Female,North,Standard,18,4292.14,1,204.92,Two year,0
+CUST1140189,64,Male,Central,Premium,60,2653.03,2,96.71,One year,0
+CUST1140190,40,Female,South,Standard,61,757.4,4,74.35,Month-to-month,0
+CUST1140191,64,Male,East,Standard,39,1636.47,2,91.09,Month-to-month,0
+CUST1140192,44,Female,East,Standard,55,1961.78,4,80.44,One year,0
+CUST1140193,30,Male,West,Basic,23,3280.52,2,221.39,Month-to-month,1
+CUST1140194,35,Male,South,Standard,41,3988.12,1,129.87,One year,1
+CUST1140195,41,Male,East,Basic,42,3271.48,0,70.67,One year,0
+CUST1140196,27,Female,South,Basic,19,3523.92,3,119.51,Two year,1
+CUST1140197,37,Male,West,Basic,23,2199.04,0,24.74,Month-to-month,1
+CUST1140198,57,Female,Central,Standard,48,1539.07,2,73.42,Two year,0
+CUST1140199,46,Male,East,Basic,62,2161.77,1,127.93,Two year,0
+CUST1140200,49,Female,West,Basic,45,2592.27,1,181.12,Two year,0
+CUST1140201,53,Other,South,Basic,12,3180.87,1,80.28,Month-to-month,1
+CUST1140202,29,Male,West,Basic,38,3647.49,5,96.0,Two year,0
+CUST1140203,58,Female,Central,Basic,1,3224.1,1,55.59,Two year,0
+CUST1140204,53,Male,East,Premium,57,4655.44,2,206.13,One year,1
+CUST1140205,45,Female,West,Basic,29,4120.8,6,75.18,Month-to-month,1
+CUST1140206,32,Female,Central,Standard,43,1377.42,3,157.39,One year,0
+CUST1140207,63,Female,West,Standard,5,1712.8,2,113.64,Two year,1
+CUST1140208,49,Male,East,Basic,53,2919.84,3,147.33,One year,0
+CUST1140209,39,Female,West,Basic,70,3497.71,3,53.17,Two year,1
+CUST1140210,64,Male,West,Enterprise,60,1636.84,3,119.9,One year,0
+CUST1140211,55,Female,East,Standard,53,1744.81,2,114.44,Month-to-month,1
+CUST1140212,63,Female,Central,Standard,8,3774.21,1,46.35,Month-to-month,1
+CUST1140213,35,Female,Central,Basic,41,2005.07,0,119.79,Two year,0
+CUST1140214,24,Female,North,Premium,44,4038.58,1,78.08,Month-to-month,0
+CUST1140215,62,Female,North,Enterprise,6,1924.85,0,95.88,One year,1
+CUST1140216,21,Male,North,Basic,59,3468.5,4,119.97,One year,0
+CUST1140217,56,Female,Central,Premium,32,2615.27,4,113.79,Month-to-month,1
+CUST1140218,60,Female,East,Basic,24,2691.61,2,43.36,One year,1
+CUST1140219,29,Female,North,Basic,54,4860.27,6,91.65,Month-to-month,1
+CUST1140220,28,Female,North,Enterprise,16,500.0,2,105.05,One year,1
+CUST1140221,55,Female,Central,Basic,48,2637.75,4,132.88,One year,1
+CUST1140222,65,Female,Central,Basic,43,1336.28,0,90.38,Month-to-month,0
+CUST1140223,44,Male,Central,Premium,20,2979.3,2,62.47,Month-to-month,0
+CUST1140224,35,Male,North,Premium,17,3537.98,3,89.15,Month-to-month,0
+CUST1140225,39,Male,Central,Standard,30,1773.65,1,104.4,Month-to-month,0
+CUST1140226,28,Male,West,Basic,43,2615.75,1,55.29,Two year,0
+CUST1140227,22,Male,South,Premium,9,3452.8,2,86.88,Month-to-month,1
+CUST1140228,25,Male,East,Standard,21,2917.8,1,131.02,One year,0
+CUST1140229,51,Male,South,Basic,14,2897.25,3,118.19,Two year,0
+CUST1140230,59,Male,South,Enterprise,49,2613.15,1,72.05,Month-to-month,0
+CUST1140231,35,Female,South,Premium,17,2616.38,2,113.07,Month-to-month,1
+CUST1140232,43,Female,East,Premium,11,2632.26,2,121.98,Two year,1
+CUST1140233,64,Male,East,Standard,8,2907.95,4,147.23,One year,1
+CUST1140234,51,Male,South,Standard,37,2408.17,3,192.06,One year,1
+CUST1140235,27,Female,South,Basic,47,1700.82,2,76.79,Month-to-month,1
+CUST1140236,50,Female,South,Premium,49,2817.5,1,71.23,One year,1
+CUST1140237,61,Female,West,Premium,11,2776.0,2,74.29,Month-to-month,1
+CUST1140238,32,Male,North,Enterprise,68,2705.9,1,119.33,Month-to-month,1
+CUST1140239,26,Male,North,Standard,5,3830.93,3,74.32,Month-to-month,1
+CUST1140240,26,Male,Central,Enterprise,4,1661.83,3,127.32,One year,0
+CUST1140241,21,Other,North,Standard,61,2828.14,2,196.55,Two year,0
+CUST1140242,28,Male,East,Basic,44,2511.6,2,88.71,Month-to-month,0
+CUST1140243,34,Female,North,Basic,27,2768.53,1,94.01,Month-to-month,0
+CUST1140244,63,Female,North,Basic,13,2806.22,3,40.57,Month-to-month,0
+CUST1140245,59,Other,South,Basic,5,2751.47,1,87.21,Two year,0
+CUST1140246,57,Female,North,Standard,30,2999.67,2,144.72,One year,0
+CUST1140247,33,Male,West,Premium,60,3738.27,6,51.37,One year,1
+CUST1140248,24,Male,South,Enterprise,8,2366.1,3,121.53,Two year,0
+CUST1140249,55,Female,East,Basic,45,2685.93,1,58.72,One year,1
+CUST1140250,39,Male,East,Standard,40,1608.83,5,81.06,One year,1
+CUST1140251,55,Female,Central,Enterprise,6,2909.23,2,55.37,Two year,0
+CUST1140252,22,Female,East,Basic,50,2083.68,1,73.67,Two year,0
+CUST1140253,22,Female,East,Basic,32,1342.03,2,82.38,One year,1
+CUST1140254,63,Female,East,Standard,33,1671.06,2,117.04,Two year,0
+CUST1140255,57,Male,East,Premium,14,4315.8,1,145.82,Month-to-month,1
+CUST1140256,27,Female,West,Premium,36,3433.17,0,63.05,One year,0
+CUST1140257,45,Male,Central,Standard,54,3313.55,4,64.65,One year,1
+CUST1140258,25,Male,North,Premium,39,3411.04,0,67.81,Two year,0
+CUST1140259,62,Male,North,Standard,57,3629.54,2,99.89,One year,0
+CUST1140260,63,Female,Central,Basic,9,4432.01,1,90.26,One year,0
+CUST1140261,62,Female,South,Basic,60,2654.69,4,96.61,Month-to-month,0
+CUST1140262,35,Male,West,Standard,26,4119.49,5,77.13,Month-to-month,0
+CUST1140263,41,Male,East,Premium,52,3528.4,1,101.74,Two year,0
+CUST1140264,33,Male,East,Standard,35,2199.8,2,86.04,Month-to-month,1
+CUST1140265,49,Female,South,Basic,37,2160.83,1,82.33,Month-to-month,1
+CUST1140266,65,Male,Central,Enterprise,26,2800.53,4,167.84,Month-to-month,0
+CUST1140267,58,Female,North,Standard,49,4468.05,1,120.37,One year,1
+CUST1140268,60,Female,North,Premium,65,1436.25,3,102.43,Two year,0
+CUST1140269,53,Male,Central,Standard,66,3614.79,3,81.87,One year,1
+CUST1140270,30,Female,Central,Premium,30,1876.33,2,156.98,Month-to-month,1
+CUST1140271,50,Female,East,Premium,39,3257.79,0,97.63,Two year,0
+CUST1140272,37,Female,East,Premium,46,1144.49,2,72.43,Two year,1
+CUST1140273,24,Female,North,Basic,31,2655.24,1,54.61,One year,0
+CUST1140274,43,Male,North,Basic,57,2337.45,3,56.3,Month-to-month,1
+CUST1140275,37,Female,West,Premium,52,952.82,4,37.91,Month-to-month,1
+CUST1140276,40,Male,South,Standard,1,2070.39,1,37.89,Month-to-month,1
+CUST1140277,23,Male,West,Standard,30,500.0,2,63.21,Month-to-month,1
+CUST1140278,50,Male,East,Standard,61,3315.68,1,131.01,Month-to-month,1
+CUST1140279,52,Female,East,Standard,58,1571.31,3,91.63,Month-to-month,1
+CUST1140280,43,Male,East,Premium,30,3147.09,7,116.17,Two year,0
+CUST1140281,27,Female,South,Standard,35,2786.77,3,28.8,Month-to-month,1
+CUST1140282,45,Male,South,Premium,59,1382.67,2,90.1,Month-to-month,0
+CUST1140283,46,Male,West,Standard,67,1750.57,1,127.56,Month-to-month,0
+CUST1140284,48,Female,Central,Standard,46,4176.76,4,92.84,Month-to-month,0
+CUST1140285,22,Male,North,Premium,63,3245.24,5,315.98,One year,1
+CUST1140286,56,Male,South,Premium,28,1953.63,3,141.48,Month-to-month,0
+CUST1140287,22,Female,South,Premium,57,1429.0,2,112.11,Month-to-month,1
+CUST1140288,46,Male,South,Standard,61,2509.82,2,17.43,One year,1
+CUST1140289,60,Female,North,Basic,1,2828.44,7,142.68,Two year,0
+CUST1140290,57,Male,Central,Premium,68,3074.88,3,74.22,One year,1
+CUST1140291,27,Male,North,Standard,19,3009.03,2,81.05,One year,0
+CUST1140292,37,Female,North,Standard,42,2823.74,4,91.08,One year,0
+CUST1140293,43,Female,North,Standard,44,2983.57,0,256.87,Month-to-month,0
+CUST1140294,56,Female,West,Premium,14,2641.03,2,57.73,Month-to-month,0
+CUST1140295,57,Female,North,Standard,52,2541.95,0,117.45,Month-to-month,0
+CUST1140296,34,Female,East,Standard,15,2169.42,2,32.46,Month-to-month,1
+CUST1140297,57,Female,South,Enterprise,24,2740.53,1,72.99,One year,0
+CUST1140298,59,Female,West,Standard,6,1922.47,7,85.93,Month-to-month,1
+CUST1140299,39,Female,West,Basic,18,1844.8,3,124.57,Month-to-month,0
+CUST1140300,38,Female,South,Standard,29,2414.27,3,102.38,Two year,0
+CUST1140301,52,Female,West,Standard,63,1922.0,5,102.07,Two year,0
+CUST1140302,21,Male,Central,Premium,30,1368.96,6,88.3,Month-to-month,1
+CUST1140303,63,Male,East,Standard,5,3184.16,3,43.36,Month-to-month,1
+CUST1140304,30,Male,East,Premium,42,2711.85,4,124.46,Month-to-month,1
+CUST1140305,22,Male,South,Premium,44,1416.34,2,149.69,Month-to-month,0
+CUST1140306,43,Female,North,Enterprise,23,2867.29,3,163.01,One year,1
+CUST1140307,45,Male,South,Standard,55,1548.28,1,110.96,Month-to-month,1
+CUST1140308,32,Male,Central,Standard,38,2829.88,3,125.61,Two year,1
+CUST1140309,45,Female,East,Enterprise,55,2617.42,4,68.44,Month-to-month,1
+CUST1140310,56,Female,North,Basic,9,1940.73,2,84.2,One year,1
+CUST1140311,37,Male,South,Basic,5,2612.46,0,58.59,Two year,0
+CUST1140312,41,Female,North,Premium,17,4484.11,0,91.01,Month-to-month,1
+CUST1140313,61,Female,East,Standard,7,2061.5,2,131.41,Month-to-month,0
+CUST1140314,61,Female,Central,Premium,68,1770.84,2,105.01,Month-to-month,0
+CUST1140315,59,Male,South,Premium,11,1700.41,3,72.73,One year,1
+CUST1140316,29,Male,North,Basic,22,2728.98,2,166.37,Month-to-month,0
+CUST1140317,50,Female,East,Basic,62,2429.0,2,174.53,Two year,1
+CUST1140318,42,Female,East,Standard,37,4021.64,1,75.97,One year,0
+CUST1140319,65,Male,North,Enterprise,52,933.48,2,74.67,One year,0
+CUST1140320,42,Male,East,Basic,51,3289.9,4,111.95,One year,0
+CUST1140321,59,Male,North,Standard,71,1778.0,2,24.8,One year,0
+CUST1140322,49,Female,South,Basic,65,3225.1,4,101.68,Month-to-month,1
+CUST1140323,38,Male,North,Premium,57,1456.46,0,55.87,Month-to-month,0
+CUST1140324,51,Male,Central,Basic,64,2419.86,3,55.5,Month-to-month,0
+CUST1140325,31,Female,Central,Enterprise,21,4248.8,0,126.86,Month-to-month,0
+CUST1140326,57,Female,West,Basic,36,1623.71,2,118.2,Two year,0
+CUST1140327,58,Male,South,Standard,26,1775.8,2,71.12,Month-to-month,0
+CUST1140328,30,Female,East,Basic,31,1223.59,3,64.64,One year,1
+CUST1140329,35,Female,West,Premium,35,2507.24,3,102.01,Month-to-month,1
+CUST1140330,32,Female,South,Basic,23,1731.65,3,120.07,Month-to-month,1
+CUST1140331,60,Male,Central,Enterprise,54,1816.13,3,120.75,Two year,0
+CUST1140332,57,Male,North,Standard,42,1615.2,3,70.4,Month-to-month,1
+CUST1140333,38,Male,West,Premium,72,2957.95,2,113.77,Month-to-month,0
+CUST1140334,22,Male,East,Basic,54,3071.97,2,74.71,Month-to-month,0
+CUST1140335,63,Male,North,Enterprise,45,1849.89,1,156.15,Two year,0
+CUST1140336,52,Male,West,Standard,11,3890.08,1,89.18,One year,1
+CUST1140337,22,Female,East,Basic,57,4064.6,1,96.46,Two year,0
+CUST1140338,24,Male,West,Premium,55,2871.19,1,129.68,One year,1
+CUST1140339,57,Male,West,Enterprise,22,2191.72,5,117.84,Month-to-month,1
+CUST1140340,64,Female,South,Enterprise,27,1705.57,2,44.53,Month-to-month,1
+CUST1140341,35,Female,Central,Standard,56,3451.62,3,55.08,Two year,0
+CUST1140342,30,Male,South,Standard,29,2740.28,4,137.01,Month-to-month,1
+CUST1140343,62,Female,North,Basic,61,3127.63,0,93.91,One year,0
+CUST1140344,56,Female,North,Standard,16,4305.33,2,78.32,Month-to-month,1
+CUST1140345,39,Female,East,Basic,25,3114.18,3,174.79,Month-to-month,0
+CUST1140346,41,Other,South,Enterprise,55,1764.32,3,93.21,One year,0
+CUST1140347,27,Male,North,Basic,64,2296.49,0,71.87,One year,1
+CUST1140348,53,Female,Central,Basic,69,2780.34,2,81.56,Month-to-month,0
+CUST1140349,36,Male,Central,Premium,59,3691.74,1,78.18,Month-to-month,0
+CUST1140350,34,Female,South,Enterprise,63,2206.13,2,53.92,Month-to-month,0
+CUST1140351,46,Male,Central,Premium,39,3470.28,4,110.64,One year,0
+CUST1140352,23,Male,West,Enterprise,56,1591.85,1,162.49,Two year,0
+CUST1140353,51,Male,South,Premium,42,1622.83,5,79.99,One year,1
+CUST1140354,29,Female,North,Standard,21,3114.68,0,136.43,One year,0
+CUST1140355,44,Male,South,Basic,43,1995.43,4,111.55,Month-to-month,1
+CUST1140356,32,Other,South,Standard,50,3107.94,1,62.2,Month-to-month,0
+CUST1140357,61,Female,East,Standard,48,3102.25,3,51.33,Month-to-month,0
+CUST1140358,60,Male,East,Basic,50,2679.6,4,85.4,Two year,0
+CUST1140359,31,Male,Central,Enterprise,50,2686.42,4,120.45,Month-to-month,1
+CUST1140360,52,Male,North,Enterprise,43,2548.18,2,176.83,Month-to-month,1
+CUST1140361,64,Male,West,Standard,34,2859.09,1,118.62,One year,1
+CUST1140362,41,Female,West,Standard,70,4153.25,0,104.23,Month-to-month,0
+CUST1140363,56,Male,North,Premium,35,2048.24,2,224.11,Month-to-month,1
+CUST1140364,54,Female,Central,Standard,12,2807.95,2,183.1,Month-to-month,1
+CUST1140365,39,Female,East,Basic,11,1792.06,3,32.5,Two year,1
+CUST1140366,64,Female,North,Standard,35,3092.71,2,163.44,Month-to-month,1
+CUST1140367,65,Female,West,Standard,5,1904.96,3,112.08,Month-to-month,0
+CUST1140368,29,Female,North,Premium,32,4055.28,2,85.37,Month-to-month,0
+CUST1140369,38,Female,West,Basic,2,1526.18,5,82.14,Month-to-month,1
+CUST1140370,35,Male,North,Premium,52,1691.32,2,79.47,One year,0
+CUST1140371,57,Female,Central,Standard,10,3817.1,2,61.56,Month-to-month,1
+CUST1140372,56,Male,South,Basic,7,4466.93,2,80.1,One year,1
+CUST1140373,50,Male,East,Enterprise,25,3073.57,1,89.39,One year,1
+CUST1140374,27,Male,Central,Standard,46,2789.07,1,39.41,Month-to-month,0
+CUST1140375,59,Female,Central,Standard,24,2152.36,1,87.79,Month-to-month,0
+CUST1140376,29,Male,North,Standard,32,880.92,1,148.87,Month-to-month,1
+CUST1140377,63,Male,North,Basic,63,2524.03,2,56.63,One year,0
+CUST1140378,38,Male,West,Standard,61,2412.44,3,97.65,Two year,1
+CUST1140379,39,Female,South,Basic,27,1866.27,4,242.07,Month-to-month,0
+CUST1140380,63,Male,Central,Standard,21,2214.62,3,80.55,Month-to-month,0
+CUST1140381,49,Female,South,Enterprise,19,2922.47,3,56.07,Month-to-month,0
+CUST1140382,46,Female,North,Standard,56,2716.77,3,190.74,One year,0
+CUST1140383,29,Male,North,Standard,59,2480.47,2,176.03,Month-to-month,0
+CUST1140384,47,Male,West,Standard,66,2900.26,6,109.02,Month-to-month,1
+CUST1140385,24,Female,West,Standard,64,1958.0,1,91.27,Two year,1
+CUST1140386,40,Male,East,Standard,9,1622.11,4,98.34,Two year,1
+CUST1140387,56,Female,East,Enterprise,68,1675.66,2,104.53,Two year,0
+CUST1140388,36,Male,East,Premium,6,3063.33,2,150.48,One year,1
+CUST1140389,35,Female,East,Enterprise,23,2324.95,2,63.69,One year,0
+CUST1140390,21,Other,West,Premium,72,1909.92,1,100.77,One year,0
+CUST1140391,57,Female,South,Premium,70,2017.16,3,131.26,One year,0
+CUST1140392,55,Female,Central,Basic,71,1698.08,1,149.01,Month-to-month,0
+CUST1140393,23,Male,North,Standard,41,3137.38,1,93.15,Month-to-month,0
+CUST1140394,33,Female,East,Standard,64,1976.04,1,118.01,One year,0
+CUST1140395,47,Male,West,Premium,67,1520.33,1,146.18,One year,0
+CUST1140396,23,Female,South,Standard,46,1652.29,1,203.1,Month-to-month,1
+CUST1140397,53,Male,South,Basic,42,2930.77,4,181.03,Month-to-month,0
+CUST1140398,31,Male,South,Enterprise,39,2245.98,3,73.47,One year,0
+CUST1140399,33,Male,North,Standard,61,3323.67,2,94.79,Month-to-month,0
+CUST1140400,64,Male,South,Standard,44,2488.59,1,37.8,Month-to-month,1
+CUST1140401,60,Male,West,Basic,28,2516.97,4,131.26,One year,1
+CUST1140402,49,Male,North,Premium,33,3287.99,3,106.0,Month-to-month,0
+CUST1140403,27,Male,North,Premium,66,2123.7,1,78.06,Two year,0
+CUST1140404,59,Male,South,Basic,62,2569.65,0,105.38,Month-to-month,1
+CUST1140405,30,Male,East,Basic,13,2167.21,0,173.67,Month-to-month,1
+CUST1140406,59,Female,South,Basic,5,4161.77,0,115.96,Two year,0
+CUST1140407,61,Male,South,Premium,30,1624.64,4,91.46,Month-to-month,0
+CUST1140408,58,Female,Central,Standard,3,3304.3,1,130.87,Month-to-month,0
+CUST1140409,39,Female,East,Basic,45,2825.64,2,202.85,Two year,1
+CUST1140410,61,Male,Central,Basic,68,3119.79,3,197.43,One year,1
+CUST1140411,21,Male,North,Enterprise,59,500.0,3,69.12,Month-to-month,0
+CUST1140412,23,Female,South,Basic,57,3635.55,3,74.45,Month-to-month,0
+CUST1140413,45,Female,North,Basic,7,2448.34,1,120.11,Month-to-month,1
+CUST1140414,35,Female,East,Enterprise,34,2818.69,3,219.99,Two year,0
+CUST1140415,45,Male,East,Standard,27,1978.18,0,105.1,Two year,0
+CUST1140416,28,Female,West,Basic,11,2095.29,5,73.62,One year,0
+CUST1140417,34,Female,West,Standard,41,3019.5,1,59.72,One year,0
+CUST1140418,39,Female,South,Premium,8,3215.88,5,175.91,Two year,1
+CUST1140419,49,Male,North,Standard,2,1891.07,1,143.22,Month-to-month,0
+CUST1140420,43,Female,South,Standard,6,3935.62,1,124.38,Two year,0
+CUST1140421,22,Female,Central,Basic,49,1059.13,1,48.91,Month-to-month,0
+CUST1140422,34,Female,East,Basic,14,3079.56,2,91.48,Month-to-month,1
+CUST1140423,47,Female,West,Standard,50,1343.11,1,100.89,One year,1
+CUST1140424,53,Female,South,Premium,52,500.0,1,60.96,Month-to-month,0
+CUST1140425,54,Female,North,Standard,47,1918.9,1,117.91,Two year,0
+CUST1140426,26,Female,West,Standard,37,2041.64,2,157.03,One year,0
+CUST1140427,54,Female,East,Premium,72,3152.05,0,107.83,One year,0
+CUST1140428,24,Female,South,Premium,66,3436.49,2,324.36,One year,0
+CUST1140429,47,Male,Central,Standard,35,2514.52,3,105.3,Month-to-month,1
+CUST1140430,62,Male,South,Standard,53,1675.32,3,99.17,One year,0
+CUST1140431,30,Female,North,Standard,60,2195.15,0,97.28,Month-to-month,0
+CUST1140432,49,Male,Central,Standard,15,2002.04,6,177.29,One year,1
+CUST1140433,61,Male,West,Premium,13,3639.15,1,176.53,Month-to-month,1
+CUST1140434,45,Female,South,Premium,63,3967.24,6,80.91,Two year,0
+CUST1140435,34,Female,North,Premium,35,2874.93,4,131.5,Month-to-month,0
+CUST1140436,59,Male,West,Standard,34,3600.41,3,97.08,Month-to-month,0
+CUST1140437,40,Female,East,Standard,15,1846.37,2,70.78,Month-to-month,1
+CUST1140438,41,Male,North,Premium,41,1801.45,4,129.27,One year,0
+CUST1140439,53,Female,East,Standard,68,1860.68,3,133.04,Month-to-month,0
+CUST1140440,53,Female,South,Premium,63,2863.17,3,150.9,Month-to-month,0
+CUST1140441,39,Female,East,Standard,32,3155.79,1,169.78,One year,0
+CUST1140442,30,Female,North,Enterprise,49,2451.28,1,73.56,One year,0
+CUST1140443,62,Other,East,Standard,20,2306.04,3,216.68,Two year,1
+CUST1140444,24,Female,South,Basic,13,2744.84,3,125.08,Month-to-month,1
+CUST1140445,45,Female,North,Premium,71,1742.25,1,79.32,Two year,0
+CUST1140446,46,Female,East,Premium,20,1859.09,2,83.93,Month-to-month,1
+CUST1140447,32,Male,East,Basic,70,4468.2,4,91.44,One year,1
+CUST1140448,37,Male,West,Basic,29,1868.3,1,86.32,One year,0
+CUST1140449,58,Male,North,Basic,29,2987.73,3,98.89,Month-to-month,0
+CUST1140450,39,Male,East,Standard,51,2235.72,3,111.15,Month-to-month,1
+CUST1140451,27,Male,South,Standard,51,3053.35,5,108.36,Two year,0
+CUST1140452,61,Female,South,Basic,48,4272.52,1,111.43,Month-to-month,1
+CUST1140453,64,Female,North,Standard,20,3453.37,4,137.48,Month-to-month,1
+CUST1140454,55,Female,East,Enterprise,10,2990.23,1,121.93,One year,0
+CUST1140455,27,Female,East,Standard,10,2793.04,1,157.15,Two year,0
+CUST1140456,59,Male,South,Basic,48,3754.69,5,138.33,Month-to-month,0
+CUST1140457,57,Male,South,Premium,17,2672.32,2,108.33,One year,0
+CUST1140458,34,Female,West,Enterprise,51,2597.33,2,205.4,One year,0
+CUST1140459,43,Male,West,Premium,62,1896.13,1,68.74,One year,0
+CUST1140460,27,Female,North,Premium,55,4576.27,4,138.76,Month-to-month,1
+CUST1140461,46,Male,East,Standard,24,2648.17,0,77.37,Month-to-month,0
+CUST1140462,40,Female,West,Premium,23,4143.81,1,88.14,Two year,0
+CUST1140463,41,Female,Central,Basic,20,2165.86,3,75.12,Month-to-month,1
+CUST1140464,65,Female,Central,Premium,65,2801.74,1,115.4,Month-to-month,0
+CUST1140465,47,Female,West,Standard,38,3996.72,2,87.59,Month-to-month,1
+CUST1140466,44,Male,East,Enterprise,65,1913.38,2,132.23,Month-to-month,1
+CUST1140467,35,Female,Central,Premium,6,1456.24,2,82.13,One year,1
+CUST1140468,49,Male,East,Premium,71,2819.79,2,140.93,Month-to-month,0
+CUST1140469,47,Male,North,Standard,52,4556.8,0,48.28,Month-to-month,1
+CUST1140470,61,Male,North,Standard,34,2160.31,2,76.21,One year,0
+CUST1140471,27,Male,Central,Basic,30,3047.52,3,105.63,Month-to-month,0
+CUST1140472,48,Male,South,Premium,33,1479.05,6,116.27,Month-to-month,1
+CUST1140473,35,Male,Central,Premium,58,3366.95,1,153.42,Month-to-month,0
+CUST1140474,45,Male,East,Standard,48,2580.02,4,105.04,Month-to-month,1
+CUST1140475,46,Male,West,Basic,6,3058.66,0,85.05,One year,0
+CUST1140476,24,Female,South,Basic,42,1865.39,3,37.35,Month-to-month,1
+CUST1140477,43,Female,South,Standard,25,2256.58,2,133.51,Two year,0
+CUST1140478,26,Female,East,Basic,41,3453.87,2,185.41,Two year,0
+CUST1140479,64,Male,Central,Basic,6,2809.49,4,119.55,One year,1
+CUST1140480,35,Female,South,Premium,34,3119.04,0,92.99,Two year,0
+CUST1140481,38,Female,West,Standard,14,4982.35,1,148.38,Month-to-month,0
+CUST1140482,49,Female,Central,Basic,58,1971.64,1,184.36,Month-to-month,0
+CUST1140483,31,Male,North,Standard,68,2793.13,2,158.78,Month-to-month,0
+CUST1140484,25,Female,Central,Basic,50,2660.2,5,103.64,Month-to-month,0
+CUST1140485,40,Male,South,Premium,41,1949.45,3,72.16,Month-to-month,1
+CUST1140486,60,Male,East,Basic,9,2925.82,2,110.49,Two year,0
+CUST1140487,45,Male,East,Premium,43,1993.25,2,120.8,Month-to-month,0
+CUST1140488,26,Female,North,Basic,14,1744.91,2,91.14,One year,0
+CUST1140489,34,Female,East,Standard,40,5238.61,1,144.74,Month-to-month,1
+CUST1140490,63,Female,Central,Standard,69,2871.49,3,112.44,One year,0
+CUST1140491,36,Other,East,Standard,56,2858.85,0,72.74,One year,1
+CUST1140492,24,Male,North,Basic,57,2781.56,2,104.57,Month-to-month,1
+CUST1140493,39,Female,West,Basic,43,2303.17,1,77.65,One year,0
+CUST1140494,45,Male,Central,Premium,8,3672.76,1,91.63,Two year,0
+CUST1140495,29,Male,West,Basic,46,1790.21,3,92.25,Month-to-month,0
+CUST1140496,58,Male,North,Basic,24,3413.89,1,103.11,One year,0
+CUST1140497,55,Male,South,Enterprise,66,855.95,5,89.16,Month-to-month,0
+CUST1140498,33,Male,Central,Standard,8,1948.51,4,105.92,Month-to-month,0
+CUST1140499,39,Female,Central,Premium,33,2698.34,0,110.09,Month-to-month,1
+CUST1140500,38,Female,Central,Premium,1,2572.41,2,129.26,One year,0
